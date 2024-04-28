@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Maks: <amount>
 TID_CONTINUE,Fortsett
 TID_CONTRIBUTE,Bidra
 TID_CONTRIBUTED,<name> donert
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0>x juveler\n• <booster1>x treningsdrikk: Øker effektiviteten til brakker, formelfabrikker, verkstedet og regenerering av helter i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan bare kjøpes 1 gang i løpet av vist tidsperiode!\n\nFå litt hjelp med dette utrolige engangstilbudet!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems>x juveler\n• <booster1>x treningsdrikk: Øker effektiviteten til brakker, formelfabrikker, verkstedet og regenerering av helter i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan bare kjøpes 1 gang i løpet av vist tidsperiode!\n\nFå litt hjelp med dette utrolige engangstilbudet!"
 TID_COOLDOWN,Ventetid:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Merke kopiert til enhetens utklippstavle!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Kopiert til enhetens utklippstavle!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"Den gjeldende landsbyen er knyttet til en annen G
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Den gjeldende landsbyen er knyttet til en annen Google-konto enn den du er logget inn på.\n\nLogg ut av Google-kontoen fra innstillingsskjermen, og logg på igjen med kontoen som er knyttet til denne landsbyen.\n\nDeretter kan du prøve på nytt."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Du er logget på feil konto
 TID_DEVICE_LINKED_MAIL_ITEM,En ny enhet ble knyttet til landsbyen din.
-TID_DIAMOND_BUNDLE_BH3,Byggerens hall 3-pakke
-TID_DIAMOND_BUNDLE_BH3_ALT,Byggepakke for nybegynnere
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> Juveler\n• <res0> Eliksir\n• Knuser på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH4,Byggerens hall 4-pakke
-TID_DIAMOND_BUNDLE_BH4_ALT,Byggepakke for læregutter
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> Juveler\n• <res0> Eliksir\n• Vaktpost på nivå 1\n• Luftbombe på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH5,Byggerens hall 5-pakke
-TID_DIAMOND_BUNDLE_BH5_ALT,Byggepakke for erfarne
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> Juveler\n• <res0> Eliksir\n• Multimorter på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH6,Byggerens hall 6-pakke
-TID_DIAMOND_BUNDLE_BH6_ALT,Byggepakke for eksperter
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> Juveler\n• <res0> Eliksir\n• Griller på nivå 1\n• Knuser på nivå 1\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH7,Byggerens hall 7-pakke
-TID_DIAMOND_BUNDLE_BH7_ALT,Byggepakke for mestre
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n• Gigantkanon på nivå 4\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH8,Byggerens hall 8-pakke
-TID_DIAMOND_BUNDLE_BH8_ALT,Byggepakke for stormestere
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n• Megatesla på nivå 4\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_BH9_ALT,Byggepakke for vinnere
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Bombetårnpakke
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> Juveler\n• <res0> Gull\n• Bombetårn på nivå 2\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Byggepakke
-TID_DIAMOND_BUNDLE_BUILDER,Byggepakke
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Byggerens heltepakke
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Pakke for Byggerens base
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Byggerens forskningspakke
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Denne byggepakken inneholder <gems> juveler og en gratis bygger!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> Juveler\n• <res0> Mørk eliksir\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Pakke med mørk forskning
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> Juveler\n• <res0> Eliksir\n• <res1> Mørk eliksir\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Eliksir-heltepakke
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> Juveler\n• <res0> Eliksir\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> Juveler\n• <res0> Gull\n• <res1> Mørk eliksir\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Juveler\n• <res0> Gull\n• <res1> Eliksir\n• <res2> Mørk eliksir\n\nOvergår lagringskapasiteten!\n\nTidenes <cffec78>beste</c> engangstilbud - slå til nå!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> Juveler\n• <res0> Gull\n• <res1> Eliksir\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> Juveler\n• <res0> Gull\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_HERO,Helt
-TID_DIAMOND_BUNDLE_HERO_INFO,Helt
-TID_DIAMOND_BUNDLE_HERO_PACK,Heltepakke
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> byggerens gull\n• <booster1>x byggerens drikk\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere byggerens hall og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> byggerens gull\n• <booster1>x byggebok\n•<booster2>x byggerens drikk\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere byggerens hall og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> byggerens gull\n• <booster1>x byggebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere byggerens hall og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> byggerens eliksirer\n• <booster1>x stridsbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere troppene i Byggerens base!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> byggerens eliksirer\n• <booster1>x heltebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere kampmaskinene dine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> gull\n• <booster1>x byggerens drikk\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere rådhuset og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Pakke med byggebøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Pakke med magiske bøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,"• <gems> juveler\n• <booster1> heltebøker\n• <booster2>x byggebok\n• Ingen lagringsbegrensninger\n\nEr byggerne dine opptatte? For mange ressurser å bruke, men ikke nok tid? Skaff deg pakken med magiske bøker for å fullføre én helte- og en bygningsoppgradering øyeblikkelig!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,"• <gems> juveler\n• <booster1> heltebøker\n• <booster2>x byggebok\n• Ingen lagringsbegrensninger!\n\nEr byggerne dine opptatte? For mange ressurser å bruke, men ikke nok tid? Skaff deg pakken med magiske bøker for å fullføre én helte- og en bygningsoppgradering øyeblikkelig!\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> juveler\n• <booster1>x byggebok\n• Ingen lagringsbegrensninger!\n\nFullfør enhver bygningsoppgradering umiddelbart med en byggebok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> gull\n• <booster1>x byggebok\n•<booster2>x byggerens drikk\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere rådhuset og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> gull\n• <booster1>x byggebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere rådhuset og forsvaret ditt!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Pakke med byggebøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x byggebok\n• <res0> gull\n• <res1> eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør enhver bygningsoppgradering umiddelbart med en byggebok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Pakke med bøker med alt
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> juveler\n• <booster1>x bok med alt\n• Ingen lagringsbegrensninger!\n\nFullfør ENHVER oppgradering umiddelbart med en utrolig bok med alt!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Pakke med bøker med alt
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x bok med alt\n• <res0> gull\n• <res1> eliksirer\n• <res2> mørke eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør ENHVER oppgradering umiddelbart med en utrolig bok med alt!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> mørke eliksirer\n• <booster1>x stridsbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere de mørke troppene dine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> eliksirer\n• <booster1>x stridsbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere troppene dine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> mørke eliksirer\n• <booster1>x stridsbok\n• <booster2>x formelbok\n•Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere de mørke troppene og formlene dine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> eliksirer\n• <booster1>x stridsbok\n•<booster2>x formelbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere troppene og formlene dine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Pakke med heltebøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> juveler\n• <booster1>x heltebok\n• Ingen lagringsbegrensninger!\n\nFullfør enhver helteoppgradering umiddelbart med en heltebok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Pakke med heltebøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x heltebok\n• <res0> mørke eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør enhver helteoppgradering umiddelbart med en heltebok!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x heltebok\n• <res0> mørke eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør enhver helteoppgradering umiddelbart med en heltebok!\n\ nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Kongelig oppgraderingspakke
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> juveler\n• <res0> mørke eliksirer\n• <booster1>x heltebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere barbarkongen eller bueskytterdronningen!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> mørke eliksirer\n• <booster1>x heltebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere barbarkongen og bueskytterdronningen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> eliksirer\n• <booster1>x heltebok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere storvokteren din!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Pakke med ressursdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> juveler\n• <booster1>x ressursdrikk\n• Ingen lagringsbegrensninger!\n\nGi ressursinnsamlerne dine en kraftig vitamininnsprøytning!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Haug med ressursdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x ressursdrikk\n• Ingen lagringsbegrensninger!\n\nGi ressursinnsamlerne dine en kraftig vitamininnsprøytning!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Pakke med formelbøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> juveler\n• <booster1>x formelbok\n• Ingen lagringsbegrensninger!\n\nFullfør formeloppgraderinger umiddelbart med en formelbok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Pakke med formelbøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x formelbok\n• <res0> eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør formeloppgraderinger umiddelbart med en formelbok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Pakke med formeloppgraderinger
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> juveler\n• <res0> eliksirer\n• <booster1>x formelbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere formlene dine!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Pakke med kraftdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,"• <gems> juveler\n• <booster1>x kraftdrikk\n• Ingen lagringsbegrensninger!\n\nFå mest mulig ut av troppene dine, og prøv de nye armésammensetningene!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Haug med kraftdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,"• <booster1>x kraftdrikk\n• Ingen lagringsbegrensninger!\n\nFå mest mulig ut av troppene dine, og prøv de nye armésammensetningene!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Pakke med treningsdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> juveler\n• <booster1>x treningsdrikk\n• Ingen lagringsbegrensninger!\n\nForsterk troppetreningen, formelbryggingen og regenereringen av helter!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Haug med treningsdrikker
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x treningsdrikk\n• Ingen lagringsbegrensninger!\n\nForsterk troppetreningen, formelbryggingen og regenereringen av helter!\n\nIkke gå glipp av tilbudet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Pakke med stridsbøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> juveler\n• <booster1>x stridsbok\n• Ingen lagringsbegrensninger!\n\nFullfør enhver troppeoppgradering umiddelbart med en stridsbok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Pakke med stridsbøker
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x stridsbok\n• <res0> eliksirer\n• Ingen lagringsbegrensninger!\n\nFullfør enhver troppeoppgradering umiddelbart med en stridsbok!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Pakke med troppeoppgraderinger
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> juveler\n• <res0> eliksirer\n• <booster1>x stridsbok\n• Ingen lagringsbegrensninger!\n\nAlt du trenger for å oppgradere troppene dine!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Pakke med bygningsoppgraderinger
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> juveler\n• <res0> gull\n<res1> eliksirer\n• <booster1>x byggebok\n• Ingen lagringsbegrensninger!\n\nTrenger du å oppgradere en bygning? Denne pakken har alt du trenger!\n\nIkke gå glipp av tilbudet!
-TID_DIAMOND_BUNDLE_RED,(Heltepakke)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Juveler\n• Statue av stor helt\n• Tidsbegrenset (RED)-skall for barbarkongen\n\n100 % av inntektene går til (RED)s kamp mot AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Forskningspakke
-TID_DIAMOND_BUNDLE_TH10,Rådhus 10-pakke
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x byggebok\n• <booster2>x heltebok\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> juveler\n• <res0> gull\n• Infernotårn på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Infernotårn på nivå 1\n• <booster1>x heltebok\n• <res0> mørk eliksir\n• <booster2>x byggerens drikk\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Infernotårn på nivå 1\n• X-bue på nivå 2\n• <res0> mørk eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH11,Rådhus 11-pakke
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x byggebok\n• <booster2>x heltebok\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> Juveler\n• Storvokter\n\n• Ørneartilleri på nivå 1\n\nIngen byggetid!\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Ørneartilleri på nivå 1\n• Storvokter\n• <booster1>x heltebok\n<res0> eliksir\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Ørneartilleri på nivå 1\n• Storvokter\n• <res0> mørk eliksir\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!"
-TID_DIAMOND_BUNDLE_TH12,Rådhus 12-pakke
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Verksted på nivå 1\n• <res0> mørk eliksir\n• <res1> gull\n\nIngen byggetid, ingen lagringsbegrensninger! Med verkstedet kan du begynne byggingen av beleiringsmaskiner med det samme!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH13,Rådhus 13-pakke
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Kongelig mester på nivå 3\n• <res0> mørk eliksir\n\nIngen byggetid, ingen lagrings\nbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH14,Rådhus 14-pakke
-TID_DIAMOND_BUNDLE_TH15,Rådhus 15-pakke
-TID_DIAMOND_BUNDLE_TH3,Rådhus 3-pakke
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> juveler\n• <res0> gull\n• <res1> eliksir\n• <booster1>x byggerens drikk\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH4,Rådhus 4-pakke
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> gull\n• <res1> eliksir\n• <gems> juveler\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> juveler\n• <res0> gull\n• Luftforsvar på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> gull\n• <res1> eliksir\n• <booster1>x byggerens drikk\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Luftforsvar på nivå 2\n• <res0> gull\n• <res1> eliksir\n• <gems> juveler\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH5,Rådhus 5-pakke
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> juveler\n• <res0> gull\n• Trollmannstårn på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x byggebok\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Trollmannstårn på nivå 2\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH6,Rådhus 6-pakke
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> gull\n• <res1> eliksir\n• <gems> juveler\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> juveler\n• <res0> gull\n• Luftblåser på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x byggebok\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Trollmannstårn på nivå 3\n• Morter på nivå 4\n• <res0> gull\n• <res1> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH7,Rådhus 7-pakke
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> juveler\n• Barbarkonge\n• Skjult tesla på nivå 2\n\nIngen byggetid!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Barbarkonge\n• <booster1>x heltebok\n• <res0> mørk eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Teslatårn på nivå 2\n• Barbarkonge\n• <res0> mørk eliksir\n• <res1> gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH8,Rådhus 8-pakke
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> juveler\n• <res0> gull\n• Bombetårn på nivå 1\n\nIngen byggetid, ingen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x stridsbok\n• <booster2>x formelbok\n• <res0> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Bombetårn på nivå 2\n• Trollmannstårn på nivå 5\n• <res0> mørk eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH9,Rådhus 9-pakke
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> juveler\n• Bueskytterdronning\n\n• X-bue på nivå 1\n\nIngen byggetid!\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Bueskytterdronning\n• <booster1>x heltebok\n• <res0> mørk eliksir\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>x høyere verdi</c>!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• X-bue på nivå 2\n• Bueskytterdronning\n• <res0> mørk eliksir\n• <res1> gull\n\nIngen lagringsbegrensninger!\n\nIkke gå glipp av dette engangstilbudet med <cffec78><value>X</c> høyere verdi!
 TID_DIAMOND_FOUND,Du fant en juvel i <name>!
 TID_DIAMOND_GIFT_RECEIVED,Det var <number> juveler i klangaven du fikk!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Høvding, juvelgruven din er full av juveler!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Samle mashup-medaljer og bytt dem inn i enda fle
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Velkommen til mashup-galskapen!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Gryten vil forvandle et av eliksirlagrene dine til sur eliksir om <time>
 TID_HALLOWEEN_TOKENS_LEFT,Mashup-medaljer igjen: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> gull\n• <booster1>x byggerens drikk\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes fem ganger!\n\nFå mest mulig ut av oppgraderingenes årstid med Hammer Jam-tilbudet!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x murring\n• <booster2>x rune av mørk eliksir\n• <booster3>x byggerens drikk\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes ti ganger!\n\nKom i gang med oppgraderingene med denne utrolige oppgraderingspakken!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x murring\n• <booster2>x rune av eliksir\n• <booster3>x rune av gull\n• <booster4>x rune av mørk eliksir\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes fire ganger!\n\nKom i gang med oppgraderingene med denne utrolige oppgraderingspakken!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x murring\n• <booster2>x rune av eliksir\n• <booster3>x rune av gull\n• <booster4>x rune av mørk eliksir\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes to ganger!\n\nKom i gang med oppgraderingene med denne utrolige oppgraderingspakken!
 TID_HASH,#
 TID_HASTE,Raseriformel
 TID_HASTE_DAMAGE,Skadeøkning: <number> %
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Vi introduserer to nye enheter til byggerens 
 TID_NEWS_SEP_V2_BALANCING_TITLE,Byggerens hall på nivå 7 er her!
 TID_NEWS_SPELLS_TEXT,"Lynformel\n*Lynformel på nivå 7 rammer både bygninger og tropper\n*Lynformler på nivå 5 og 6 påfører mer skade\n*Lynnedslag fra lynformler treffer nå nærmere og bommer sjeldnere\n\nGiftformel\n*Tropper rammet av giftformler blir mer sårbare over tid\n*Skade etter giftformler øker nå til store mengder og henger igjen etter at rammede tropper forlater formelen\n*Giftformler reduserer nå dessuten angrepsraten til forsvarstropper\n\nJordskjelvformel\n*Jordskjelvformler påfører nå mer skade, uavhengig av en bygnings gjeldende treffpoeng\n*Påfølgende jordskjelvformler påfører mindre og mindre skade på samme bygninger\n*Fire jordskjelvformler ødelegger alltid en mur, uavhengig av murens nivå!"
 TID_NEWS_SPELLS_TITLE,Omgjorte og ladede formler
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Dette slagkraftige våpenet for bruk på lang avstand kan utslette dårlig forberedte angripere\n• Runder med eksplosive prosjektiler tar ut tropper direkte og rammer i tillegg andre i nærheten av nedslagsområdet\n• Ørneartilleriet aktiveres først når mange tropper er utplassert, og gir mulighet for taktiske angrep i flere faser!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Ørneartilleri: den sovende portvokteren
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• Tidsgrensen for kamp er økt med 30 sekunder\n• Nisser angriper nå rådhus og klanslott for 2x skade\n• Prisen for å armere feller på nytt er kraftig redusert\n• Prisen for å lade X-buer på nytt er kraftig redusert\n• Store mengder helbredere er nå mindre effektive når de behandler samme enhet\n• Økninger for militæret er redusert til 5 juveler for 1 time med økning\n• Prisen for å finne en match og klikke seg videre er redusert for rådhus på nivå 10\n• Forberedelsesdagen for klankriger er forkortet til 23 timer\n• KI for troppkamp og å finne vei er gjort bedre\n• Den tilgjengelige utbytteprosentandelen for rådhus på nivå 6-10 er noe redusert\n• Landsbyer med rådhus på ett lavere nivå gir nå betydelig mindre utbytte\n• Spillefeltet og området for tropputplassering er begge utvidet (hindringer i periferien blir automatisk fjernet)
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Spillbalanse
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,"• Vakten beskytter deg mot angrep og lar deg angripe andre så mye du vil\n• Du mottar en gratis vakt når skjoldet utløper, og kan spille fritt uten å være redd for å bli angrepet\n• Høyere ligaer gir flere gratis vakter - spillere i Titan I og Legende får 100 % dekning!\n• 2 timer ekstra tid for vakten er tilgjengelig i butikken hver dag"
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Vakt - beskytt deg mot angrep
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Ta i bruk ny og kraftig taktikk på slagmarken ved å øke kraften til og beskytte troppene dine\n• Storvokteren gjør alle tropper i nærheten mer hardføre, og han kan gjøre dem uovervinnelige i en begrenset periode!\n• Han hopper, han flyr - inkluder storvokteren i enhver strategi, så vil militæret ditt skinne"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Storvokter: militærets nyeste helt
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Rådhus rommer nå mengder med tilgjengelig utbytte - ødelegg dem i kamp for å sikre deg store ressurser!\n• Ligabonusene er større enn noensinne, men samsvarer med hvor mange prosent du ødelegger\n• Du kan vinne flere og risikerer å tape færre trofeer jo høyere liga du er i!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Bedre plyndring: utbytte og trofeer
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• To nye utmerkelser er lagt til: Anti-Artilleri og Å gi er å få\n• Grensesnittet for donasjon av tropper/formler er pusset opp og viser nå eksisterende donasjoner\n• Tropper i kaserner kan nå legges i kø etterfølgende, på samme måte som i magifabrikken\n• Klankrigknappen viser nå en animasjon når et krigsangrep starter\n• Aktive skjold eller vakter kan nå avløses manuelt ved at man trykker på ikonet\n• Man kan nå være frakoblet lenger før man er sårbar for angrep\n• En spesiallyd spilles av når man finner et flerspillermål etter å ha søkt i 10 sekunder\n• En spesiallyd spilles av når man ikke finner flerspillermål og søket blir avbrutt\n• Tidsgrensen for personlige pauser mens man er pålogget, er redusert til 3 timer\n• Grensen for personlige pauser blir nå utvidet istedenfor tilbakestilt i enkelte tilfeller\n• Det er mindre sannsynlig at man får motstandere under sitt eget rådhusnivå ved flerspiller-matchmaking (bare under Stormesterligaen)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Andre forbedringer og endringer i balanse
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Rådhus på nivå 11 gjør sin entré med et SMELL!\n• Storvokter og ørneartilleri: de mektigste og mest strategiske tilskuddene noensinne!\n• Nye troppenivåer, forsvarsnivåer og donasjon av klanformler\n• Angrip gjennom skjold når du vil, men husk å beskytte rådhuset!\n• Vokt spilløktene når skjoldet er nede, og bli aldri utsatt for overraskende angrep igjen\n• Nisser som jager rådhus, større ligabonuser og trofeer og mye mer!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,En av tidenes største Clash-oppdateringer!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Ødeleggelse av rådhus gir ikke lenger et skjold - ta med rådhuset inn i varmen!\n• Du kan angripe mens du er beskyttet av skjold, og det koster bare en liten reduksjon av skjoldet\n• Du mottar skjold ved 30 % ødeleggelse og mer ved 60 % ødeleggelse, men bare når en større militærstyrke angriper"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Skjold - fleksibelt og rettferdig forsvar
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Fra og med klanslott på nivå 4 kan du også be om ekstra formler, ikke bare tropper\n• Donerte formler får alle eksisterende klanfordeler\n• Fryseformelen låses nå opp ved rådhus på nivå 9 og varer noe lenger på lavere nivåer"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Kom i form med formler
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Det mest storslagne og fryktinngytende rådhusnivået noensinne: rådhus 11!\n• Storvokteren, en helt for rådhus på nivå 11, kan gjøre militæret nær sagt ustoppelig!\n• Ørneartilleriet, et nytt forsvar for rådhus på nivå 11, påfører store ødeleggelser på lang avstand\n• Flere forsvarsverker, som en ekstra kanon, bueskyttertårn, trollmannstårn og X-bue!\n• Nye rådhus 11-nivåer for lakeier, hekser, trollmannstårn og annet!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Skru opp rådhuslyden til 11
 TID_NEWS_TOS_UPDATE,"Vi har oppdatert tjenestevilkårene og retningslinjene for personvern. Ta deg tid til å lese gjennom dem (tilgjengelig i spillet under Innstillinger). Ditt forhold til spillene våre er underlagt disse viktige dokumentene, som inneholder nyttig informasjon for alle som velger å spille. Hvis du vil vite mer, kan du gå til forumene våre."
 TID_NEWS_TREASURY TEXT,"Daglig stjernebonus\n• Vinn 5 stjerner i flerspillerkamper for å få bonusutbytte\n• Du får større bonuser i høyere ligaer!\n• En ny stjernebonus blir tilgjengelig hver dag!\n• Stjernebonuser beskyttes i skattkammeret\n\nSkattevogn\n• En vaklevoren skattevogn dukker opp i landsbyen din hver gang du har forsvart deg\n• Samle inn vognen for å få tilbake noen av de tapte ressursene dine\n• Det dukker bare opp én vogn om gangen, så ta den med en gang!\n\nSkattkammeret\n• I klanslottene finnes det nå en godt beskyttet ressursbank: skattkammeret\n• Skattkammeret beskytter utbytte fra klankrigsbonuser og stjernebonuser\n• Det er det tryggeste stedet å lagre bonusutbyttet ditt til du er klar til å bruke det!\n\nBedre balanse\n•Ørneartilleriet påfører nå golemer og golemitter 3x skade\n• Andre luftforsvar låses nå opp på rådhus 6, og det tredje på rådhus 7"
 TID_NEWS_TREASURY TITLE,Nye skatter og skattkammeret
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Sjørøvermester
 TID_PIRATE_KING,Sjørøverkonge
 TID_PIRATE_QUEEN,Sjørøverdronning
 TID_PIRATE_WARDEN,Sjørøvervokter
-TID_PIXEL_CHAMPION,Pikselmester
-TID_PIXEL_KING,Pikselkonge
-TID_PIXEL_QUEEN,Pikseldronning
-TID_PIXEL_SCENERY,Piksellandskap
-TID_PIXEL_WARDEN,Pikselvokter
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Du har blitt plassert i en liga!
 TID_PLACEMENT_HINT,Trykk eller trykk og hold for å utplassere soldater
 TID_PLACEMENT_HINT_TUTORIAL1,Trykk flere ganger på et tomt område for å utplassere soldatene dine
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internasjonalt
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> gull\n• <res1> eliksir\n• <booster1>x kraftdrikk: Styrk troppene og formlene dine til rådhusets maksimalt tillatte nivå i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> gull\n• <res1> eliksir\n• <booster1>x kraftdrikk: Styrk troppene og formlene dine til rådhusets maksimalt tillatte nivå i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> eliksir\n• <booster1>x stridsbok: Fullfør enhver pågående troppeoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n• <booster1>x stridsbok: Fullfør enhver pågående troppeoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 2 ganger i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> eliksir\n• <booster1>x stridsbok: Fullfør enhver pågående troppeoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> mørk eliksir\n• <res1> gull\n• <res2> eliksir\n• <booster1>x stridsbok: Fullfør enhver pågående troppeoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan bare kjøpes 1 gang i løpet av vist tidsperiode\n• Led klanen din ut i ærerik kamp med dette spesialtilbudet!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> gull\n• <res1> eliksir\n• <booster1>x byggerens drikk: Byggerne dine vil jobbe 10x raskere i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Ta deg tid til å oppgradere forsvarsverkene dine!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> gull\n• <booster1>x byggerens drikk: Byggerne dine vil jobbe 10x raskere i 1 time\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Ta deg tid til å oppgradere forsvarsverkene dine!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> gull\n• <res1> eliksir\n• <booster1>x byggebok: Fullfør enhver bygningsoppgradering\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Ta deg tid til å oppgradere forsvarsverkene dine!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• <res0> gull\n• <res1> eliksir\n• <booster1>x murringer: Oppgrader enhver mur, selv om murer med høyere nivåer kanskje krever flere ringer\n• <booster2>x byggebok: Fullfør enhver bygningsoppgradering\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 2 ganger i løpet av vist tidsperiode\n• Ta deg tid til å oppgradere forsvarsverkene dine!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> gull\n• <booster1>x byggebok: Fullfør enhver bygningsoppgradering\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Ta deg tid til å oppgradere forsvarsverkene dine!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• <res0> gull\n• <res1> eliksir\n• <booster1>x murringer: Oppgrader enhver mur, selv om murer med høyere nivåer kanskje krever flere ringer\n• <booster2>x byggebok: Fullfør enhver bygningsoppgradering\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan bare kjøpes 1 gang i løpet av vist tidsperiode\nTa deg tid til å oppgradere forsvarsverkene dine!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> eliksir\n• <booster1>x treningsdrikk: Øker effektiviteten til brakker, formelfabrikker, verkstedet og regenerering av helter i 1 time\n• <booster2>x kraftdrikk: Styrk troppene og formlene dine til rådhusets maksimalt tillatte nivå i 1 time\n• <booster3>x ressursdrikk: Styrk effektiviteten til ressursinnsamleren din i 1 dag\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> eliksir\n• <booster1>x treningsdrikk: Øker effektiviteten til brakker, formelfabrikker, verkstedet og regenerering av helter i 1 time\n• <booster2>x kraftdrikk: Styrk troppene og formlene dine til rådhusets maksimalt tillatte nivå i 1 time\n• <booster3>x ressursdrikk: Styrk effektiviteten til ressursinnsamleren din i 1 dag\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,"• <res0> mørk eliksir\n•<res1> eliksir\n• <booster1>x heltebok: Fullfør enhver pågående helteoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 3 ganger i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,"• <res0> mørk eliksir\n• <res1> gull\n• <booster1>x heltebok: Fullfør enhver pågående helteoppgradering øyeblikkelig\n• <booster2>x formelbok: Fullfør enhver pågående formeloppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 2 ganger i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,"• <res0> eliksir\n• <booster1>x heltebok: Fullfør enhver pågående helteoppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,"• <res0> mørk eliksir\n•<res1> gull\n• <booster1>x heltebok: Fullfør enhver pågående helteoppgradering øyeblikkelig\n• <booster2>x formelbok: Fullfør enhver pågående formeloppgradering øyeblikkelig\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan bare kjøpes 1 gang i løpet av vist tidsperiode\n• Oppgrader heltene og troppene dine, og ta i bruk kraftigere formler!"
 TID_REINFORCEMENT_CAMP_INFO,Forsterkningsleirer gir deg nyttige forsterkninger i kamper når du når den tilsvarende fasen.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Bedre sent enn aldri! Gir deg tropper etter den første fasen.
 TID_REINFORCEMENT_CAMPS,Forsterkninger:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Rommester
 TID_SPACE_KING,Romkonge
 TID_SPACE_QUEEN,Romdronning
 TID_SPACE_WARDEN,Romvokter
-TID_SPECIAL_OFFER,Spesialtilbud
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Jubileumspakke
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Vårspesial
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Vårspesial
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Vårspesial
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Vårspesial
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Byggeboost
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x rune av byggerens gull\n• <booster2>x rune av byggerens eliksir\n• <booster3>x stridsbok\n• <booster4>x byggebok\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes ti ganger!\n\nStart oppgraderingene med denne utrolige pakken!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x rune av byggerens gull\n• <booster2>x rune av byggerens eliksir\n• <booster3>x stridsbok\n• <booster4>x byggebok\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes fire ganger!\n\nStart oppgraderingene med denne utrolige pakken!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x rune av byggerens gull\n• <booster2>x rune av byggerens eliksir\n• <booster3>x stridsbok\n• <booster4>x byggebok\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes to ganger!\n\nStart oppgraderingene med denne utrolige pakken!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Høvding, vi har et unikt tilbud til deg i forbindelse med jubileet til Byggerens base!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x murring\n• <booster2>x rune av mørk eliksir\n• <booster3>x byggerens drikk\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 10 ganger!\n\nOppgrader murene dine, fyll lageret for mørk eliksir og sett fart på byggerne dine med denne spektakulære pakken!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x murring\n• <booster2>x eliksirrune\n• <booster3>x rune av mørk eliksir\n• <booster4>x gullrune\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 4 ganger!\n\nKom i gang med oppgraderingene og gjør murene dine sterkere med denne utrolige pakken!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> gull\n• <res1> mørk eliksir\n• <gems> juveler\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 20 ganger!\n\nMye for pengene hvis du vil oppgradere forsvarsverker, helter og mørk eliksir-tropper med en og samme pakke!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x murring\n• <booster2>x eliksirrune\n• <booster3>x rune av mørk eliksir\n• <booster4>x gullrune\n\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 2 ganger!\n\nKom i gang med oppgraderingene og gjør murene dine sterkere med denne utrolige pakken!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> gull\n• <booster1>x byggebok\n• <booster2>x byggerens drikk\n• Ingen lagringsbegrensninger!\n• Dette tilbudet kan kjøpes 10 ganger!\n\nAlt du trenger for å oppgradere rådhuset og forsvaret ditt!
 TID_SPECIAL_PACK_BUILDER,Startpakke
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Spesialferdigheten låses opp ved nivå <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Du deltar ikke i denne klankrigen

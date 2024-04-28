@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Maksimum: <amount>
 TID_CONTINUE,Teruskan
 TID_CONTRIBUTE,Menyumbang
 TID_CONTRIBUTED,<name> telah menyumbang
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0>x Permata\n• <booster1>x Posyen Latihan - meningkatkan keberkesanan Berek, Kilang Sihir, Bengkel dan pemulihan wira selama 1j\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 1 kali dalam tempoh disiarkan!\n\nDapatkan bantuan dengan tawaran hebat satu kali ini!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems>x Permata\n• <booster1>x Posyen Latihan - meningkatkan keberkesanan Berek, Kilang Sihir, Bengkel dan pemulihan wira selama 1j\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 1 kali dalam tempoh disiarkan!\n\nDapatkan bantuan dengan tawaran hebat satu kali ini!"
 TID_COOLDOWN,Masa menunggu:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tag disalin ke papan klip peranti!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Disalin ke papan keratan peranti!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"Kampung anda sekarang digabungkan ke akaun Game C
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Kampung anda sekarang digabungkan ke akaun Google berbeza daripada yang anda log masuk.\n\nSila daftar keluar daripada akaun Google anda sekarang dari skrin tetapan, dan daftar masuk menggunakan akaun yang digabungkan dengan kampung ini.\n\nKemudian, cuba pautkan sekali lagi."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Akaun salah dilog masuk
 TID_DEVICE_LINKED_MAIL_ITEM,Peranti anda dipautkan ke kampung anda.
-TID_DIAMOND_BUNDLE_BH3,Pek Dewan Pembina 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Pek Pembina Orang Baru
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Penghancur Tahap 1 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH4,Pek Dewan Pembina 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Pek Pembina Perantis
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Tempat Pengawal Tahap 1\n• Bom Udara Tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH5,Pek Dewan Pembina 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Pek Pembina Jauhari
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Berbilang Mortar Tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH6,Pek Dewan Pembina 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Pek Pembina Pakar
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> Permata\n• <res0> Eliksir\n• Pemanggang Tahap 1\n• Penghancur Tahap 1\n\nTiada masa pembinaan!\n\nJangan terlepas tawaran SATU kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH7,Pek Dewan Pembina 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Pek Pembina Juara
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> Permata\n• <res0> Eliksir\n• <res1>Emas\n• Meriam Gergasi Tahap 4\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH8,Pek Dewan Pembina 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Pek Pembina Jaguh
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n• Tesla Besar Tahap 4\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran SATU kali<cffec78> bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH9_ALT,Pek Juara Pembina
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Pek Menara Bom
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Bom tahap 2\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan ketinggalan <cffec78>nilai X<value></c> ini ialah tawaran SATU kali!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Pek Bina
-TID_DIAMOND_BUNDLE_BUILDER,Pek Pembina
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Pek Wira Pembina
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Pek Pangkalan Pembina
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Pek Penyelidikan Pembina
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Pek Pembina ini mengandungi <gems> permata dan pembina percuma!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Pek Penyelidikan Kejahatan
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir\n• <res1> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Pek Wira Eliksir
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir\n\nTiada had penyimpanan!\n\nJalngan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1> Eliksir\n• <res2> Eliksir Kejahatan\n\nSemak had penyimpanan!\n\nTawaran SATU kali <cffec78>terbaik</c> kami - jangan terlepas!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> Permata\n• <res0> Emas\n\nTiada had penyimpanan!\n\nJangan ketinggalan <cffec78><value>nilai X</c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_HERO,Wira
-TID_DIAMOND_BUNDLE_HERO_INFO,Wira
-TID_DIAMOND_BUNDLE_HERO_PACK,Pek Wira
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Emas Pembina\n• <booster1>x Posyen Pembina\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Pembina dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Emas Pembina\n• <booster1>x Buku Bangunan\n•<booster2>x Posyen Pembina\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Pembina dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Emas Pembina\n• <booster1>x Buku Bangunan\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Pembina dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir Pembina\n• <booster1>x Buku Laga\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Askar Pembina anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir Pembina\n• <booster1>x Buku Wira-Wira\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Mesin Pertempuran anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Emas\n• <booster1>x Posyen Pembina\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Bandaran dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Pek Buku Bangunan
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Pek Buku Ajaib
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> Permata\n• <booster1> Buku Wira-wira\n• <booster2>x Buku Bangunan\nTiada had penyimpanan!\n\nPembina sibuk? Terlalu banyak sumber untuk dibelanjakan dan tidak cukup masa? Dapatkan Pek Buku Ajaib untuk selesaikan naik taraf satu wira dan satu bangunan dengan serta-merta!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> Permata\n• <booster1>x Buku Wira-wira\n• <booster2>x Buku Bangunan\n• Tiada had penyimpanan!\n\nPembina sibuk? Terlalu banyak sumber untuk dibelanjakan dan tidak cukup masa? Dapatkan Pek Buku Ajaib untuk selesaikan naik taraf satu wira dan satu bangunan dengan serta-merta!\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> Permata\n• <booster1>x Buku Bangunan\n• Tiada had penyimpanan!\n\nSelesaikan naik taraf mana-mana bangunan serta-merta dengan Buku Bangunan!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Emas\n• <booster1>x Buku Bangunan\n•<booster2>x Posyen Pembina\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Bandaran dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Emas\n• <booster1>x Buku Bangunan\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Dewan Bandaran dan Pertahanan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Pek Buku Bangunan
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buku Bangunan\n• <res0> Emas\n• <res1> Eliksir\n• Tiada had penyimpanan!\n\nSelesaikan naik taraf mana-mana bangunan serta-merta dengan Buku Bangunan!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Pek Buku tentang Segalanya
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> Permata\n• <booster1>x Buku tentang Segalanya\n• Tiada had penyimpanan!\n\nSelesaikan MANA-MANA naik taraf serta-merta dengan Buku tentang Segalanya yang menakjubkan!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Pek Buku tentang Segalanya
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buku tentang Segalanya\n• <res0> Emas\n• <res1> Eliksir\n• <res2> Eliksir Kejahatan\n• Tiada had penyimpanan!\n\nSelesaikan MANA-MANA naik taraf serta-merta dengan Buku tentang Segalanya yang hebat!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Eliksir Kejahatan\n• <booster1>x Buku Laga\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Askar Kejahatan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Buku Laga\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Askar anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> Eliksir Kejahatan\n• <booster1>x Buku Laga\n•<booster2>x Buku Sihir\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Askar dan Sihir Kejahatan anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Buku Laga\n•<booster2>x Buku Sihir\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Askar dan Sihir anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Pek Buku Wira-wira
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> Permata\n• <booster1>x Buku Wira-wira\n• Tiada had penyimpanan!\n\nSelesaikan mana-mana naik taraf wira serta-merta menggunakan Buku Wira-wira!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Pek Buku Wira-wira
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buku Wira-Wira\n• <res0> Eliksir Kejahatan\n• Tiada had penyimpanan!\n\nSelesaikan mana-mana naik taraf wira serta-merta dengan Buku Wira-Wira!\n\nJangan terlepas tawaran SATU KALI <cffec78>bernilai X<value></c> ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x Buku Wira-Wira\n• <res0> Eliksir Kejahatan\n• Tiada had penyimpanan!\n\nSelesaikan mana-mana naik taraf wira serta-merta dengan Buku Wira-Wira!\n\ nJangan terlepas tawaran SEKALI <cffec78>bernilai x<value></c>ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Pek Naik Taraf Diraja
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> Permata\n• <res0> Eliksir Kejahatan\n• <booster1>x Buku Wira-Wira\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Raja Orang Gasar atau Permaisuri Pemanah anda!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Eliksir Kejahatan\n• <booster1>x Buku Wira-Wira\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Raja Orang Gasar dan Permaisuri Pemanah anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Buku Wira-Wira\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk menaik taraf Warden Besar anda!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Pek Posyen Sumber
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> Permata\n• <booster1>x Posyen Sumber\n• Tiada had penyimpanan!\n\nCas lampau pengumpul sumber anda!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Timbunan Posyen Sumber
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x Posyen Sumber\n• Tiada had penyimpanan!\n\nCas lampau pengumpul sumber anda!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Pek Buku Sihir
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> Permata\n• <booster1>x Buku Sihir\n• Tiada had penyimpanan!\n\nSelesaikan naik taraf sihir anda serta-merta dengan Buku Sihir!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Pek Buku Sihir
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buku Sihir\n• <res0> Eliksir\n• Tiada had penyimpanan!\n\nSelesaikan naik taraf sihir anda serta-merta dengan Buku Sihir!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Pek Naik Taraf Sihir
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> Permata\n• <res0> Eliksir\n• <booster1>x Buku Sihir\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk naik taraf sihir anda!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Pek Posyen Kuasa
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> Permata\n• <booster1>x Posyen Kuasa\n• Tiada had penyimpanan!\n\nMemaksimumkan potensi askar anda dan cuba komposisi tentera baharu!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Timbunan Posyen Kuasa
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x Posyen Kuasa\n• Tiada had penyimpanan!\n\nMemaksimumkan potensi askar anda dan cuba komposisi tentera baharu!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Pek Posyen Latihan
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> Permata\n• <booster1>x Posyen Latihan\n• Tiada had penyimpanan!\n\nGalakkan latihan askar, membru sihir dan penjanaan semula wira anda!\n\nJangan terlepas tawaran ini!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Timbunan Posyen Latihan
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x Posyen Latihan\n• Tiada had penyimpanan!\n\nGalakkan latihan askar, bru sihir dan penjanaan semula wira anda!\n\nJangan terlepas tawaran ini!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Pek Buku Laga
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> Permata\n• <booster1>x Buku Laga\n• Tiada had penyimpanan!\n\nSelesaikan naik taraf mana-mana askar serta-merta dengan Buku Laga!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Pek Buku Laga
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buku Laga\n• <res0> Eliksir\n• Tiada had penyimpanan!\n\nSelesaikan mana-mana naik taraf askar serta-merta dengan Buku Laga!\n\nJangan terlepas peluang ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Pek Naik Taraf Askar
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> Permata\n• <res0> Eliksir\n• <booster1>x Buku Laga\n• Tiada had penyimpanan!\n\nSemua yang anda perlukan untuk naik taraf askar anda!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Pek Naik Taraf Bangunan
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> Permata\n• <res0> Emas\n<res1> Eliksir\n• <booster1>x Buku Bangunan\n• Tiada had penyimpanan!\n\nPerlu naik taraf bangunan? Pek ini mengandungi semua yang anda perlukan!\n\nJangan terlepas tawaran ini!
-TID_DIAMOND_BUNDLE_RED,(Pek Wira)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Permata\n• Tugu Wira Kekuasaan\n• Kulit masa terhad (RED) untuk Raja Orang Gasar\n\n100% pendapatan akan disalurkan kepada usaha (RED) menentang AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Pek Penyelidikan
-TID_DIAMOND_BUNDLE_TH10,Pek Dewan Bandar 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x Buku Bangunan\n• <booster2>x Buku Wira-wira\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Neraka tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Menara Neraka tahap 1\n• <booster1>x Buku Wira-wira\n• <res0> Eliksir Kejahatan\n• <booster2>x Posyen Pembina\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Menara Neraka tahap 1\n• Busur-X tahap 2\n• <res0> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11,Pek Dewan Bandar 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x Buku Bangunan\n• <booster2>x Buku Wira-wira\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> Permata\n• Wira Warden Besar\n• Artileri Helang tahap 1\n\nTiada masa pembinaan!\n\nJangan ketinggalan <cffec78>nilai X<value></c> ini ialah tawaran SATU kali!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Artileri Helang tahap 1\n• Wira Warden Besar\n• <booster1>x Buku Wira-wira\n• <res0> Eliksir\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Artileri Helang tahap 1\n• Wira Warden Besar\n• <res0> Eliksir Kejahatan\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH12,Pek Dewan Bandaran 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Bengkel tahap 1\n• <res0> Eliksir Kejahatan\n• <res1> Emas\n\nTiada masa pembinaan, tiada had simpanan! Mula membina Mesin Kepungan segera di Bengkel!\n\nJangan terlepas tawaran SATU KALI <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH13,Pek Dewan Bandaran 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Juara Diraja tahap 3\n• <res0> Eliksir Kejahatan\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH14,Pek Dewan Bandaran 14
-TID_DIAMOND_BUNDLE_TH15,Pek Dewan Bandaran 15
-TID_DIAMOND_BUNDLE_TH3,Pek Dewan Bandaran 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> Permata\n• <res0> Emas\n• <res1> Eliksir\n<booster1>x Posyen Pembina\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH4,Pek Dewan Bandar 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> Emas\n• <res1> Eliksir\n• <gems> Permata\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> Permata\n• <res0> Emas\n• Pertahanan Udara tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> Emas\n• <res1> Eliksir\n• <booster1> x Posyen Pembina\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c>ini!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Pertahanan Udara tahap 2\n• <res0> Emas\n• <res1> Eliksir\n• <gems> Permata\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5,Pek Dewan Bandar 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Ahli Sihir tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x Buku Bangunan\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Menara Ahli Sihir tahap 2\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6,Pek Dewan Bandar 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> Emas\n• <res1> Eliksir\n• <gems> Permata\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> Permata\n• <res0> Emas\n• Penyapu Udara tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x Buku Bangunan\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Menara Ahli Sihir tahap 3\n• Mortar tahap 4\n• <res0> Emas\n• <res1> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7,Pek Dewan Bandar 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> Permata\n• Wira Raja Orang Gasar\n• Tesla Tersembunyi tahap 2\n\nTiada masa pembinaan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Wira Raja Orang Gasar\n• <booster1>x Buku Wira-wira\n• <res0> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla Tersembunyi tahap 2\n• Wira Raja Orang Gasar\n• <res0> Eliksir Kejahatan\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8,Pek Dewan Bandar 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Bom tahap 1\n\nTiada masa pembinaan, tiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x Buku Laga\n• <booster2>x Buku Sihir\n• <res0> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,Menara Bom tahap 2\n• Menara Ahli Sihir tahap 5\n• <res0> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9,Pek Dewan Bandar 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> Eliksir Kejahatan\n• <res1> Emas\n• <res2> Eliksir\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> Permata\n• Wira Permaisuri Pemanah\n• Busur-X tahap 1\n\nTiada masa pembinaan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Wira Permaisuri Pemanah\n• <booster1>x Buku Wira-wira\n• <res0> Eliksir Kejahatan\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Busur-X tahap 2\n• Wira Permaisuri Pemanah\n• <res0> Eliksir Kejahatan\n• <res1> Emas\n\nTiada had penyimpanan!\n\nJangan terlepas tawaran satu kali <cffec78>bernilai <value>X</c> ini!
 TID_DIAMOND_FOUND,Anda menemui permata dalam <name>!
 TID_DIAMOND_GIFT_RECEIVED,Anda mendapat <number> Permata dari hadiah Klan!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Ketua, Lombong Permata anda penuh dengan Permata!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Kumpul pingat gabungan dan tukarkannya dengan le
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Selamat datang ke Gabungan Gila!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Kawah akan mengubah salah satu penyimpan eliksir anda menjadi eliksir masam dalam <time>
 TID_HALLOWEEN_TOKENS_LEFT,Baki pingat gabungan: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> Emas\n• <booster1>x Posyen Pembina\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 5 kali!\n\nGuna sebaik-baiknya tawaran Hammer Jam ini sempena Musim Menaik taraf ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir Kejahatan\n• <booster3>x Posyen Pembina\n•\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 10 kali!\n\nMula menaik taraf dengan pek kemas kini menakjubkan ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Emas\n• <booster4>x Rune Eliksir Kejahatan\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali!\n\nMula menaik taraf dengan pek kemas kini menakjubkan ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Emas\n• <booster4>x Rune Eliksir Kejahatan\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 2 kali!\n\nMula menaik taraf dengan pek kemas kini menakjubkan ini!
 TID_HASH,#
 TID_HASTE,Sihir Kemarahan
 TID_HASTE_DAMAGE,Penambahan kerosakan: <number>%
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Memperkenalkan 2 unit baharu untuk Pangkalan 
 TID_NEWS_SEP_V2_BALANCING_TITLE,Dewan Pembina Tahap 7 tersedia!
 TID_NEWS_SPELLS_TEXT,"Sihir Kilat\n* Sihir kilat tahap 7 membinasakan bangunan dan askar\n*Kerosakan bertambah untuk sihir kilat tahap 5 dan 6\n*Panahan sihir kilat kini menyerang bersama untuk mengurangkan kegagalan serangan\n\nSihir Beracun\n*Askar dalam Sihir Bercun kini menyebabkan kurang kerosakan pada awalnya, tetapi semakin lama lebih banyak\n*Kerosakan Sihir Beracun kini bertambah kepada amaun besar dan berkeliaran selepas meninggalkan sihir\n*Sihir Beracun kini juga mengurangkan kadar serangan bagi askar pertahanan\n\nSihir Gempa Bumi\n*Sihir Gempa Bumi menyebabkan lebih banyak kerosakan tidak kira nilai nyawa bangunan itu\n*Sihir Gempa Bumi berulang kini menyebabkan kerosakan besar pada bangunan yang sama\n*Empat Sihir Gempa Bumi masih akan sentiasa menghapuskan sebarang Benteng!"
 TID_NEWS_SPELLS_TITLE,Kerja Semula dan Cas Semula Sihir
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Senjata besar-besaran, jarak jauh ini memusnahkan tentera penyerang yang tidak bersedia\n• Tembakan serentak cangkerang meletup melanyak askar yang kuat dan memusnahkan sesiapa berdekatan letupan\n• Artileri Helang hanya diaktifkan selepas ramai askar telah dikerahkan, membiarkan pintu terbuka untuk serangan taktik dan serangan licik berbilang fasa!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Artileri Helang: Senti yang Tidur
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,"• Had masa pertempuran telah bertambah sebanyak 30 saat\n• Kini, Goblin menyasarkan Dewan Bandaran dan Istana Klan untuk 2x kerosakan\n• Mempersenjatai semula menyebabkan semua perangkap telah dikurangkan secara besar-besaran\n• Mengisi semula menyebabkan Busur-X telah dikurangkan secara besar-besaran\n• Jumlah besar Penyembuh kini telah mengurangkan keberkesanan pada unit yang sama\n• Galakan tentera telah dikurangkan kepada 5 permata untuk 1 jam galakan\n• Menyebabkan mencari padanan dan 'Seterusnya' dikurangkan untuk TH10\n• Hari Persediaan Peperangan Klan telah dikurangkan kepada 23 jam\n• Pertempuran askar dan pencarian laluan AI telah digilap dan dikuatkan\n• Peratus rampasan tersedia pada Dewan Bandaran tahap 6-10 telah bertambah sedikit\n• Kampung dengan Dewan Bandaran satu tahap lebih rendah kini lebih rendah nilainya\n• Medan permainan dan kawasan pengerahan askar kedua-duanya telah diluaskan (halangan yang terdapat di situ telah dialihkan secara automatik)"
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Keseimbangan Permainan
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• Pengawal melindungi anda daripada serangan dan membolehkan anda menyerang yang lain semua yang anda inginkan\n• Dapatkan Pengawal percuma apabila Pelindung tamat tempoh dan bermain secara bebas tanpa risau diserang\n• Liga lebih tinggi memberikan lebih ramai Pengawal percuma - pemain Titan I & Legenda mendapat 100% liputan!\n• 2 jam Pengawal lebih disediakan di Kedai setiap hari
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Pengawal - Main dengan Selamat daripada Penyerang
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Gunakan taktik medan pertempuran baru yang berkuasa dengan menggalakkan dan melindungi askar anda\n• Warden Besar menguatkan semua askar berdekatan dan boleh membuatkan mereka tidak dapat dilihat buat sementara waktu!\n• Dia melompat, dia terbang - masukkan Warden Besar dalam mana-mana strategi dan membuatkan tentera anda bersinar"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Warden Besar: Wira Terbaru Tentera Anda
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Dewan bandaran kini mempunyai rampasan tersedia - musnahkannya dalam pertempuran untuk pulangan besar!\n• Bonus Liga paling besar, tetapi skala dengan peratusan kemusnahan anda\n• Tawaran trofi mendapat lebih besar dan kerugian Trofi lebih rendah dengan lebih tinggi Liga anda!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Serangan Lebih Beranek: Rampasan dan Trofi
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Dua pencapaian baru telah ditambah: Anti-Artileri dan Berkongsi itu Berkasih Sayang\n• Askar/Antara muka pendermaan sihir telah diubah suai dan kini menunjukkan penderamaan sedia ada\n• Askar di Berek kini boleh berbaris dalam urutan, sama seperti Kilang Sihir\n• Butang Peperangan Klan kini menganimasi apabila perang bermula\n• Pelindung Aktif atau Pengawal kini boleh digugurkan secara manual dengan mengetik ikon\n• Kini, anda boleh berada di luar talian lebih lama sedikit sebelum mudah diserang\n• Bunyi khas dimainkan apabila mencari sasaran berbilang pemain selepas 10 saat mencari\n• Bunyi khas dimainkan apabila tiada sasaran berbilang pemain ditemui dan carian dibatalkan\n• Had masa dalam talian Rehat Peribadi telah dikurangkan kepada 3 jam\n• Had Rehat Peribadi kini dilanjutkan dan bukan ditetapkan semula dalam sesetengah kes\n• Mencari padanan berbilang pemain kurang berkemungkinan menawarkan pihak lawan di bawah tahap Dewan Bandaran anda (hanya melebihi Liga Juara)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Keseimbangan dan Peningkatan Lain
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Dewan Bandaran 11 meletup! BOM!\n• Warden Besar & Artileri Helang: Penambahan paling berkuasa dan strategik!\n• Tahap askar baru, tahap pertahanan dan pendermaan Sihir Klan\n• Menyerang melalui pelindung pada bila-bila masa tetapi pastikan anda melindungi Dewan Bandaran anda!\n• Kawal masa bermain anda apabila pelindung telah berakhir dan tidak diserang lagi ketika tidak berkawal\n• Orang bunian mengejar Dewan Bandar, Bonus Liga lebih besar, tawaran Trofi dan banyak lagi!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Salah Satu Kemas Kini Clash Paling Besar!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Pemusnahan Dewan Bandaran tidak lagi memberikan elindung - bawa Dewan Bandaran anda ke dalam!\n• Anda boleh menyerang semasa dilindungi pada bila-bila masa untuk hanya pengurangan Pelindung kecil\n• Mendapatkan Pelindung pada pemusnahan 30%, lebih banyak pada 60%, tetapi hanya apabila tentera agak ramai menyerang"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Pelindung - Pertahanan Fleksibel dan Adil
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Minta sihir bantuan dan bukan sekadar askar, bermula dari Istana Klan tahap 4\n• Sihir yang didermakan menerima semua faedah Manfaat Klan sedia ada\n• Sihir Pembekuan kini dibuka kunci di Dewan Bandaran 9 dan mempunyai tempoh lebih lama pada tahap lebih rendah"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Lakukan Sihir Melepaskan Diri
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Alami tahap Dewan Bandaran paling besar, paling jahat, paling mencabar: Dewan Bandaran 11!\n• Dewan Bandaran 11 baru wira Warden Besar boleh membuatkan tentera hampir tidak dapat berhenti!\n• Pertahanan Dewan Bandaran 11 baru Artileri Helang memberikan kemusnahan mengagumkan dari jauh\n• Lebih banyak pertahanan, termasuk Meriam lebih, Menara Pemanah, Menara Ahli Sihir dan Busur-X!\n• Tahap Dewan Bandaran baru 11 untuk Konco, Sihir Perempuan, Menara Ahli Sihir dan banyak lagi!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Naikkan ke TH11
 TID_NEWS_TOS_UPDATE,"Kami telah mengemas kini Terma Perkhidmatan dan Dasar Privasi kami! Sila luangkan sedikit masa untuk membacanya dengan teliti (tersedia dalam permainan di belakang Tetapan). Dokumen penting ini mentadbir hubungan dengan permainan kami, mengandungi maklumat bermanfaat untuk semua orang yang memilih untuk bermain. Untuk maklumat lanjut, lawati forum kami."
 TID_NEWS_TREASURY TEXT,"Bonus Bintang Harian\n• Menangi 5 Bintang daripada pertempuran berbilang pemain untuk mendapatkan rampasan bonus\n• Dapatkan bonus lebih besar di liga lebih tinggi!\n• Bonus Bintang tersedia setiap hari!\n• Ganjaran Bonus Bintang dilindungi dalam khazanah\n\nKart Rampasan\n• Kart Rampasan rosak muncul dalam kampung anda selepas setiap pertahanan\n• Kumpul kart ini untuk mendapatkan semula sebahagian sumber anda yang hilang\n• Hanya satu Kart Rampasan akan muncul pada satu masa, jadi kumpulkannya dengan serta-merta!\n\nKhazanah\n• Istana Klan kini menempatkan bank sumber yang dilindungi dengan baik: khazanah\n•Khazanah itu melindungi rampasan bonus daripada peperangan klan dan bonus bintang\n• Merupakan tempat paling selamat untuk menyimpan rampasan bonus sehingga anda sedia untuk membelanjakannya!\n\nKeseimbangan\n• Artileri Helang kini menyebabkan 3x kerosakan kepada Golem dan Golemite\n• Pertahanan Udara kedua dibuka kunci sekarang di Dewan Bandaran 6 dan yang ketiga di Dewan Bandaran 7"
 TID_NEWS_TREASURY TITLE,Harta Karun Baharu dan Khazanah
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Juara Lanun
 TID_PIRATE_KING,Raja Lanun
 TID_PIRATE_QUEEN,Permaisuri Lanun
 TID_PIRATE_WARDEN,Warden Lanun
-TID_PIXEL_CHAMPION,Juara Piksel
-TID_PIXEL_KING,Raja Piksel
-TID_PIXEL_QUEEN,Permaisuri Piksel
-TID_PIXEL_SCENERY,Latar Piksel
-TID_PIXEL_WARDEN,Warden Piksel
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Anda telah ditempatkan dalam Liga!
 TID_PLACEMENT_HINT,Ketik atau tekan dan tahan untuk mengerahkan askar
 TID_PLACEMENT_HINT_TUTORIAL1,Ketik beberapa kali dalam kawasan kosong untuk mengerahkan askar anda
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Antarabangsa
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> Emas\n•<res1> Eliksir\n•<booster1>x Posyen Kuasa - mengalakkan askar dan sihir anda ke maksimum 1j yang dibenarkan tahap Dewan Bandaran anda\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 3 kali dalam tempoh dipaparkan\n• Memimpin klan anda ke pertempuran dengan tawaran istimewa ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> Emas\n•<res1> Eliksir\n•<booster1>x Posyen Kuasa - mengalakkan askar dan sihir anda ke maksimum 1j yang dibenarkan tahap Dewan Bandaran anda\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 4 kali dalam tempoh dipaparkan\n• Memimpin klan anda ke pertempuran dengan tawaran istimewa ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> Eliksir\n•<booster1>x Buku Laga - melengkapkan sebarang askar yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 3 kali dalam tempoh disiarkan\n• Memimpin klan anda ke pertempuran dengan tawaran khas ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> Eliksir Kejahatan\n•<res1> Emas\n•<res2> Eliksir\n• <booster1>x Buku Laga - melengkapkan sebarang askar yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 2 kali dalam tempoh disiarkan\n• Memimpin klan anda ke pertempuran dengan tawaran khas ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> Eliksir\n•<booster1>x Buku Laga - melengkapkan sebarang askar yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 4 kali dalam tempoh disiarkan\n• Memimpin klan anda ke pertempuran dengan tawaran khas ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> Eliksir Kejahatan\n•<res1> Emas\n•<res2> Eliksir\n• <booster1>x Buku Laga - melengkapkan sebarang askar yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 1 kali dalam tempoh disiarkan\n• Memimpin klan anda ke pertempuran dengan tawaran khas ini!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Posyen Pembina - Pembina anda akan bekerja 10x lebih cepat selama 1 jam\n\n• Tiada had penyimpanan!\nTawaran ini boleh dibeli 3 kali dalam tempoh disiarkan\n• Gunakan masa ini untuk menaik taraf pertahanan anda!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> Emas\n•<booster1>x Posyen Pembina - Pembina anda akan bekerja 10x lebih cepat selama 1 jam\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali dalam tempoh disiarkan\n• Gunakan masa ini untuk menaik taraf pertahanan anda!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Buku Bangunan - naik taraf sebarang bangunan serta-merta\n•\nTiada had penyimpanan!\nTawaran ini boleh dibeli 3 kali dalam tempoh disiarkan\n• Gunakan masa ini untuk menaik taraf pertahanan anda!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Cincin Benteng - naik taraf sebarang benteng serta-merta, namun benteng bertahap lebih tinggi mungkin memerlukan berbilang cincin\n• <booster2>x Buku Bangunan - naik taraf sebarang bangunan serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 2 kali dalam tempoh disiarkan\n• Gunakan masa ini untuk menaik taraf pertahanan anda!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> Emas\n•<booster1>x Buku Bangunan - naik taraf sebarang bangunan serta-merta\n\nTiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali dalam tempoh disiarkan\n• Gunakan masa ini untuk menaik taraf pertahanan anda!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Cincin Benteng - naik taraf sebarang benteng serta-merta, namun benteng bertahap lebih tinggi mungkin memerlukan berbilang cincin\n• <booster2>x Buku Bangunan - naik taraf sebarang bangunan serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini hanya boleh dibeli 1 kali dalam tempoh disiarkan\nGunakan masa ini untuk menaik taraf pertahanan anda!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> Eliksir\n• <booster1>x Posyen Latihan - meningkatkan keberkesanan berek, kilang sihir, bengkel dan pemulihan wira selama 1j\n• <booster2>x Posyen Kuasa - mengalakkan askar dan sihir anda ke maksimum 1j yang dibenarkan tahap Dewan Bandaran anda\n• <booster3>x Posyen Sumber - mengalakkan keberkesanan pengumpul sumber anda selama 1 hari\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 3 kali dalam tempoh dipaparkan\n• Naik taraf wira dan askar serta menggunakan sihir!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> Eliksir\n• <booster1>x Posyen Latihan - meningkatkan keberkesanan berek, kilang sihir, bengkel dan pemulihan wira selama 1j\n• <booster2>x Posyen Kuasa - mengalakkan askar dan sihir anda ke maksimum 1j yang dibenarkan tahap Dewan Bandaran anda\n• <booster3>x Posyen Sumber - mengalakkan keberkesanan pengumpul sumber anda selama 1 hari\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali dalam tempoh dipaparkan\n• Naik taraf wira dan askar serta menggunakan sihir!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> Eliksir Kejahatan\n•<res1> Eliksir\n• <booster1>x Buku Wira-wira - melengkapkan sebarang wira yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 3 kali dalam tempoh disiarkan\n• Naik taraf wira dan askar serta membru sihir anda!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> Eliksir Kejahatan\n•<res1> Emas\n• <booster1>x Buku Wira-wira - melengkapkan sebarang wira yang sedang dinaik taraf serta-merta\n• <booster2>x Buku Sihir - melengkapkan sebarang sihir yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 2 kali dalam tempoh disiarkan\n• Naik taraf wira dan askar serta membru sihir anda!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> Eliksir\n• <booster1>x Buku Wira-wira - melengkapkan sebarang wira yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali dalam tempoh disiarkan\n• Naik taraf wira dan askar serta membru sihir anda!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> Eliksir Kejahatan\n•<res1> Emas\n• <booster1>x Buku Wira-wira - melengkapkan sebarang wira yang sedang dinaik taraf serta-merta\n• <booster2>x Buku Sihir - melengkapkan sebarang sihir yang sedang dinaik taraf serta-merta\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 1 kali dalam tempoh disiarkan\n• Naik taraf wira & askar serta membru sihir anda!
 TID_REINFORCEMENT_CAMP_INFO,Kem Bantuan menyediakan bantuan semasa pertempuran apabila anda mencapai peringkat tertentu.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Biar lambat asalkan sampai! Menghantarkan askar selepas peringkat pertama.
 TID_REINFORCEMENT_CAMPS,Bantuan:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Juara Angkasa
 TID_SPACE_KING,Raja Angkasa
 TID_SPACE_QUEEN,Permaisuri Angkasa
 TID_SPACE_WARDEN,Warden Angkasa
-TID_SPECIAL_OFFER,Tawaran Khas
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Pek Ulang Tahun
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Istimewa Musim Bunga
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Istimewa Musim Bunga
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Istimewa Musim Bunga
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Istimewa Musim Bunga
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Galakan Pembina
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x Emas Rune Pembina\n• <booster2>x Eliksir Rune Pembina\n• <booster3>x Buku Laga\n• <booster4>x Buku Bangunan\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 10 kali!\n\nMula menaik taraf dengan pek menakjubkan ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x Emas Rune Pembina\n• <booster2>x Eliksir Rune Pembina\n• <booster3>x Buku Laga\n• <booster4>x Buku Bangunan\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali!\n\nMula menaik taraf dengan pek menakjubkan ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x Emas Rune Pembina\n• <booster2>x Eliksir Rune Pembina\n• <booster3>x Buku Laga\n• <booster4>x Buku Bangunan\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 2 kali!\n\nMula menaik taraf dengan pek menakjubkan ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Ketua, tawaran ulang tahun Pangkalan Pembina khas tersedia untuk anda!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir Kejahatan\n• <booster3>x Posyen Pembina\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 10 kali!\n\nNaik taraf benteng anda, penuhkan penyimpanan Eliksir Kejahatan dan percepatkan pembina anda dengan pek menakjubkan ini!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Eliksir Kejahatan\n• <booster4>x Rune Emas\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 4 kali!\n\nDapatkan sumber yang diperlukan dan naik tahap benteng anda dengan tawaran hebat ini!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> Emas\n• <res1> Eliksir Kejahatan\n• <gems> Permata\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 20 kali!\n\nNilai hebat untuk menaik taraf Pertahanan, Wira dan Askar Elksir Kejahatan anda dalam satu berkas menarik!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x Cincin Benteng\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Eliksir Kejahatan\n• <booster4>x Rune Emas\n\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 2 kali!\n\nDapatkan naik taraf dan peningkatan benteng anda dengan pek hebat ini!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> Emas\n• <booster1>x Buku Bangunan\n• <booster2>x Posyen Pembina\n• Tiada had penyimpanan!\n• Tawaran ini boleh dibeli 10 kali!\n\nSegala yang anda perlukan untuk menaik taraf Dewan Bandaran dan Pertahanan anda!
 TID_SPECIAL_PACK_BUILDER,Pek Permulaan
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Keupayaan khas dibuka kunci pada tahap <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Anda tidak mengambil bahagian dalam Perang Klan ini

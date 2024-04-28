@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Max: <amount>
 TID_CONTINUE,Continua
 TID_CONTRIBUTE,Contribuisci
 TID_CONTRIBUTED,<name> ha contribuito con
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• Gemme: <res0>.\n• Pozioni di addestramento (incrementano l'efficienza di caserme, fabbriche degli incantesimi, officine e rigenerazione degli eroi per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile solo una volta nel tempo a disposizione!\n\nApprofitta subito di questa fantastica offerta in tuo onore!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• Gemme: <gems>.\n• Pozioni di addestramento (incrementano l'efficienza di caserme, fabbriche degli incantesimi, officine e rigenerazione degli eroi per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile solo una volta nel tempo a disposizione!\n\nApprofitta subito di questa fantastica offerta in tuo onore!"
 TID_COOLDOWN,Ricarica:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tag copiato negli appunti del dispositivo
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Copiato negli appunti del dispositivo
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,Questo villaggio è già stato collegato a un acco
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,Questo villaggio è già stato collegato a un account Google diverso da quello con cui hai effettuato l'accesso.\n\nEsci da questo account Google tramite la schermata delle impostazioni ed effettua nuovamente l'accesso con l'account collegato a questo villaggio.\n\nQuindi tenta nuovamente il collegamento.
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Accesso effettuato con account errato
 TID_DEVICE_LINKED_MAIL_ITEM,Un nuovo dispositivo è stato collegato al tuo villaggio.
-TID_DIAMOND_BUNDLE_BH3,Pacchetto sala del costruttore 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Pacchetto costruttore principiante
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> gemme\n• <res0> elisir\n• Spaccatutto livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH4,Pacchetto sala del costruttore 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Pacchetto apprendista costruttore
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> gemme\n• <res0> elisir\n• Posto di guardia livello 1\n• Bombe contraeree livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH5,Pacchetto sala del costruttore 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Pacchetto costruttore abile
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> gemme\n• <res0> elisir\n• Multimortaio livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH6,Pacchetto sala del costruttore 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Pacchetto costruttore esperto
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> gemme\n• <res0> elisir\n• Calorifero livello 1\n• Spaccatutto livello 1\n\nNessun tempo di costruzione!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH7,Pacchetto sala del costruttore 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Pacchetto capomastro
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> gemme\n• <res0> elisir\n• <res1> oro\n• Cannone gigante livello 4\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH8,Pacchetto sala del costruttore 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Pacchetto gran capomastro
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> gemme\n• <res0> elisir\n• <res1> oro\n• Megatesla livello 4\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> gemme\n• <res0> elisir\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_BH9_ALT,Pacchetto costruttore campione
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Pacchetto torre bombardiera
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> gemme\n• <res0> oro\n• Torre bombardiera livello 2\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Pacchetto costruzione
-TID_DIAMOND_BUNDLE_BUILDER,Pacchetto costruttore
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Pacchetto eroico del costruttore
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Pacchetto base del costruttore
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Pacchetto ricerca del costruttore
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Il pacchetto costruttore contiene <gems> gemme e un costruttore gratis!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> gemme\n• <res0> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Pacchetto ricerca oscura
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemme\n• <res0> elisir\n• <res1> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Pacchetto elisir eroico
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> gemme\n• <res0> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> gemme\n• <res0> oro\n• <res1> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemme\n• <res0> oro\n• <res1> elisir\n• <res2> elisir nero\n\nSupera i limiti per i depositi!\n\nL'offerta UNICA <cffec78>migliore di sempre</c>: non perdertela!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> gemme\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> gemme\n• <res0> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato x<value></c>!
-TID_DIAMOND_BUNDLE_HERO,Eroe
-TID_DIAMOND_BUNDLE_HERO_INFO,Eroe
-TID_DIAMOND_BUNDLE_HERO_PACK,Pacchetto eroico
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> oro del costruttore\n• Pozioni del costruttore: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare la sala del costruttore e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> oro del costruttore\n• Libri degli edifici: <booster1>\n• Pozioni del costruttore: <booster2>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare la sala del costruttore e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> oro del costruttore\n• Libri degli edifici: <booster1>\n• Nessun limite dei depositi!\n\n• Ciò di cui hai bisogno per migliorare la sala del costruttore e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> elisir del costruttore\n• Libri della guerra: <booster1>\n• Nessun limite dei depositi!!\n\nCiò di cui hai bisogno per migliorare le tue truppe del costruttore!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> elisir del costruttore\n• Libri degli eroi: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare la tua macchina da guerra!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> oro\n• Pozioni del costruttore: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare il municipio e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Pacchetto libro degli edifici
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Pacchetto libri magici
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> gemme\n• Libri degli eroi: <booster1>\n• Libri degli edifici: <booster2>\n• Nessun limite dei depositi!\n\nCostruttori occupati? Tante risorse da spendere ma non abbastanza tempo? Col pacchetto libri magici puoi migliorare in un lampo un eroe E un edificio!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> gemme\n• Libri degli eroi: <booster1>\n• Libri degli edifici: <booster2>\n• Nessun limite per i depositi!\n\nCostruttori occupati? Tante risorse da spendere ma non abbastanza tempo? Col pacchetto libri magici puoi migliorare in un lampo un eroe E un edificio!\n\nNessun limite dei depositi!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> gemme\n• Libri degli edifici: <booster1>\n• Nessun limite per i depositi!\n\nCompleta all'istante qualsiasi miglioramento di edificio con il libro degli edifici!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> oro\n• Libri degli edifici: <booster1>\n• Pozioni del costruttore: <booster2>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare il municipio e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> oro\n• Libri degli edifici: <booster1>\n• Nessun limite dei depositi!\n\n• Ciò di cui hai bisogno per migliorare il municipio e le difese!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Pacchetto libro degli edifici
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• Libri degli edifici: <booster1>\n• <res0> oro\n• <res1> elisir\n• Nessun limite per i depositi!\n\nCompleta all'istante qualsiasi miglioramento di edificio con il libro degli edifici!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Pacchetto libro onnisciente
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> gemme\n• Libri onniscienti: <booster1>\n• Nessun limite per i depositi!\n\nCompleta subito un QUALSIASI miglioramento con l'incredibile libro onnisciente!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Pacchetto libro onnisciente
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• Libri onniscienti: <booster1>\n• <res0> oro\n• <res1> elisir\n• <res2> elisir nero\n• Nessun limite per i depositi!\n\nCompleta subito un QUALSIASI miglioramento con l'incredibile libro onnisciente!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> elisir nero\n• Libri della guerra: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare le tue truppe oscure!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> elisir\n• Libri della guerra: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare le tue truppe!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> elisir nero\n• Libri della guerra: <booster1>\n• Libri di incantesimi: <booster2>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare truppe e incantesimi oscuri!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> elisir\n• Libri della guerra: <booster1>\n• Libri di incantesimi: <booster2>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare truppe e incantesimi!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Pacchetto libro degli eroi
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> gemme\n• Libri degli eroi: <booster1>\n• Nessun limite per i depositi!\n\nMigliora subito il tuo eroe con il libro degli eroi!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Pacchetto libro degli eroi
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• Libri degli eroi: <booster1>\n• <res0> elisir nero\n• Nessun limite per i depositi!\n\nMigliora subito il tuo eroe con il libro degli eroi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per<value></c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• Libri degli eroi: <booster1>\n• <res0> elisir nero\n• Nessun limite per i depositi!\n\nMigliora subito il tuo eroe con il libro degli eroi!\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per<value></c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Pacchetto famiglia reale
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> gemme\n• <res0> elisir nero\n• Libri degli eroi: <booster1>\n• Nessun limite per i depositi!\n\nCiò di cui hai bisogno per migliorare re barbaro o regina degli arcieri!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> elisir nero\n• Libri degli eroi: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare re barbaro e regina degli arcieri!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> elisir\n• Libri degli eroi: <booster1>\n• Nessun limite dei depositi!\n\nCiò di cui hai bisogno per migliorare il tuo gran sorvegliante!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Pacchetto pozione di risorse
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> gemme\n• Pozioni di risorse: <booster1>\n• Nessun limite per i depositi!\n\nSpremi al massimo i tuoi estrattori di risorse!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Pila di pozioni di risorse
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• Pozioni di risorse: <booster1>\n• Nessun limite per i depositi!\n\nSpremi al massimo i tuoi estrattori di risorse!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Pacchetto libro di incantesimi
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> gemme\n• Libri di incantesimi: <booster1>\n• Nessun limite per i depositi!\n\nMigliora subito i tuoi incantesimi con il libro di incantesimi!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Pacchetto libro di incantesimi
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• Libri di incantesimi: <booster1>\n• <res0> elisir\n• Nessun limite per i depositi!\n\nMigliora subito i tuoi incantesimi con il libro di incantesimi!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Pacchetto miglioramento incantesimi
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> gemme\n• <res0> elisir\n• Libri di incantesimi: <booster1>\n• Nessun limite per i depositi!\n\nCiò di cui hai bisogno per migliorare i tuoi incantesimi!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Pacchetto pozione di forza
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> gemme\n• Pozioni di forza: <booster1>\n• Nessun limite per i depositi!\n\nOttieni il massimo dalle tue truppe e prova nuovi eserciti!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Pila di pozioni di forza
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• Pozioni di forza: <booster1>\n• Nessun limite per i depositi!\n\nOttieni il massimo dalle tue truppe e prova nuovi eserciti!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Pacchetto pozione di addestramento
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> gemme\n• Pozioni di addestramento: <booster1>\n• Nessun limite per i depositi!\n\nPotenzia addestramento di truppe, preparazione di incantesimi e rigenerazione eroi!\n\nNon perderti l'offerta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Pila di pozioni di addestramento
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• Pozioni di addestramento: <booster1>\n• Nessun limite per i depositi!\n\nPotenzia addestramento di truppe, preparazione di incantesimi e rigenerazione eroi!\n\nNon perderti l'offerta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Pacchetto libro della guerra
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> gemme\n• Libri della guerra: <booster1>\n• Nessun limite per i depositi!\n\nCompleta all'istante qualsiasi miglioramento di truppe con il libro della guerra!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Pacchetto libro della guerra
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• Libri della guerra: <booster1>\n• <res0> elisir\n• Nessun limite per i depositi!\n\nCompleta all'istante qualsiasi miglioramento di truppe con il libro della guerra!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Pacchetto miglioramento truppe
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems>gemme\n• <res0> elisir\n• Libri della guerra: <booster1>\n• Nessun limite per i depositi!\n\nCiò di cui hai bisogno per migliorare le tue truppe!\n\nNon perdere questa offerta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Pacchetto miglioramento edifici
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> gemme\n• <res0> oro\n• <res1> elisir\n• Libri degli edifici: <booster1>\n• Nessun limite per i depositi!\n\nDevi migliorare subito un edificio? Questo è il pacchetto per te!\n\nNon perderti l'offerta!
-TID_DIAMOND_BUNDLE_RED,(Pacchetto eroe)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> gemme\n• Statua dell'eroe imponente\n• Skin (RED) per il re barbaro per un periodo limitato\n\nL'intero ricavato sarà devoluto alla lotta di (RED) contro l'AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Pacchetto ricerca
-TID_DIAMOND_BUNDLE_TH10,Pacchetto municipio 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• Libri degli edifici: <booster1>\n• Libri degli eroi: <booster2>\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> gemme\n• <res0> oro\n• Torre infernale livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Torre infernale livello 1\n• Libri degli eroi: <booster1>\n• <res0> elisir nero\n• Pozioni del costruttore: <booster2>\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Torre infernale livello 1\n• Arco-X livello 2\n• <res0> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH11,Pacchetto municipio 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• Libri degli edifici: <booster1>\n• Libri degli eroi: <booster2>\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> gemme\n• Eroe gran sorvegliante\n• Artiglieria Aquila livello 1\n\nNessun tempo di costruzione!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,• Artiglieria Aquila livello 1\n• Eroe gran sorvegliante\n• Libri degli eroi: <booster1>\n• <res0> elisir\n\nNessun tempo di costruzione e nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,• Artiglieria Aquila livello 1\n• Eroe gran sorvegliante\n• <res0> elisir nero\n\nNessun tempo di costruzione e nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH12,Pacchetto municipio 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Officina livello 1\n• <res0> elisir nero\n• <res1> oro\n\nNessun tempo di costruzione, nessun limite per i depositi! Con l'officina ottieni subito le macchine d'assedio!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH13,Pacchetto municipio 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• Elisir nero: <res0>\n• Oro: <res1>\n• Elisir: <res2>\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH13_INFO,• Campionessa reale livello 3\n• Elisir nero: <res0>\n\nNessun tempo di costruzione e nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH14,Pacchetto municipio 14
-TID_DIAMOND_BUNDLE_TH15,Pacchetto municipio 15
-TID_DIAMOND_BUNDLE_TH3,Pacchetto municipio 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> gemme\n• <res0> oro\n• <res1> elisir\n• Pozioni del costruttore: <booster1>\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH4,Pacchetto municipio 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> oro\n• <res1> elisir\n• <gems> gemme\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> gemme\n• <res0> oro\n• Difesa aerea livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> oro\n• <res1> elisir\n• Pozioni del costruttore: <booster1>\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Difesa aerea livello 2\n• <res0> oro\n• <res1> elisir\n• <gems> gemme\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH5,Pacchetto municipio 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> gemme\n• <res0> oro\n• Torre dello stregone livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• Libri degli edifici: <booster1>\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Torre dello stregone livello 2\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH6,Pacchetto municipio 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> oro\n• <res1> elisir\n• <gems> gemme\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> gemme\n• <res0> oro\n• Volanò livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• Libri degli edifici: <booster1>\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Torre dello stregone livello 3\n• Mortaio livello 4\n• <res0> oro\n• <res1> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH7,Pacchetto municipio 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> gemme\n• Eroe re barbaro\n• Tesla occulta livello 2\n\nNessun tempo di costruzione!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Eroe re barbaro\n• Libri degli eroi: <booster1>\n• <res0> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla livello 2\n• Eroe re barbaro\n• <res0> elisir nero\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH8,Pacchetto municipio 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> gemme\n• <res0> oro\n• Torre bombardiera livello 1\n\nNessun tempo di costruzione, nessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• Libri della guerra: <booster1>\n• Libri di incantesimi: <booster2>\n• <res0> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Torre bombardiera livello 2\n• Torre dello stregone livello 5\n• <res0> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH9,Pacchetto municipio 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> elisir nero\n• <res1> oro\n• <res2> elisir\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> gemme\n• Eroe regina degli arcieri\n• Arco-X livello 1\n\nNessun tempo di costruzione!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Eroe regina degli arcieri\n• Libri degli eroi: <booster1>\n• <res0> elisir nero\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Arco-X livello 2\n• Eroe regina degli arcieri\n• <res0> elisir nero\n• <res1> oro\n\nNessun limite per i depositi!\n\nNon perderti questa offerta UNICA dal <cffec78>valore moltiplicato per <value></c>!
 TID_DIAMOND_FOUND,Hai trovato una gemma in: <name>!
 TID_DIAMOND_GIFT_RECEIVED,Hai ricevuto <number> gemme dal regalo del clan!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Capo, la tua miniera di gemme è piena!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Ottieni le medaglie del Collage e scambiale per 
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Inizia il Collage orrendo!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Il calderone trasformerà tra <time> uno dei tuoi depositi di elisir in un deposito di elisir acido.
 TID_HALLOWEEN_TOKENS_LEFT,Medaglie del Collage rimaste: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> oro\n• Pozioni del costruttore: <booster1>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 5 volte!\n\nApprofitta al massimo della stagione dei miglioramenti con questa fantastica offerta per Qui si batte chiodo!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• Anelli da mura: <booster1>\n• Rune d'elisir nero: <booster2>\n• Pozioni del costruttore: <booster3>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 10 volte!\n\nMetti in moto i tuoi miglioramenti con questo fantastico pacchetto!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• Anelli da mura: <booster1>\n• Rune d'elisir: <booster2>\n• Rune d'oro: <booster3>\n• Rune d'elisir nero: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 4 volte!\n\nMetti in moto i tuoi miglioramenti con questo fantastico pacchetto!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• Anelli da mura: <booster1>\n• Rune d'elisir: <booster2>\n• Rune d'oro: <booster3>\n• Rune d'elisir nero: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 2 volte!\n\nMetti in moto i tuoi miglioramenti con questo fantastico pacchetto!
 TID_HASH,#
 TID_HASTE,Furia
 TID_HASTE_DAMAGE,Incremento danno: <number>%
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Due novità per la tua base del costruttore: 
 TID_NEWS_SEP_V2_BALANCING_TITLE,Ecco la sala del costruttore livello 7!
 TID_NEWS_SPELLS_TEXT,"Incantesimo Fulmine\n* L'incantesimo Fulmine di livello 7 colpisce sia edifici che truppe\n* Danno aumentato per l'incantesimo Fulmine di livello 5 e 6\n* Le saette dell'incantesimo Fulmine ora colpiscono un'area più ristretta e mancano il bersaglio più raramente\n\nIncantesimo Veleno\n* Le truppe colpite dall'incantesimo Veleno ora subiscono meno danni inizialmente, ma molti più danni con il passare del tempo\n* Il danno dell'incantesimo veleno ora aumenta fino a livelli altissimi e permane dopo che la truppa si allontana dall'area di effetto\n* L'incantesimo Veleno ora riduce la frequenza di attacco delle truppe in difesa\n\nIncantesimo Terremoto\n* L'incantesimo Terremoto ora infligge molto più danno, a prescindere dai punti ferita attuali dell'edificio\n* Più incantesimi Terremoto ora infliggono danni decrescenti agli stessi edifici\n* Quattro incantesimi Terremoto sono ancora sufficienti a distruggere qualsiasi muro!"
 TID_NEWS_SPELLS_TITLE,Incantesimi modificati e ricaricati
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Questa enorme arma a lungo raggio coglie alla sprovvista le armate all'attacco annientandole\n• Raffiche di granate esplosive sistemano le truppe più toste indebolendo quelle in prossimità dell'impatto\n• L'artiglieria Aquila si attiva solo dopo aver schierato molte truppe, lasciando aperta la porta ad attacchi strategici e ad astuti assalti in più fasi!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Artiglieria Aquila: la sentinella in attesa
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• Il limite della durata delle battaglie è stato aumentato di 30 secondi\n• Ora i goblin infliggono al municipio e al castello del clan danni doppi\n• I costi di riattivazione delle trappole sono stati enormemente ridotti\n• I costi di ricarica degli archi-X sono stati enormemente ridotti\n• Ora grandi quantità di guaritori hanno un'efficacia ridotta sulla stessa unità\n• I potenziamenti dell'esercito sono stati ridotti a 5 gemme per 1 ora di potenziamento\n• Il costo per aver trovato una partita e averla passata è ridotto per il municipio 10\n• Il giorno dei preparativi per la guerra tra clan è stato ridotto a 23 ore\n• L'IA delle truppe è stata migliorata e raffinata nei combattimenti e nei movimenti\n• La percentuale di bottino disponibile nel municipio di livello 6-10 è stata aumentata leggermente\n• Ora i villaggi con un municipio inferiore di un livello valgono meno bottino\n• Il campo di gioco e l'area di schieramento delle truppe sono stati estesi (gli ostacoli esterni sono stati spostati automaticamente)
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Bilanciamenti dell'esperienza di gioco
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• La guardia ti protegge dagli attacchi e ti permette di attaccare gli altri quanto vuoi\n• Ricevi una guardia gratis quando gli scudi finiscono e gioca liberamente senza timore di essere attaccato\n• Le leghe superiori offrono maggiore guardia gratis: i giocatori di Titani I e Leggende ottengono una copertura del 100%!\n• 2 ore di guardia extra sono disponibili ogni giorno nel negozio
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Guardia: in salvo dagli attacchi
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Sfrutta nuove e potenti tattiche di battaglia potenziando e proteggendo le tue truppe\n• Il gran sorvegliante rafforza le truppe nelle vicinanze e può renderle temporaneamente invincibili!\n• Salta, vola! Includi il gran sorvegliante nelle tue strategie e fai brillare il tuo esercito"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Gran sorvegliante: il più recente eroe del tuo esercito
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Ora i municipi contengono un ricco bottino: distruggili in battaglia per intascare grosse vincite!\n• I bonus di lega sono più grandi che mai, ma sono proporzionati alla tua percentuale di distruzione\n• Man mano che il livello della tua lega cresce, le offerte di trofei diventano più sostanziose, mentre le perdite di trofei diminuiscono!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Assalti lucrativi: bottino e trofei
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Sono stati aggiunti due nuovi obiettivi: Anti-artiglieria e Condividere è importante\n• L'interfaccia di donazione di truppe/incantesimi è stata aggiornata e ora mostra le donazioni esistenti\n• Ora le truppe nella caserma possono essere messe in coda in sequenza, come nella fabbrica degli incantesimi\n• Ora il pulsante guerra tra clan si anima quando inizia un attacco in guerra\n• Ora lo scudo o la guardia attivi possono essere disattivati manualmente toccando l'icona\n• Ora puoi stare offline un po' più a lungo prima di essere vulnerabile agli attacchi\n• Effetto sonoro speciale quando trovi un bersaglio multigiocatore dopo 10 secondi di ricerche\n• Effetto sonoro speciale quando non trovi alcun bersaglio multigiocatore e la ricerca è annullata\n• Il limite di tempo online della pausa personale è stato ridotto a 3 ore\n• Ora il limite della pausa personale viene esteso anziché azzerarsi in certi casi\n• È meno probabile che il matchmaking multigiocatore ti offra avversari sotto il tuo livello di municipio (solo sotto la lega Campioni)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Altri bilanciamenti e miglioramenti
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Entra in scena il municipio di livello 11! BOOM!\n• Gran sorvegliante e artiglieria Aquila: le aggiunte più potenti e strategiche mai viste!\n• Nuovi livelli delle truppe, delle difese e donazioni di incantesimi al clan\n• Attacca attraverso lo scudo in qualsiasi momento, ma ricorda di difendere il municipio!\n• Proteggi le tue sessioni di gioco quando lo scudo finisce e non farti più trovare con la guardia abbassata\n• Goblin all'assalto di municipi, bonus di lega maggiori, offerte di trofei e molto altro ancora!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Uno dei più grandi aggiornamenti di Clash... di sempre!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• La distruzione del municipio non garantisce più lo scudo: mettilo al riparo!\n• Puoi attaccare con lo scudo attivo in qualsiasi momento in cambio di una piccola riduzione nella sua durata\n• Ottieni dello scudo al 30% di distruzione e un po' di più al 60%, ma solo quando attacca un esercito di grosse dimensioni"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Scudi: difesa equa e flessibile
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Richiedi rinforzi di incantesimi, non solo di truppe, a partire dal castello del clan di livello 4\n• Gli incantesimi donati ricevono tutti i benefici dei vantaggi del clan\n• Ora l'incantesimo Congelamento si sblocca al municipio di livello 9 e ha una durata leggermente maggiore ai livelli più bassi"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Muovi i tuoi incantesimi
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Prova il livello di municipio più massiccio, cattivo e impegnativo di sempre: il municipio 11!\n• Il gran sorvegliante, il nuovo eroe del municipio 11, può rendere gli eserciti quasi inarrestabili!\n• L'artiglieria Aquila, la nuova difesa del municipio 11, offre grandiose devastazioni da lontano\n• Più difese, tra cui cannone, torre dell'arciere, torre dello stregone e arco-X extra!\n• Nuovi livelli municipio 11 per sgherro, strega, torre dello stregone e molto altro!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Municipio 11: spara al massimo
 TID_NEWS_TOS_UPDATE,"Abbiamo aggiornato le Condizioni d'Uso e la Normativa sulla privacy! Dai un'occhiata, li troverai nel gioco sotto Impostazioni. Questi documenti regolano il tuo rapporto con i nostri giochi e contengono informazioni importanti per chiunque decida di giocare. Per maggiori informazioni, visita i nostri forum."
 TID_NEWS_TREASURY TEXT,"Bonus stella giornaliero\n• Vinci 5 stelle in battaglie multigiocatore per ottenere bottino bonus\n• Ottieni bonus maggiori nelle leghe di livello più alto!\n• Ogni giorno è disponibile un nuovo Bonus stella!\n• Le ricompense Bonus stella sono protette nella Tesoreria\n\nCarretto risorse\n• Dopo ogni difesa nel tuo villaggio apparirà un Carretto risorse danneggiato\n• Raccoglilo per recuperare alcune delle risorse perse\n• Apparirà un solo Carretto risorse alla volta, quindi raccoglilo subito!\n\nLa tesoreria\n• Ora i castelli del clan ospitano una banca ben protetta: la tesoreria\n• La tesoreria protegge il bottino Bonus guerra tra clan e Bonus stella\n• È il posto più sicuro in cui conservare il bottino bonus fino al momento di spenderlo!\n\nBilanciamento\n• Ora l'artiglieria Aquila infligge danni tripli a golem e golemiti\n• Ora la seconda difesa aerea si sblocca al livello 6 del municipio e la terza al livello 7"
 TID_NEWS_TREASURY TITLE,Nuovi tesori e tesoreria
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Campionessa pirata
 TID_PIRATE_KING,Re pirata
 TID_PIRATE_QUEEN,Regina pirata
 TID_PIRATE_WARDEN,Sorvegliante pirata
-TID_PIXEL_CHAMPION,Campionessa pixellata
-TID_PIXEL_KING,Re pixellato
-TID_PIXEL_QUEEN,Regina pixellata
-TID_PIXEL_SCENERY,Villaggio pixellato
-TID_PIXEL_WARDEN,Sorvegliante pixellato
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Hai raggiunto una lega!
 TID_PLACEMENT_HINT,Tocca o premi e tieni premuto per schierare le truppe
 TID_PLACEMENT_HINT_TUTORIAL1,Tocca più volte un'area vuota per schierare le tue truppe
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internazionale
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• Oro: <res0>.\n• Elisir: <res1>.\n• Pozioni di forza (potenziano le truppe e gli incantesimi al massimo livello concesso dal municipio per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• Oro: <res0>.\n• Elisir: <res1>.\n• Pozioni di forza (potenziano le truppe e gli incantesimi al massimo livello concesso dal municipio per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• Elisir: <res0>.\n• Libri della guerra (migliorano subito le truppe): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• Elisir nero: <res0>.\n• Oro: <res1>.\n• Elisir: <res2>.\n• Libri della guerra (migliorano subito le truppe): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 2 volte nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• Elisir: <res0>.\n• Libri della guerra (migliorano subito le truppe): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• Elisir nero: <res0>.\n• Oro: <res1>.\n• Elisir: <res2>.\n• Libri della guerra (migliorano subito le truppe): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile solo una volta nel tempo a disposizione!\n• Approfitta di questa offerta per far valere il clan in battaglia!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• Oro: <res0>.\n• Elisir: <res1>.\n• Pozioni del costruttore (i costruttori lavorano 10 volte più velocemente per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta speciale per migliorare le difese!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• Oro: <res0>.\n• Pozioni del costruttore (i costruttori lavorano 10 volte più velocemente per un'ora): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta speciale per migliorare le difese!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• Oro: <res0>.\n• Elisir: <res1>.\n• Libri degli edifici (migliorano subito gli edifici): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta speciale per migliorare le difese!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• Oro: <res0>.\n• Elisir: <res1>.\n• Anelli da mura (migliorano subito qualsiasi muro, ma le mura di livello elevato potrebbero aver bisogno di più anelli per il miglioramento): <booster1>.\n• Libri degli edifici (migliorano subito gli edifici): <booster2>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 2 volte nel tempo a disposizione!\n• Approfitta di questa offerta speciale per migliorare le difese!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• Oro: <res0>.\n• Libri degli edifici (migliorano subito gli edifici): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta speciale per migliorare le difese!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• Oro: <res0>.\n• Elisir: <res1>.\n• Anelli da mura (migliorano subito qualsiasi muro, ma le mura di livello elevato potrebbero aver bisogno di più anelli per il miglioramento): <booster1>.\n• Libri degli edifici (migliorano subito gli edifici): <booster2>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile solo una volta nel tempo a disposizione!\nApprofitta di questa offerta speciale per migliorare le difese!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• Elisir: <res0>.\n• Pozioni di addestramento (incrementano l'efficienza di caserme, fabbriche degli incantesimi, officine e rigenerazione degli eroi per un'ora): <booster1>.\n• Pozioni di forza (potenziano le truppe e gli incantesimi al massimo livello concesso dal municipio per un'ora): <booster2>.\n• Pozioni di risorse (aumentano l'efficienza dei raccoglitori di risorse per un giorno): <booster3>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• Elisir: <res0>.\n• Pozioni di addestramento (incrementano l'efficienza di caserme, fabbriche degli incantesimi, officine e rigenerazione degli eroi per un'ora): <booster1>.\n• Pozioni di forza (potenziano le truppe e gli incantesimi al massimo livello concesso dal municipio per un'ora): <booster2>.\n• Pozioni di risorse (aumentano l'efficienza dei raccoglitori di risorse per un giorno): <booster3>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• Elisir nero: <res0>.\n• Elisir: <res1>.\n• Libri degli eroi (migliorano subito gli eroi): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 3 volte nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• Elisir nero: <res0>.\n• Oro: <res1>.\n• Libri degli eroi (migliorano subito gli eroi): <booster1>.\n• Libri di incantesimi (migliorano subito gli incantesimi): <booster2>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 2 volte nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• Elisir: <res0>.\n• Libri degli eroi (migliorano subito gli eroi): <booster1>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile 4 volte nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• Elisir nero: <res0>.\n• Oro: <res1>.\n• Libri degli eroi (migliorano subito gli eroi): <booster1>.\n• Libri di incantesimi (migliorano subito gli incantesimi): <booster2>.\n\n• Nessun limite per i depositi!\n• Offerta acquistabile solo una volta nel tempo a disposizione!\n• Approfitta di questa offerta per migliorare gli eroi e le truppe e potenziare gli incantesimi!
 TID_REINFORCEMENT_CAMP_INFO,I campi di rinforzi forniscono truppe di rinforzo quando si raggiunge una certa fase della battaglia.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,"Fornisce dei rinforzi dopo la prima fase. Meglio tardi che mai, no?"
 TID_REINFORCEMENT_CAMPS,Rinforzi:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Campionessa dello spazio
 TID_SPACE_KING,Re dello spazio
 TID_SPACE_QUEEN,Regina dello spazio
 TID_SPACE_WARDEN,Sorvegliante dello spazio
-TID_SPECIAL_OFFER,Offerta speciale
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Pacchetto di compleanno
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Offerta di primavera
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Offerta di primavera
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Offerta di primavera
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Offerta di primavera
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Potenziamento costruttore
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• Rune d'oro del costruttore: <booster1>\n• Rune d'elisir del costruttore: <booster2>\n• Libri della guerra: <booster3>\n• Libri degli edifici: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 10 volte!\n\nDa' il via ai miglioramenti con questo splendido pacchetto!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• Rune d'oro del costruttore: <booster1>\n• Rune d'elisir del costruttore: <booster2>\n• Libri della guerra: <booster3>\n• Libri degli edifici: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 4 volte!\n\nDa' il via ai miglioramenti con questo splendido pacchetto!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• Rune d'oro del costruttore: <booster1>\n• Rune d'elisir del costruttore: <booster2>\n• Libri della guerra: <booster3>\n• Libri degli edifici: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 2 volte!\n\nDa' il via ai miglioramenti con questo splendido pacchetto!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Capo, c'è un'offerta speciale per il compleanno della base del costruttore!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• Anelli da mura: <booster1>\n• Rune d'elisir nero: <booster2>\n• Pozioni del costruttore: <booster3>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 10 volte!\n\nRinforza le mura, riempi i depositi di elisir nero e velocizza i costruttori con questo magnifico pacchetto!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• Anelli da mura: <booster1>\n• Rune d'elisir: <booster2>\n• Rune d'elisir nero: <booster3>\n• Rune d'oro: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 4 volte!\n\nPrendi le risorse che ti servono e rinforza le mura con questa incredibile offerta!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> oro\n• <res1> elisir nero\n• <gems> gemme\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 20 volte!\n\nUn pacchetto davvero conveniente per migliorare le difese, gli eroi e le truppe nere!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• Anelli da mura: <booster1>\n• Rune d'elisir: <booster2>\n• Rune d'elisir nero: <booster3>\n• Rune d'oro: <booster4>\n\n• Nessun limite dei depositi!\n• Offerta acquistabile 2 volte!\n\nDa' il via ai miglioramenti e rinforza le mura con questo splendido pacchetto!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0>oro\n• Libri degli edifici: <booster1>\n• Pozioni del costruttore: <booster2>\n• Nessun limite dei depositi!\n• Offerta acquistabile 10 volte!\n\nTutto ciò che ti serve per migliorare il municipio e le difese!
 TID_SPECIAL_PACK_BUILDER,Pacchetto principiante
 TID_SPECIAL_UNLOCKS_AT_LEVEL,L'abilità speciale si sblocca al livello <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Non partecipi a questa guerra tra clan

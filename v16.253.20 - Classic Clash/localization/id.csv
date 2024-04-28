@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Maks: <amount>
 TID_CONTINUE,Lanjutkan
 TID_CONTRIBUTE,Kontribusi
 TID_CONTRIBUTED,<name> berkontribusi
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0>x Permata\n• <booster1>x Ramuan Latihan - meningkatkan efisiensi Barak, Pabrik Mantra, Bengkel, dan regenerasi pahlawan selama 1 jam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini hanya dapat dibeli 1 kali selama periode waktu yang ditampilkan!\n\nDapatkan bantuan dari penawaran satu kali yang menakjubkan ini!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems>x Permata\n• <booster1>x Ramuan Latihan - meningkatkan efisiensi Barak, Pabrik Mantra, Bengkel, dan regenerasi pahlawan selama 1 jam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini hanya dapat dibeli 1 kali selama periode waktu yang ditampilkan!\n\nDapatkan bantuan dari penawaran satu kali yang menakjubkan ini!"
 TID_COOLDOWN,Masa tenang:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tag tersalin ke papan klip perangkat!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Tersalin ke papan klip perangkat!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,Desa saat ini terikat ke akun Game Center yang ber
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Desa saat ini terikat ke akun Google yang berbeda dari yang digunakan untuk masuk.\n\nKeluarlah dari akun Google saat ini dari layar setelan, dan masuk lagi dengan akun yang terikat dengan desa ini.\n\nLalu coba sambungkan lagi."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Salah masuk akun
 TID_DEVICE_LINKED_MAIL_ITEM,Perangkat baru tertaut ke desamu.
-TID_DIAMOND_BUNDLE_BH3,Paket Aula Tukang 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Paket Tukang Pemula
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Peremuk level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH4,Paket Aula Tukang 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Paket Magang Tukang
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Pos Jaga level 1\n• Bom Udara level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH5,Paket Aula Tukang 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Paket Tukang Mahir
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> Permata\n• <res0> Eliksir\n• Multi Mortir level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH6,Paket Aula Tukang 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Paket Tukang Ahli
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> Permata\n• <res0> Eliksir\n• Pemanggang level 1\n• Peremuk level 1\n\nTanpa waktu pembangunan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH7,Paket Aula Tukang 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Paket Master Tukang
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n• Meriam Raksasa level 4\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH8,Paket Aula Tukang 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Paket Grandmaster Tukang
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n• Tesla Mega level 4\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> Permata\n• <res0> Eliksir\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_BH9_ALT,Paket Tukang Juara
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Paket Menara Bom
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Bom level 2\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Paket Membangun
-TID_DIAMOND_BUNDLE_BUILDER,Paket Tukang
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Paket Pahlawan Tukang
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Paket Basis Tukang
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Paket Riset Tukang
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Paket Tukang ini berisi <gems> permata dan seorang tukang gratis!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Paket Riset Hitam
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir\n• <res1>Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Paket Eliksir Pahlawan
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> Permata\n• <res0> Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1>Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1>Eliksir\n• <res2>Eliksir Hitam\n\nMelebihi batas penyimpanan!\n\nJangan lewatkan penawaran <cffec78>terbaik</c> SATU kali ini!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> Permata\n• <res0> Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> Permata\n• <res0> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_HERO,Pahlawan
-TID_DIAMOND_BUNDLE_HERO_INFO,Pahlawan
-TID_DIAMOND_BUNDLE_HERO_PACK,Paket Pahlawan
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Emas Tukang\n• <booster1>x Ramuan Tukang\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Aula Tukang dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Emas Tukang\n• <booster1>x Kitab Konstruksi\n•<booster2>x Ramuan Tukang\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Aula Tukang dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Emas Tukang\n• <booster1>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Aula Tukang dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir Tukang\n• <booster1> x Kitab Tempur\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Peleton Basis Tukang!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir Tukang\n• <booster1>x Kitab Pahlawan\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Mesin Pertempuran!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Emas\n• <booster1>x Ramuan Tukang\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Balai Kota dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Paket Kitab Konstruksi
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Paket Kitab Sihir
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> Permata\n• <booster1> Kitab Pahlawan\n• <booster2>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nTukang sibuk? Terlalu banyak sumber daya dan kurang waktu? Dapatkan Paket Kitab Sihir untuk langsung menyelesaikan satu peningkatan pahlawan dan satu peningkatan bangunan!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> Permata\n• <booster1> Kitab Pahlawan\n• <booster2>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nTukang sibuk? Terlalu banyak sumber daya dan kurang waktu? Dapatkan Paket Kitab Sihir untuk langsung menyelesaikan satu peningkatan pahlawan dan satu peningkatan bangunan!\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> Permata\n• <booster1>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan bangunan dengan Kitab Konstruksi!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Emas\n• <booster1>x Kitab Konstruksi\n•<booster2>x Ramuan Tukang\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Balai Kota dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Emas\n• <booster1>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Balai Kota dan Pertahanan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Paket Kitab Konstruksi
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Kitab Konstruksi\n• <res0> Emas\n• <res1>Eliksir\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan bangunan dengan Kitab Konstruksi!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Paket Kitab Segalanya
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> Permata\n• <booster1>x Kitab Segalanya\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan APA SAJA dengan Kitab Segalanya!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Paket Kitab Segalanya
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Kitab Segalanya\n• <res0> Emas\n• <res1> Eliksir\n• <res2> Eliksir Hitam\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan APA SAJA dengan Kitab Segalanya!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Eliksir Hitam\n• <booster1>x Kitab Tempur\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Peleton Hitam!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Kitab Tempur\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Peleton!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> Eliksir Hitam\n• <booster1>x Kitab Tempur\n• <booster2>x Kitab Mantra\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Peleton Hitam dan Mantra!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Kitab Tempur\n• <booster2>x Kitab Mantra\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Peleton dan Mantra!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Paket Kitab Pahlawan
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> Permata\n• <booster1>x Kitab Pahlawan\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan pahlawan dengan Kitab Pahlawan!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Paket Kitab Pahlawan
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x Kitab Pahlawan\n• <res0>Eliksir Hitam\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan pahlawan dengan Kitab Pahlawan!!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X </c> ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x Kitab Pahlawan\n• <res0>Eliksir Hitam\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan pahlawan dengan Kitab Pahlawan!!\n\nJangan lewatkan penawaran bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Paket Peningkatan Royale
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> Permata\n• <res0>Eliksir Hitam\n• <booster1>x Kitab Pahlawan\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Raja Barbar atau Ratu Pemanah!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Eliksir Hitam\n• <booster1>x Kitab Pahlawan\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Raja Barbar dan Ratu Pemanah!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Eliksir\n• <booster1>x Kitab Pahlawan\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan Wali Besar!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Paket Ramuan Sumber Daya
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> Permata\n• <booster1>x Ramuan Sumber Daya\n• Tanpa batas penyimpanan!\n\nSuper-berdayakan pengumpul sumber dayamu!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Setumpuk Ramuan Sumber Daya
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x Ramuan Sumber Daya\n• Tanpa batas penyimpanan!\n\nSuper-berdayakan pengumpul sumber dayamu!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Paket Kitab Mantra
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> Permata\n• <booster1>x Kitab Mantra\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan mantra dengan Kitab Mantra!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Paket Kitab Mantra
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x Kitab Mantra\n• <res0> Eliksir\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan mantra dengan Kitab Mantra!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Paket Peningkatan Mantra
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> Permata\n• <res0> Eliksir\n• <booster1>x Kitab Mantra\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan mantra!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Paket Ramuan Kuat
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> Permata\n• <booster1>x Ramuan Kuat\n• Tanpa batas penyimpanan!\n\nMaksimalkan peletonmu dan coba kombinasi tentara baru!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Setumpuk Ramuan Kuat
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x Ramuan Kuat\n• Tanpa batas penyimpanan!\n\nMaksimalkan peletonmu dan coba kombinasi tentara baru!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Paket Ramuan Latihan
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> Permata\n• <booster1>x Ramuan Latihan\n• Tanpa batas penyimpanan!\n\nPercepat latihan peleton, peracikan mantra, dan regenerasi pahlawanmu!\n\nJangan lewatkan penawaran ini!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Setumpuk Ramuan Latihan
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x Ramuan Latihan\n• Tanpa batas penyimpanan!\n\nPercepat latihan peleton, peracikan mantra, dan regenerasi pahlawanmu!\n\nJangan lewatkan penawaran ini!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Paket Kitab Tempur
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> Permata\n• <booster1>x Kitab Tempur\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan peleton dengan Kitab Tempur!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Paket Kitab Tempur
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x Kitab Tempur\n• <res0> Eliksir\n• Tanpa batas penyimpanan!\n\nSelesaikan langsung peningkatan peleton dengan Kitab Tempur!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Paket Peningkatan Peleton
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> Permata\n• <res0> Eliksir\n• <booster1>x Kitab Tempur\n• Tanpa batas penyimpanan!\n\nSemua yang diperlukan untuk meningkatkan peleton!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Paket Peningkatan Bangunan
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> Permata\n• <res0> Emas\n<res1>Eliksir\n• <booster1>x Kitab Konstruksi\n• Tanpa batas penyimpanan!\n\nPerlu meningkatkan bangunan? Paket ini punya semua yang dibutuhkan!\n\nJangan lewatkan penawaran ini!
-TID_DIAMOND_BUNDLE_RED,(Paket Pahlawan)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Permata\n• Patung Pahlawan Perkasa\n• Kulit (RED) waktu terbatas untuk Raja Barbar\n\n100% dari hasil akan disumbangkan untuk perjuangan (RED) melawan AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Paket Riset
-TID_DIAMOND_BUNDLE_TH10,Paket Balai Kota 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x Kitab Konstruksi\n• <booster2>x Kitab Pahlawan\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0>Eliksir Hitam\n• <res1>Emas\n• <res2>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Inferno level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Menara Inferno level 1\n• <booster1>x Kitab Pahlawan\n• <res0> Eliksir Hitam\n• <booster2>x Ramuan Tukang\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Menara Inferno level 1\n• Busur X level 2\n• <res0>Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11,Paket Balai Kota 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x Kitab Konstruksi\n• <booster2>x Kitab Pahlawan\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0>Eliksir Hitam\n• <res1>Emas\n• <res2>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> Permata\n• Pahlawan Wali Besar\n• Artileri Elang level 1\n\nTanpa waktu pembangunan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Artileri Elang level 1\n• Pahlawan Wali Besar\n• <booster1>x Kitab Pahlawan\n• <res0>Eliksir\n\nTanpa waktu konstruksi, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Artileri Elang level 1\n• Pahlawan Wali Besar\n• <res0>Eliksir Hitam\n\nTanpa waktu konstruksi, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH12,Paket Balai Kota 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> Eliksir Hitam\n• <res1> Emas\n• <res2> Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran satu kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Bengkel level 1\n• <res0>Eliksir Hitam\n• <res1>Emas\n\nTanpa waktu membangun, tanpa batas penyimpanan! Segera mulai perakitan Mesin Pengepungan dengan memiliki Bengkel!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH13,Paket Balai Kota 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> Eliksir Hitam\n• <res1> Emas\n• <res2> Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali yang bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Jawara Royale level 3\n• <res0> Eliksir Hitam\n\nTanpa waktu konstruksi, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali yang bernilai <cffec78><value>X </c> ini!"
-TID_DIAMOND_BUNDLE_TH14,Paket Balai Kota 14
-TID_DIAMOND_BUNDLE_TH15,Paket Balai Kota 15
-TID_DIAMOND_BUNDLE_TH3,Paket Balai Kota 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> Permata\n• <res0> Emas\n• <res1>Eliksir\n• <booster1>x Ramuan Tukang\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH4,Paket Balai Kota 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0>Emas\n• <res1>Eliksir\n• <gems>Permata\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> Permata\n• <res0> Emas\n• Pertahanan Udara level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> Emas\n• <res1> Eliksir\n• <booster1>x Ramuan Tukang\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Pertahanan Udara level 2\n• <res0> Emas\n• <res1> Eliksir\n• <gems> Permata\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5,Paket Balai Kota 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Penyihir level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x Kitab Konstruksi\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Menara Penyihir level 2\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6,Paket Balai Kota 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0>Emas\n• <res1>Eliksir\n• <gems>Permata\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> Permata\n• <res0> Emas\n• Penyapu Udara level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x Kitab Konstruksi\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Menara Penyihir level 3\n• Mortir level 4•\n• <res0>Emas\n• <res1>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7,Paket Balai Kota 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0>Eliksir Hitam\n• <res1>Emas\n• <res2>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> Permata\n• Pahlawan Raja Barbar\n• Tesla Tersembunyi level 2\n\nTanpa waktu pembangunan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Pahlawan Raja Barbar\n• <booster1>x Kitab Pahlawan\n• <res0> Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Menara Tesla level 2\n• Pahlawan Raja Barbar\n• <res0>Eliksir Hitam\n• <res1> Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8,Paket Balai Kota 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0>Eliksir Hitam\n• <res1>Emas\n• <res2>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> Permata\n• <res0> Emas\n• Menara Bom level 1\n\nTanpa waktu pembangunan, tanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x Kitab Tempur\n• <booster2>x Kitab Mantra\n• <res0>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Menara Bom level 2\n• Menara Penyihir level 5•\n• <res0>Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9,Paket Balai Kota 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0>Eliksir Hitam\n• <res1>Emas\n• <res2>Eliksir\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> Permata\n• Pahlawan Ratu Pemanah\n• Busur X level 1\n\nTanpa waktu pembangunan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Pahlawan Ratu Pemanah\n• <booster1>x Kitab Pahlawan\n• <res0> Eliksir Hitam\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Busur X level 2\n• Pahlawan Ratu Pemanah\n• <res0>Eliksir Hitam\n• <res1>Emas\n\nTanpa batas penyimpanan!\n\nJangan lewatkan penawaran SATU kali bernilai <cffec78><value>X</c> ini!
 TID_DIAMOND_FOUND,Kamu menemukan permata di <name>!
 TID_DIAMOND_GIFT_RECEIVED,Kamu mendapatkan <number> Permata dari hadiah Klan!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Chief, Tambang Permatamu penuh Permata!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Kumpulkan Medali Edan dan tukarkan dengan lebih 
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Selamat datang di Koalisi Edan!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Kuali akan mengubah Penyimpanan Eliksir menjadi Eliksir Edan dalam <time>.
 TID_HALLOWEEN_TOKENS_LEFT,Medali Edan tersisa: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> Emas\n• <booster1>x Ramuan Tukang\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 5 kali!\n\nMaksimalkan Musim Peningkatan dengan penawaran Hammer Jam yang keren ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir Hitam\n• <booster3>x Ramuan Tukang\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 10 kali!\n\nTingkatkan laju peningkatanmu dengan paket Pembaruan keren ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Emas\n• <booster4>x Rune Eliksir Hitam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali!\n\nTingkatkan laju peningkatanmu dengan paket Pembaruan keren ini!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Emas\n• <booster4>x Rune Eliksir Hitam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali!\n\nTingkatkan laju peningkatanmu dengan paket Pembaruan keren ini!
 TID_HASH,#
 TID_HASTE,Mantra Amarah
 TID_HASTE_DAMAGE,Pertambahan kerusakan: <number>%
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Memperkenalkan dua unit baru untuk Basis Tuka
 TID_NEWS_SEP_V2_BALANCING_TITLE,Aula Tukang Level 7 telah hadir!
 TID_NEWS_SPELLS_TEXT,"Mantra Kilat\n* Mantra Kilat level 7 merusak bangunan dan peleton\n* Tambahan kerusakan untuk Mantra Kilat level 5 dan 6\n* Petir Mantra Kilat kini menyambar lebih dekat bersama-sama agar tidak sering meleset\n\nMantra Racun\n* Peleton dalam Mantra Racun kini awalnya menanggung sedikit kerusakan, tapi bertambah banyak seiring waktu\n* Kerusakan Mantra Racun kini bertambah besar dan tetap ada setelah mantra ditinggalkan\n* Mantra Racun kini juga mengurangi laju serangan Peleton yang bertahan\n\nMantra Gempa Bumi\n* Mantra Gempa Bumi jauh lebih merusak, tidak peduli HP bangunan saat ini\n* Mantra Gempa Bumi berulang kini memberikan kerusakan yang senantiasa berkurang pada bangunan yang sama\n* Empat Mantra Gempa Bumi masih akan selalu menghancurkan Tembok level berapa pun!"
 TID_NEWS_SPELLS_TITLE,Mantra Karya Ulang dan Isi Ulang
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Senjata masif jarak jauh ini memusnahkan tentara penyerang yang kurang persiapan\n• Tembakan cangkang eksplosif menghantam peleton tangguh dari udara dan melemahkan sekitarnya\n• Artileri Elang hanya aktif setelah banyak peleton dikerahkan, sehingga banyak peluang untuk serbuan taktis dan serangan multifase yang cerdik!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Artileri Elang: Pengawal Tidur
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• Batas waktu pertempuran telah ditambah 30 detik\n• Goblin kini menarget Balai Kota dan Kastel Klan untuk 2x kerusakan\n• Biaya pengaktifkan kembali semua jebakan dikurangi besar-besaran\n• Biaya isi ulang Busur X dikurangi besar-besaran\n• Penyembuh dalam jumlah besar kini efektivitasnya dikurangi pada unit yang sama\n• Penambah Tentara telah dikurangi menjadi 5 permata untuk 1 jam penambah\n• Biaya mencari lawan tanding dan mengabaikan calon lawan dikurangi untuk BK10\n• Hari Persiapan Perang Klan dikurangi menjadi 23 jam\n• Pertempuran Peleton dan AI pencari jalan telah dipoles dan diperketat\n• Persentase rampasan yang tersedia di Balai Kota level 6-10 sedikit dinaikkan\n• Desa dengan Balai Kota satu level lebih rendah kini rampasannya lebih sedikit\n• Medan bermain dan area pengerahan peleton diperluas (penghalang jauh telah secara otomatis dipindahkan)
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Penyeimbangan Permainan
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• Penjaga melindungi dari serangan dan kamu bisa menyerang sesuka hati\n• Dapatkan Penjaga gratis saat Perisai kedaluwarsa dan mainlah dengan bebas tanpa khawatir diserang\n• Liga yang lebih tinggi mendapatkan lebih banyak Penjaga gratis - Pemain Titan I & Legenda mendapatkan 100% perlindungan!\n• Penjaga ekstra 2 jam tersedia di Toko setiap hari
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Penjaga - Bermain Aman dari Penyerang
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Terapkan taktik medan perang baru yang dahsyat dengan meningkatkan dan melindungi peleton\n• Wali Besar membuat semua peleton di sekitar lebih tangguh dan untuk sementara tak terkalahkan!\n• Dia pandai melompat dan terbang - gunakan Wali Besar ke strategi apa pun, dan buat tentaramu bersinar"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Wali Besar: Pahlawan Terbaru Tentaramu
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Balai Kota kini menampung banyak rampasan yang tersedia - hancurkan di pertempuran demi bayaran besar!\n• Bonus Liga lebih besar, namun diskalakan sesuai persentase penghancuran\n• Penawaran Trofi semakin besar dan kehilangan Trofi berkurang seiring semakin tingginya Ligamu!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Penjarahan Lebih Kaya: Rampasan dan Trofi
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Dua pencapaian baru telah ditambahkan: Anti-Artileri dan Berbagi itu Peduli\n• Antarmuka sumbangan Peleton/Mantra telah diubah dan kini menunjukkan sumbangan yang sudah ada\n• Peleton di Barak kini bisa antre berurutan, mirip Pabrik Mantra\n• Tombol Perang Klan kini beranimasi saat serangan perang dimulai\n• Perisai atau Penjaga aktif kini dapat ditutup secara manual dengan mengetuk ikon\n• Kamu bisa offline lebih lama sebelum rentan diserang\n• Ada suara khusus saat mencari target multipemain setelah 10 detik mencari\n• Ada suara khusus saat target multipemain tidak ditemukan dan pencarian dibatalkan\n• Batas waktu online Jeda Pribadi dikurangi menjadi 3 jam\n• Batas Jeda Pribadi kini diperpanjang dan bukan direset untuk beberapa kasus\n• Mencari lawan tanding Multipemain kini jarang menawarkan lawan di bawah level Balai Kotamu (hanya di bawah Liga Juara)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Penyeimbangan dan Peningkatan Lain
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Balai Kota Level 11 menyeruak masuk permainan! DUAR!\n• Wali Besar & Artileri Elang: Tambahan paling kuat dan strategis sepanjang masa!\n• Level peleton baru, level pertahanan baru, dan sumbangan Mantra Klan baru\n• Serang melalui Perisai kapan saja, tapi jangan lupa lindungi Balai Kota!\n• Jaga waktu mainmu saat Perisai tidak aktif dan jangan pernah diserang saat lengah lagi\n• Goblin memburu Balai Kota, Bonus Liga lebih besar, penawaran Trofi, dan masih banyak lagi!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Salah satu Pembaruan Terbesar Clash Sepanjang Masa!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Penghancuran Balai Kota tidak lagi memberikan Perisai - bawa masuk Balai Kotamu!\n• Kamu bisa menyerang selagi berperisai kapan saja dengan pengurangan Perisai sedikit saja\n• Dapatkan Perisai pada 30% penghancuran, lebih banyak pada 60% penghancuran, namun hanya saat tentara besar menyerang"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Perisai - Pertahanan Fleksibel dan Adil
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Minta bantuan mantra, bukan hanya peleton, dimulai dari Kastel Klan level 4\n• Mantra sumbangan menerima semua manfaat Fasilitas Klan yang ada\n• Mantra Beku kini terbuka di Balai Kota level 9 dan durasinya agak lebih panjang di level yang lebih rendah"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Donasi Mantra
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Rasakan level Balai Kota terbesar, tergarang, paling menantang: Balai Kota 11!\n• Pahlawan baru Balai Kota 11, Wali Besar, dapat membuat tentara nyaris tak terhentikan!\n• Pertahanan Balai Kota 11, Artileri Elang, memberikan keputusaaan yang memukau dari kejauhan\n• Lebih banyak pertahanan, termasuk ekstra Meriam, Menara Pemanah, Menara Penyihir, dan Busur X!\n• Balai Kota Level 11 untuk Minion, Nenek Sihir, Menara Penyihir, dan lainnya!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Naikkan ke BK11
 TID_NEWS_TOS_UPDATE,"Kami telah memperbarui Ketentuan Layanan dan Kebijakan Privasi! Luangkan waktu untuk membacanya (tersedia di dalam game pada Setelan). Dokumen penting ini mengatur hubungan pemain dengan game kami, berisi informasi berguna bagi siapa saja yang memilih untuk bermain. Untuk informasi selengkapnya, kunjungi forum kami."
 TID_NEWS_TREASURY TEXT,"Bonus Bintang Harian\n• Menangkan 5 Bintang dari pertempuran multipemain untuk meraih rampasan bonus\n• Raih bonus lebih besar di Liga lebih tinggi!\n• Bonus Bintang baru tersedia setiap hari!\n• Hadiah Bonus Bintang diamankan di Bank\n\nGerobak Rampasan\n• Gerobak Rampasan rusak muncul di Desa seusai bertahan\n• Ambil gerobak ini untuk memulihkan sebagian sumber daya yang hilang\n• Hanya satu Gerobak Rampasan yang akan muncul setiap kalinya, jadi langsung ambil saja!\n\nBank\n• Kastel Klan kini memiliki penampung sumber daya yang dilindungi dengan baik: Bank\n• Bank mengamankan bonus rampasan dari Perang Klan dan Bonus Bintang\n• Inilah tempat teraman untuk menyimpan rampasan bonus sampai siap digunakan!\n\nPenyeimbangan\n• Artileri Elang kini memberikan kerusakan 3x kepada Golem dan Golemites\n• Pertahanan Udara kedua kini terbuka di Balai Kota Level 6, yang ketiga terbuka di Balai Kota Level 7"
 TID_NEWS_TREASURY TITLE,Harta Karun Baru dan Bank
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Jawara Bajak Laut
 TID_PIRATE_KING,Raja Bajak Laut
 TID_PIRATE_QUEEN,Ratu Bajak Laut
 TID_PIRATE_WARDEN,Wali Bajak Laut
-TID_PIXEL_CHAMPION,Jawara Piksel
-TID_PIXEL_KING,Raja Piksel
-TID_PIXEL_QUEEN,Ratu Piksel
-TID_PIXEL_SCENERY,Latar Piksel
-TID_PIXEL_WARDEN,Wali Piksel
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Kamu telah ditempatkan di Liga!
 TID_PLACEMENT_HINT,Ketuk atau tekan lama untuk mengerahkan peleton
 TID_PLACEMENT_HINT_TUTORIAL1,Ketuk beberapa kali di area kosong untuk mengerahkan peleton
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internasional
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> Emas\n• <res1> Eliksir\n• <booster1>x Ramuan Kuat - memperkuat Peleton dan Mantra ke level maksimum sesuai dengan batas Balai Kota selama 1j\n•\n• Tidak ada batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Pimpin Klanmu menuju pertempuran epik dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> Emas\n• <res1> Eliksir\n• <booster1>x Ramuan Kuat - memperkuat Peleton dan Mantra ke level maksimum sesuai dengan batas Balai Kota selama 1j\n•\n• Tidak ada batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Pimpin Klanmu menuju pertempuran epik dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> Eliksir\n• <booster1>x Kitab Tempur - menyelesaikan peningkatan peleton yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Pandu Klanmu menuju gegap gempita pertempuran dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> Eliksir Hitam\n•<res1> Emas\n•<res2> Eliksir\n• <booster1>x Kitab Tempur - menyelesaikan peningkatan peleton yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali selama periode waktu yang ditampilkan\n• Pandu Klanmu menuju gegap gempita pertempuran dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> Eliksir\n• <booster1>x Kitab Tempur - menyelesaikan peningkatan peleton yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Pandu Klanmu menuju gegap gempita pertempuran dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> Eliksir Hitam\n•<res1> Emas\n•<res2> Eliksir\n• <booster1>x Kitab Tempur - menyelesaikan peningkatan peleton yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini hanya dapat dibeli 1 kali selama periode waktu yang ditampilkan\n• Pandu Klanmu menuju gegap gempita pertempuran dengan penawaran spesial ini!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Ramuan Tukang - Tukang milikmu akan bekerja 10x lebih cepat selama 1 jam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Gunakan kesempatan ini untuk meningkatkan pertahananmu!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> Emas\n• <booster1>x Ramuan Tukang - Tukang milikmu akan bekerja 10x lebih cepat selama 1 jam\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Gunakan kesempatan ini untuk meningkatkan pertahananmu!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Kitab Konstruksi - menyelesaikan peningkatan bangunan dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Gunakan kesempatan ini untuk meningkatkan pertahananmu!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Cincin Tembok - meningkatkan tembok dengan seketika, beberapa cincin mungkin diperlukan untuk tembok berlevel tinggi\n• <booster2>x Kitab Konstruksi - menyelesaikan peningkatan bangunan dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali selama periode waktu yang ditampilkan\n• Gunakan kesempatan ini untuk meningkatkan pertahananmu!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> Emas\n• <booster1>x Kitab Konstruksi - menyelesaikan peningkatan bangunan dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Gunakan kesempatan ini untuk meningkatkan pertahananmu!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• <res0> Emas\n•<res1> Eliksir\n• <booster1>x Cincin Tembok - meningkatkan tembok secara instan, beberapa cincin mungkin diperlukan untuk tembok berlevel tinggi\n• <booster2>x Kitab Konstruksi - menyelesaikan peningkatan bangunan secara instan\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 1 kali selama periode waktu yang ditampilkan\nGunakan kesempatan ini untuk meningkatkan pertahananmu!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> Eliksir\n• <booster1>x Ramuan Latihan - meningkatkan efisiensi Barak, Pabrik Mantra, Bengkel, dan regenerasi Pahlawan selama 1j\n• <booster2>x Ramuan Kuat - memperkuat Peleton dan Mantra ke level maksimum sesuai dengan batas Balai Kota selama 1j\n• <booster3>x Ramuan Sumber Daya - meningkatkan efisiensi pengumpul sumber daya selama 1h\n\n• Tidak ada batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton dan kerahkan Mantra sakti!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> Eliksir\n• <booster1>x Ramuan Latihan - meningkatkan efisiensi Barak, Pabrik Mantra, Bengkel, dan regenerasi Pahlawan selama 1j\n• <booster2>x Ramuan Kuat - memperkuat Peleton dan Mantra ke level maksimum sesuai dengan batas Balai Kota selama 1j\n• <booster3>x Ramuan Sumber Daya - meningkatkan efisiensi pengumpul sumber daya selama 1h\n\n• Tidak ada batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton dan kerahkan Mantra sakti!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> Eliksir Hitam\n•<res1> Eliksir\n• <booster1>x Kitab Pahlawan - menyelesaikan peningkatan Pahlawan yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 3 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton serta kerahkan mantra sakti!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> Eliksir Hitam\n•<res1> Emas\n• <booster1>x Kitab Pahlawan - menyelesaikan peningkatan Pahlawan yang sedang berlangsung dengan seketika\n• <booster2>x Kitab Mantra - menyelesaikan peningkatan Mantra yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton serta kerahkan mantra sakti!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> Eliksir\n•<booster1>x Kitab Pahlawan - menyelesaikan peningkatan Pahlawan yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton serta kerahkan mantra sakti!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> Eliksir Hitam\n•<res1> Emas\n• <booster1>x Kitab Pahlawan - menyelesaikan peningkatan Pahlawan yang sedang berlangsung dengan seketika\n• <booster2>x Kitab Mantra - menyelesaikan peningkatan Mantra yang sedang berlangsung dengan seketika\n\n• Tanpa batas penyimpanan!\n• Penawaran ini hanya dapat dibeli 1 kali selama periode waktu yang ditampilkan\n• Tingkatkan Pahlawan & Peleton serta kerahkan mantra sakti!
 TID_REINFORCEMENT_CAMP_INFO,Kemah Bala Bantuan akan memberikan bala bantuan yang diperlukan saat pertempuran mencapai babak genting.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Lebih baik terlambat daripada tidak sama sekali! Bangunan ini akan memberikan Peleton setelah babak pertama.
 TID_REINFORCEMENT_CAMPS,Bala Bantuan:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Jawara Antariksa
 TID_SPACE_KING,Raja Antariksa
 TID_SPACE_QUEEN,Ratu Antariksa
 TID_SPACE_WARDEN,Wali Antariksa
-TID_SPECIAL_OFFER,Penawaran Spesial
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Paket Ulang Tahun
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Spesial Musim Semi
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Spesial Musim Semi
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Spesial Musim Semi
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Spesial Musim Semi
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Pelaju Tukang
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x Rune Emas Tukang\n• <booster2>x Rune Eliksir Tukang\n• <booster3>x Kitab Tempur\n• <booster4>x Kitab Konstruksi\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 10 kali!\n\nTingkatkan laju peningkatanmu dengan paket keren ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x Rune Emas Tukang\n• <booster2>x Rune Eliksir Tukang\n• <booster3>x Kitab Tempur\n• <booster4>x Kitab Konstruksi\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali!\n\nTingkatkan laju peningkatanmu dengan paket keren ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x Rune Emas Tukang\n• <booster2>x Rune Eliksir Tukang\n• <booster3>x Kitab Tempur\n• <booster4>x Kitab Konstruksi\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali!\n\nTingkatkan laju peningkatanmu dengan paket keren ini!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Chief, penawaran ulang tahun Basis Tukang yang sangat spesial tersedia untukmu!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir Hitam\n• <booster3>x Ramuan Tukang\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 10 kali!\n\nTingkatkan tembokmu, penuhi penyimpanan Eliksir Hitam dan percepat tukang dengan paket spektakuler ini!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Eliksir Hitam\n• <booster4>x Rune Emas\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 4 kali!\n\nDapatkan sumber daya yang kamu perlukan dan naikkan level tembokmu dengan paket keren ini!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> Emas\n• <res1> Eliksir Hitam\n• <gems> Permata\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 20 kali!\n\nHarga yang menarik untuk meningkatkan Pertahanan, Pahlawan, dan Peleton Eliksir Hitam dalam satu paket menarik!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x Cincin Tembok\n• <booster2>x Rune Eliksir\n• <booster3>x Rune Eliksir Hitam\n• <booster4>x Rune Emas\n\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 2 kali!\n\nLakukan peningkatan dan naikkan level tembokmu dengan paket keren ini!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> Emas\n• <booster1>x Kitab Konstruksi\n•<booster2>x Ramuan Tukang\n• Tanpa batas penyimpanan!\n• Penawaran ini dapat dibeli 10 kali!\n\nSemua yang diperlukan untuk meningkatkan Balai Kota dan Pertahanan!
 TID_SPECIAL_PACK_BUILDER,Paket Pemula
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Kemampuan spesial terbuka pada level <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Kamu tidak berpartisipasi dalam Perang Klan ini

@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Máx.: <amount>
 TID_CONTINUE,Continuar
 TID_CONTRIBUTE,Contribuir
 TID_CONTRIBUTED,<name> ha contribuido.
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0> gemas\n• <booster1>x pócima de entrenamiento: Acelera los cuarteles, los calderos de hechizos, el taller de asedio y la regeneración de héroes durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar solo 1 vez mientras esté disponible.\n\n¡Aprovecha esta oferta única!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems> gemas\n• <booster1>x pócima de entrenamiento: Acelera los cuarteles, los calderos de hechizos, el taller de asedio y la regeneración de héroes durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar solo 1 vez mientras esté disponible.\n\n¡Aprovecha esta oferta única!"
 TID_COOLDOWN,Recuperación:
 TID_COPIED_TO_DEVICE_CLIPBOARD,¡Etiqueta copiada al portapapeles del dispositivo!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,¡Copiado al portapapeles del dispositivo!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,La aldea actual está enlazada a una cuenta de Gam
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,La aldea actual está enlazada a una cuenta de Google diferente a la que estás usando.\n\nCierra sesión en la cuenta de Google actual e inicia sesión de nuevo con la cuenta enlazada a esta aldea.\n\nLuego intenta hacer otra vez el enlace.
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Cuenta incorrecta
 TID_DEVICE_LINKED_MAIL_ITEM,Se ha enlazado un nuevo dispositivo a tu aldea.
-TID_DIAMOND_BUNDLE_BH3,Lote de taller del constructor de nivel 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Lote de constructor primerizo
-TID_DIAMOND_BUNDLE_BH3_INFO,• <gems> gemas\n• <res0> de elixir\n• Machacador de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH4,Lote de taller del constructor de nivel 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Lote de constructor en prácticas
-TID_DIAMOND_BUNDLE_BH4_INFO,• <gems> gemas\n• <res0> de elixir\n• Puesto de guardia de nivel 1\n• Bombas aéreas de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH5,Lote de taller del constructor de nivel 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Lote de constructor diestro
-TID_DIAMOND_BUNDLE_BH5_INFO,• <gems> gemas\n• <res0> de elixir\n• Mortero múltiple de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH6,Lote de taller del constructor de nivel 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Lote de constructor experto
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> gemas\n• <res0> de elixir\n• Carbonizador de nivel 1\n• Machacador de nivel 1\n\n¡Sin tiempo de construcción!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH7,Lote de taller del constructor de nivel 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Lote de constructor maestro
-TID_DIAMOND_BUNDLE_BH7_INFO,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n• Cañón gigante de nivel 4\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH8,Lote de taller del constructor de nivel 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Lote de constructor supremo
-TID_DIAMOND_BUNDLE_BH8_INFO,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n• Megatorre Tesla de nivel 4\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_BH9_ALT,Lote de campeón de constructores
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Lote de torre bombardera
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,• <gems> gemas\n• <res0> de oro\n• Torre bombardera de nivel 2\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_BUILD_PACK,Lote de construcción
-TID_DIAMOND_BUNDLE_BUILDER,Lote de constructor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Lote de héroe constructor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Lote de base del constructor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Lote de investigador constructor
-TID_DIAMOND_BUNDLE_BUILDER_INFO,El lote de constructor contiene <gems> gemas y un constructor gratis.
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Lote de investigación oscura
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de elixir\n• <res1> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Lote de héroe con elixir
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> gemas\n• <res0> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de oro\n• <res1> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de oro\n• <res1> de elixir\n• <res2> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\nNuestra <cffec78>mejor</c> oferta única. ¡No te la pierdas!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> gemas\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> gemas\n• <res0> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_HERO,Héroe
-TID_DIAMOND_BUNDLE_HERO_INFO,Héroe
-TID_DIAMOND_BUNDLE_HERO_PACK,Lote de héroe
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> de oro del constructor\n• <booster1>x pócima del constructor\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tu taller del constructor y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> de oro del constructor\n• <booster1>x libro de construcción\n• <booster2>x pócima del constructor\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tu taller del constructor y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> de oro del constructor\n• <booster1>x libro de construcción\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tu taller del constructor y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir del constructor\n• <booster1>x libro de lucha\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar las tropas de tu base del constructor!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir del constructor\n• <booster1>x libro de héroes\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tu máquina bélica!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> de oro\n• <booster1>x pócima del constructor\n• Sin límite de almacenaje.\n\n¡Todo lo que necesitas para mejorar tu ayuntamiento y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Lote de libros de construcción
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Lote de libro mágico
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> gemas\n• <booster1>x libro de héroes\n• <booster2>x libro de construcción\n• Sin límite de almacenamiento.\n\n¿Tus constructores están muy ocupados? ¿Tienes demasiados recursos pero te falta tiempo? Hazte con el lote de libro mágico para terminar al instante la mejora de un héroe y una estructura.\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> gemas\n• <booster1>x libro de héroes\n• <booster2>x libro de construcción\n• ¡Sin límite de almacenaje!\n\n¿Tus constructores están muy ocupados? ¿Tienes demasiados recursos pero te falta tiempo? Hazte con el lote de libro mágico para terminar al instante la mejora de un héroe y de una estructura.\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> gemas\n• <booster1>x libro de construcción\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de estructuras con el libro de construcción!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> de oro\n• <booster1>x libro de construcción\n• <booster2>x pócima del constructor\n• Sin límite de almacenaje.\n\n¡Todo lo que necesitas para mejorar tu ayuntamiento y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> de oro\n• <booster1>x libro de construcción\n• Sin límite de almacenaje.\n\n¡Todo lo que necesitas para mejorar tu ayuntamiento y tus defensas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Lote de libros de construcción
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x libro de construcción\n• <res0> de oro\n• <res1> de elixir\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de estructuras con el libro de construcción!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Lote de libros universales
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> gemas\n• <booster1>x libro universal\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora con el increíble libro universal!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Lote de libros universales
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x libro universal\n• <res0> de oro\n• <res1> de elixir\n• <res2> de elixir oscuro\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora con el increíble libro universal!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> de elixir oscuro\n• <booster1>x libro de lucha\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus tropas oscuras!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x libro de lucha\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus tropas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> de elixir oscuro\n• <booster1>x libro de lucha\n• <booster2>x libro de hechizos\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus tropas y hechizos oscuros!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x libro de lucha\n• <booster2>x libro de hechizos\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus tropas y hechizos!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Lote de libros de héroes
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> gemas\n• <booster1>x libro de héroes\n• ¡Sin límite de almacenaje!\n\n¡Recarga tus recolectores de recursos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Lote de libros de héroes
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x libro de héroes\n• <res0> de elixir oscuro\n• Sin límite de almacenaje.\n\n¡Termina mejoras de héroes al instante con el libro de héroes!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x libro de héroes\n• <res0> de elixir oscuro\n• ¡Sin límite de almacenaje!\n\n¡Termina las mejoras de héroes al instante con el libro de héroes!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Lote de mejora real
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> gemas\n• <res0> de elixir oscuro\n• <booster1>x libro de héroes\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar a tu rey bárbaro o a tu reina arquera!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> de elixir oscuro\n• <booster1>x libro de héroes\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar a tu rey bárbaro y tu reina arquera!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x libro de héroes\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar a tu gran centinela!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Lote de pócimas de recursos
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> gemas\n• <booster1>x pócima de recursos\n• ¡Sin límite de almacenaje!\n\n¡Recarga tus recolectores de recursos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Pócimas de recursos
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x pócima de recursos\n• ¡Sin límite de almacenaje!\n\n¡Recarga tus recolectores de recursos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Lote de libros de hechizos
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> gemas\n• <booster1>x libro de hechizos\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de hechizos con el libro de hechizos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Lote de libros de hechizos
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x libro de hechizos\n• <res0> de elixir\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de hechizos con el libro de hechizos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Lote de mejora de hechizos
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> gemas\n• <res0> de elixir\n• <booster1>x libro de hechizos\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus hechizos!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Lote de pócimas de fuerza
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> gemas\n• <booster1>x pócima de fuerza\n• ¡Sin límite de almacenaje!\n\nSaca el máximo provecho a tus tropas y prueba un nuevo ejército.\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Pócimas de fuerza
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x pócima de fuerza\n• ¡Sin límite de almacenaje!\n\n¡Saca el máximo provecho a tus tropas y prueba un nuevo ejército!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Lote de pócimas de entrenamiento
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> gemas\n• <booster1>x pócima de entrenamiento\n• ¡Sin límite de almacenaje!\n\nPotencia el entrenamiento de tropas, la elaboración de hechizos y la regeneración de héroes.\n\n¡No te pierdas esta oferta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Pócimas de entrenamiento
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x pócima de entrenamiento\n• ¡Sin límite de almacenaje!\n\n¡Potencia el entrenamiento de tropas, la elaboración de hechizos y la regeneración de héroes!\n\n¡No te pierdas esta oferta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Lote de libros de lucha
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> gemas\n• <booster1>x libro de lucha\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de tropas con el libro de lucha!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Lote de libros de lucha
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x libro de lucha\n• <res0> de elixir\n• ¡Sin límite de almacenaje!\n\n¡Termina al instante cualquier mejora de tropas con el libro de lucha!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Lote de mejora de tropas
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> gemas\n• <res0> de elixir\n• <booster1>x libro de lucha\n• ¡Sin límite de almacenaje!\n\n¡Todo lo que necesitas para mejorar tus tropas!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Lote de mejora de estructuras
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> gemas\n• <res0> de oro\n• <res1> de elixir\n• <booster1>x libro de construcción\n• ¡Sin límite de almacenaje!\n\n¿Necesitas mejorar una estructura? ¡Este lote tiene todo lo que necesitas!\n\n¡No te pierdas esta oferta!
-TID_DIAMOND_BUNDLE_RED,(Lote de héroe)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> gemas\n• Estatua de poder de héroe\n• Modelo (RED) de edición limitada para el rey bárbaro\n\nEl 100 % de los beneficios se destinará a ayudar a (RED) a luchar contra el sida.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Lote de investigación
-TID_DIAMOND_BUNDLE_TH10,Lote de ayuntamiento de nivel 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x libro de construcción\n• <booster2>x libro de héroes\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH10_INFO,• <gems> gemas\n• <res0> de oro\n• Torre infernal de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,• Torre infernal de nivel 1\n• <booster1>x libro de héroes\n• <res0> de elixir oscuro\n• <booster2>x pócima del constructor\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Torre infernal de nivel 1\n• Ballesta de nivel 2\n• <res0> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value></c> veces más barata!
-TID_DIAMOND_BUNDLE_TH11,Lote de ayuntamiento de nivel 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x libro de construcción\n• <booster2>x libro de héroes\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> gemas\n• Gran centinela\n• Águila de artillería de nivel 1\n\n¡Sin tiempo de construcción!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,• Águila de artillería de nivel 1\n• Gran centinela\n• <booster1>x libro de héroes\n• <res0> de elixir\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,• Águila de artillería de nivel 1\n• Gran centinela\n• <res0> de elixir oscuro\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH12,Lote de ayuntamiento de nivel 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH12_INFO,• Taller de asedio de nivel 1\n• <res0> de elixir oscuro\n• <res1> de oro\n\nSin tiempo de construcción ni límite de almacenaje. ¡Ponte a fabricar máquinas de asedio inmediatamente con el taller!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH13,Lote de ayuntamiento de nivel 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH13_INFO,• Luchadora real de nivel 3\n• <res0> de elixir oscuro\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH14,Lote de ayuntamiento de nivel 14
-TID_DIAMOND_BUNDLE_TH15,Lote de ayuntamiento de nivel 15
-TID_DIAMOND_BUNDLE_TH3,Lote de ayuntamiento de nivel 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> gemas\n• <res0> de oro\n• <res1> de elixir\n• <booster1>x pócima del constructor\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH4,Lote de ayuntamiento de nivel 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> de oro\n• <res1> de elixir\n• <gems> gemas\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH4_INFO,• <gems> gemas\n• <res0> de oro\n• Cohetes de defensa de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> de oro\n• <res1> de elixir\n• <booster1>x pócima del constructor\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Cohetes de defensa de nivel 2\n• <res0> de oro\n• <res1> de elixir\n• <gems> gemas\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH5,Lote de ayuntamiento de nivel 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH5_INFO,• <gems> gemas\n• <res0> de oro\n• Torre de mago de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x libro de construcción\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Torre de mago de nivel 2\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value></c> veces más barata!
-TID_DIAMOND_BUNDLE_TH6,Lote de ayuntamiento de nivel 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> de oro\n• <res1> de elixir\n• <gems> gemas\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH6_INFO,• <gems> gemas\n• <res0> de oro\n• Controlador aéreo de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x libro de construcción\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Torre de mago de nivel 3\n• Mortero de nivel 4\n• <res0> de oro\n• <res1> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH7,Lote de ayuntamiento de nivel 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> gemas\n• Rey bárbaro\n• Torre Tesla de nivel 2\n\n¡Sin tiempo de construcción!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Rey bárbaro\n• <booster1>x libro de héroes\n• <res0> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Torre Tesla de nivel 2\n• Rey bárbaro\n• <res0> de elixir oscuro\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_TH8,Lote de ayuntamiento de nivel 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH8_INFO,• <gems> gemas\n• <res0> de oro\n• Torre bombardera de nivel 1\n\n¡Sin tiempo de construcción ni límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x libro de lucha\n• <booster2>x libro de hechizos\n• <res0> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Torre bombardera de nivel 2\n• Torre de mago de nivel 5\n• <res0> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value></c> veces más barata!
-TID_DIAMOND_BUNDLE_TH9,Lote de ayuntamiento de nivel 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> gemas\n• Reina arquera\n• Ballesta de nivel 1\n\n¡Sin tiempo de construcción!\n\n¡No te pierdas esta oferta única <cffec78><value> veces más barata</c>!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Reina arquera\n• <booster1>x libro de héroes\n• <res0> de elixir oscuro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Ballesta de nivel 2\n• Reina arquera\n• <res0> de elixir oscuro\n• <res1> de oro\n\n¡Sin límite de almacenaje!\n\n¡No te pierdas esta oferta única <cffec78><value> veces</c> más barata!
 TID_DIAMOND_FOUND,¡Has encontrado una gema (<name>)!
 TID_DIAMOND_GIFT_RECEIVED,¡Has conseguido <number> gemas como regalo del clan!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,¡Tu mina de gemas está llena!
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,¡Consigue medallas de multitropas e intercámbi
 TID_HALLOWEEN_INFO_SCREEN_TITLE,¡Esto es el caos multitropa!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,El caldero transformará uno de tus almacenes de elixir en elixir ácido dentro de <time>.
 TID_HALLOWEEN_TOKENS_LEFT,Medallas de multitropas restantes: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> de oro\n• Pócima del constructor x<booster1>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 5 veces!\n\n¡Aprovecha la temporada de mejoras con esta espectacular oferta de la Martillomanía!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• Anillo de muros x<booster1>\n• Runa de elixir oscuro x<booster2>\n• Pócima del constructor x<booster3>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 10 veces!\n\n¡Potencia tus mejoras con este increíble lote!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• Anillo de muros x<booster1>\n• Runa de elixir x<booster2>\n• Runa de oro x<booster3>\n• Runa de elixir oscuro x<booster4>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 4 veces!\n\n¡Potencia tus mejoras con este increíble lote!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• Anillo de muros x<booster1>\n• Runa de elixir x<booster2>\n• Runa de oro x<booster3>\n• Runa de elixir oscuro x<booster4>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 2 veces!\n\n¡Potencia tus mejoras con este increíble lote!
 TID_HASH,#
 TID_HASTE,Hechizo de furia
 TID_HASTE_DAMAGE,Aumento de daño: <number> %
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,"• ¡Han llegado dos nuevas unidades a la base 
 TID_NEWS_SEP_V2_BALANCING_TITLE,Taller del constructor de nivel 7 disponible
 TID_NEWS_SPELLS_TEXT,"Hechizo de rayo:\n* El hechizo de rayo de nivel 7 arrasa igualmente con tropas y edificios.\n* Se ha aumentado el daño del hechizo de rayo de niveles 5 y 6.\n* Ahora los rayos se lanzan más juntos para mejorar la puntería.\n\nHechizo de veneno:\n* Al principio, este hechizo no afectará tanto a las tropas, pero infligirá cada vez más daño.\n* Puede llegar a infligir un gran daño que perdura incluso después de disiparse el hechizo.\n* Este hechizo reduce el porcentaje de ataque de las tropas defensivas.\n\nHechizo de terremoto:\n* Este hechizo inflige mucho más daño, independientemente de los puntos de vida actuales del edificio.\n* Lanzar más hechizos de terremoto contra los mismos edificios inflige menos daño.\n* Cualquier muro se podrá destruir con cuatro hechizos de terremoto."
 TID_NEWS_SPELLS_TITLE,Ajustes en los hechizos
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Esta enorme arma a larga distancia arrasa con los ejércitos atacantes poco preparados.\n• Una lluvia de obuses explosivos pulveriza a las tropas más resistentes y daña a las que se encuentren cerca del lugar del impacto.\n• El águila de artillería solo se activa cuando se han desplegado muchas tropas, lo que deja la puerta abierta a ataques tácticos y ataques multifase."
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,El águila de artillería: el protector latente
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• El límite de tiempo de la batalla ha aumentado 30 segundos.\n• Los duendes ahora atacan el ayuntamiento y el castillo del clan por el doble de daño.\n• El coste de rearme de todas las trampas se ha reducido considerablemente.\n• El coste de recarga de todas las ballestas se ha reducido considerablemente.\n• Un gran número de curanderas tiene una efectividad reducida sobre la misma unidad.\n• Las aceleraciones de tropas se han reducido a 5 gemas por 1 hora de aceleración.\n• El coste de buscar batalla se reduce con el ayuntamiento de nivel 10.\n• El tiempo de preparación de la guerra de clanes se ha reducido a 23 horas.\n• La inteligencia artificial de búsqueda de rutas y combate de tropas se ha retocado y ajustado.\n• El porcentaje de botín disponible en los ayuntamientos de niveles 6-10 ha aumentado ligeramente.\n• Las aldeas con un ayuntamiento de un nivel menos tienen ahora un botín ligeramente inferior.\n• El campo de juego y la zona de despliegue de tropas se han ampliado (los obstáculos periféricos han sido automáticamente eliminados).
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Equilibrio en la experiencia de juego
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• La guardia te protege de los ataques a la vez que te permite atacar a otros cuando quieras.\n• Recibirás una guardia gratis cuando los escudos se acaben.\n• Las ligas superiores proporcionan gratis una guardia mayor: los jugadores de la Liga de Titanes I y de la Liga de Leyendas reciben una cobertura del 100 %.\n• Todos los días habrá 2 horas de guardia extra disponibles en la tienda.
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,La guardia: juega a salvo de ataques
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Utiliza nuevas y poderosas tácticas para proteger a tus tropas y proporcionarles puntos de vida extras.\n• Fortalece a todas las tropas cercanas y las hace temporalmente invencibles.\n• Es capaz de saltar y de volar, así que ¡inclúyelo en tu estrategia!"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,El gran centinela: el nuevo héroe de tu ejército
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Los ayuntamientos ahora albergan un gran botín disponible: ¡destrúyelos en la batalla y conseguirás grandes beneficios!\n• Los bonus de ligas son mayores que nunca, pero dependerán del porcentaje de destrucción causada.\n• Las ofertas de trofeos aumentarán y las pérdidas de trofeos se reducirán conforme mayor sea la liga a la que perteneces."
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Asaltos con más beneficios: botín y trofeos
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Se han añadido dos nuevos logros: Antiartillería y Compartir es vivir.\n• Hemos rediseñado la interfaz de tropas y hechizos y ahora muestra las donaciones existentes.\n• Las tropas del cuartel ahora se pueden poner en cola de forma secuencial, al igual que en el caldero de hechizos.\n• El botón de guerra de clanes presenta ahora una animación cuando empieza un ataque de guerra.\n• El escudo o la guardia activos se pueden eliminar manualmente tocando su icono.\n• Ahora puedes estar desconectado un poco más de tiempo antes de ser vulnerable a los ataques.\n• Sonará una señal especial cuando se encuentre un objetivo de multijugador tras 10 segundos de búsqueda.\n• Sonará una señal especial cuando no se encuentren objetivos de multijugador y la búsqueda se cancele.\n• El límite de tiempo de conexión para la pausa personal se ha reducido a 3 horas.\n• En algunos casos, la pausa personal se extiende en vez de reiniciarse.\n• Buscar batallas de multijugador tiene menos probabilidades de ofrecer oponentes por debajo del nivel de tu ayuntamiento (solo por debajo de la Liga de Campeones)."
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Otras mejoras y más cambios de equilibrio
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• ¡El ayuntamiento de nivel 11 entra en escena! ¡PUM!\n• Nuevas incorporaciones potentes y estratégicas: el gran centinela y el águila de artillería.\n• Nuevos niveles de tropas, niveles de defensa y donación de hechizos del clan.\n• Ataca cuando quieras aunque tengas un escudo activo, pero no olvides proteger bien tu ayuntamiento.\n• Usa la guardia si no tienes ningún escudo activo para que no te ataquen por sorpresa.\n• Mayores bonus de ligas, ofertas de trofeos, duendes que atacan ayuntamientos ¡y muchas cosas más!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,¡Llega una de las mayores actualizaciones de Clash of Clans!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• La destrucción del ayuntamiento ya no concede un escudo, así que ¡asegúrate de protegerlo bien!\n• Ahora puedes atacar en cualquier momento teniendo un escudo activo, pero su duración se reducirá.\n• Recibirás un escudo al sufrir un 30 % de destrucción y más al sufrir un 60 %, pero solo cuando te ataquen ejércitos numerosos."
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Los escudos: una defensa adecuada y flexible
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Pide hechizos de refuerzo, además de tropas, a partir del nivel 4 del castillo del clan.\n• Los hechizos donados se benefician de los galardones del clan ya conseguidos.\n• El hechizo de hielo se desbloquea ahora con el ayuntamiento de nivel 9 y tiene una duración ligeramente mayor en los niveles más bajos."
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Participa en el intercambio de hechizos
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Disfruta del ayuntamiento del nivel más alto y desafiante: ¡el nivel 11!\n• El nuevo héroe del ayuntamiento de nivel 11, el gran centinela, puede hacer que tus ejércitos sean casi imparables.\n• La nueva defensa del ayuntamiento de nivel 11, el águila de artillería, provoca estragos a gran distancia.\n• Más defensas disponibles, que incluyen un cañón, una torre de arqueras, una torre de mago y una ballesta adicionales.\n• Nuevos niveles del ayuntamiento de nivel 11 para el esbirro, la bruja, la torre de mago ¡y muchos más!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Sube el ayuntamiento al nivel máximo
 TID_NEWS_TOS_UPDATE,Hemos actualizado las Condiciones del servicio y la Política de privacidad. Dedica un momento a leerlas detenidamente (disponibles en la sección de ajustes del juego). Contienen información importante y rigen la relación entre los jugadores y nuestros juegos.
 TID_NEWS_TREASURY TEXT,"Bonus estelar diario:\n• Consigue 5 estrellas en batallas multijugador para llevarte un botín de bonus.\n• Gana mayores bonus estelares en las ligas superiores.\n• Habrá un nuevo bonus estelar cada día.\n• Este bonus se guardará en la tesorería.\n\nCarro de botín:\n• Un carro de botín destartalado aparecerá en tu aldea después de cada defensa.\n• Recógelo para recuperar parte de los recursos perdidos.\n• Aparecerá solo uno cada vez, así que recógelo inmediatamente.\n\nLa tesorería:\n• El castillo del clan ahora alberga una tesorería para proteger recursos.\n• En ella se guarda el bonus de las guerras de clanes y el bonus estelar.\n• ¡Es el lugar más seguro para guardar tu botín hasta que sepas cómo gastarlo!\n\nEquilibrio:\n• El águila de artillería ahora inflige el triple de daño a gólems y golemitas.\n• Puedes conseguir un segundo cohete de defensa con el ayuntamiento de nivel 6 y un tercero con el de nivel 7."
 TID_NEWS_TREASURY TITLE,La tesorería y tesoros nuevos
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Luchadora pirata
 TID_PIRATE_KING,Rey pirata
 TID_PIRATE_QUEEN,Reina pirata
 TID_PIRATE_WARDEN,Centinela pirata
-TID_PIXEL_CHAMPION,Luchadora pixelada
-TID_PIXEL_KING,Rey pixelado
-TID_PIXEL_QUEEN,Reina pixelada
-TID_PIXEL_SCENERY,Paisaje pixelado
-TID_PIXEL_WARDEN,Centinela pixelado
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,¡Te has unido a una liga!
 TID_PLACEMENT_HINT,Toca para desplegar una unidad o mantén para desplegar varias.
 TID_PLACEMENT_HINT_TUTORIAL1,Toca varias veces en una zona vacía para desplegar tus tropas.
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internacional
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x pócima de fuerza: Potencia tus tropas al nivel máximo que permita tu ayuntamiento durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 3 veces mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x pócima de fuerza: Potencia tus tropas al nivel máximo que permita tu ayuntamiento durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> de elixir\n• <booster1>x libro de lucha: Completa al instante cualquier mejora de tropas en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 3 veces mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n• <booster1>x libro de lucha: Completa al instante cualquier mejora de tropas en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 2 veces mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> de elixir\n• <booster1>x libro de lucha: Completa al instante cualquier mejora de tropas en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> de elixir oscuro\n• <res1> de oro\n• <res2> de elixir\n• <booster1>x libro de lucha: Completa al instante cualquier mejora de tropas en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta solo se puede comprar 1 vez mientras esté disponible.\n• Lleva a tu clan a la gloria con esta increíble oferta.
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x pócima del constructor: Permite a tus constructores trabajar diez veces más rápido durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 3 veces mientras esté disponible.\n• ¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> de oro\n• <booster1>x pócima del constructor: Permite a tus constructores trabajar diez veces más rápido durante 1 hora.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• ¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x libro de construcción: Completa al instante cualquier mejora de edificio.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta solo se puede comprar 3 veces mientras esté disponible.\n• ¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x anillo de muros: Mejora muros al instante (aunque es posible que los muros de niveles superiores requieran varios anillos).\n• <booster2>x libro de construcción: Completa al instante cualquier mejora de edificio.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 2 veces mientras esté disponible.\n• ¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> de oro\n• <booster1>x libro de construcción: Completa al instante cualquier mejora de edificio.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• ¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,• <res0> de oro\n• <res1> de elixir\n• <booster1>x anillo de muros: Mejora muros al instante (aunque es posible que los muros de niveles superiores requieran varios anillos).\n• <booster2>x libro de construcción: Completa al instante cualquier mejora de edificio.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta solo se puede comprar 1 vez mientras esté disponible.\n¡Aprovecha este momento para mejorar tus defensas!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> de elixir\n• <booster1>x pócima de entrenamiento: Acelera los cuarteles, los calderos de hechizos, el taller de asedio y la regeneración de héroes durante 1 hora.\n• <booster2>x pócima de fuerza: Potencia tus tropas y hechizos al nivel máximo que permita tu ayuntamiento durante 1 hora.\n• <booster3>x pócima de recursos: Acelera la eficiencia de tus recolectores durante 1 día.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 3 veces mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> de elixir\n• <booster1>x pócima de entrenamiento: Acelera los cuarteles, los calderos de hechizos, el taller de asedio y la regeneración de héroes durante 1 hora.\n• <booster2>x pócima de fuerza: Potencia tus tropas y hechizos al nivel máximo que permita tu ayuntamiento durante 1 hora.\n• <booster3>x pócima de recursos: Acelera la eficiencia de tus recolectores durante 1 día.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> de elixir oscuro\n• <res1> de elixir\n• <booster1>x libro de héroes: Completa al instante cualquier mejora de héroe en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta solo se puede comprar 3 veces mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> de elixir oscuro\n• <res1> de oro\n• <booster1>x libro de héroes: Completa al instante cualquier mejora de héroe en curso.\n• <booster2>x libro de hechizos: Completa al instante cualquier mejora de hechizo en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 2 veces mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> de elixir\n• <booster1>x libro de héroes: Completa al instante cualquier mejora de héroe en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta se puede comprar 4 veces mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> de elixir oscuro\n• <res1> de oro\n• <booster1>x libro de héroes: Completa al instante cualquier mejora de héroe en curso.\n• <booster2>x libro de hechizos: Completa al instante cualquier mejora de hechizo en curso.\n\n• ¡Sin límites de almacenaje!\n• Esta oferta solo se puede comprar 1 vez mientras esté disponible.\n• ¡Mejora tus héroes y tropas e invoca hechizos más poderosos!
 TID_REINFORCEMENT_CAMP_INFO,Los campamentos de refuerzo proporcionan refuerzos durante las batallas al alcanzar cierta fase.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,¡Mejor tarde que nunca! Añade tropas tras la primera fase.
 TID_REINFORCEMENT_CAMPS,Refuerzos:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Luchadora espacial
 TID_SPACE_KING,Rey espacial
 TID_SPACE_QUEEN,Reina espacial
 TID_SPACE_WARDEN,Centinela espacial
-TID_SPECIAL_OFFER,Oferta especial
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Lote de aniversario
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Lote especial
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Lote especial
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Lote especial
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Lote especial
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Lote de construcción
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• Runa de oro del constructor x<booster1>\n• Runa de elixir del constructor x<booster2>\n• Libro de lucha x<booster3>\n• Libro de construcción x<booster4>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 10 veces!\n\n¡Ponte ya a hacer mejoras con este increíble lote!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• Runa de oro del constructor x<booster1>\n• Runa de elixir del constructor x<booster2>\n• Libro de lucha x<booster3>\n• Libro de construcción x<booster4>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 4 veces!\n\n¡Ponte ya a hacer mejoras con este increíble lote!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• Runa de oro del constructor x<booster1>\n• Runa de elixir del constructor x<booster2>\n• Libro de lucha x<booster3>\n• Libro de construcción x<booster4>\n\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 2 veces!\n\n¡Ponte ya a hacer mejoras con este increíble lote!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Jefe, disfruta de una oferta muy especial por el aniversario de la base del constructor."
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x anillo de muros\n• <booster2>x runa de elixir oscuro\n• <booster3>x pócima del constructor\n\n• Sin límites de almacenamiento\n• ¡Esta oferta se puede comprar 10 veces!\n\n¡Mejora tus muros, llena tus almacenes de elixir oscuro y acelera a tus constructores!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x anillo de muros\n• <booster2>x runa de elixir\n• <booster3>x runa de elixir oscuro\n• <booster4>x runa de oro\n\n• Sin límites de almacenamiento\n• ¡Esta oferta se puede comprar 4 veces!\n\n¡Consigue los recursos que necesites y sube el nivel de tus muros con esta fabulosa oferta!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> de oro\n• <res1> de elixir oscuro\n• <gems> gemas\n\n• Sin límites de almacenamiento\n• ¡Esta oferta se puede comprar 20 veces!\n\n¡Una superoferta para mejorar tus defensas, héroes y tropas de elixir oscuro en un lote completísimo!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x anillo de muros\n• <booster2>x runa de elixir\n• <booster3>x runa de elixir oscuro\n• <booster4>x runa de oro\n\n• Sin límites de almacenamiento\n• ¡Esta oferta se puede comprar 2 veces!\n\n¡Potencia tus mejoras y sube el nivel de tus muros con este increíble lote!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> de oro\n• <booster1>x libro de construcción\n• <booster2>x pócima del constructor\n• Sin límites de almacenaje\n• ¡Esta oferta se puede comprar 10 veces!\n\n¡Todo lo que necesitas para mejorar tu ayuntamiento y tus defensas!
 TID_SPECIAL_PACK_BUILDER,Lote de principiante
 TID_SPECIAL_UNLOCKS_AT_LEVEL,La habilidad especial se desbloquea en el nivel <number>.
 TID_SPECTATOR_CAN_NOT_CLAIM,No estás participando en esta guerra de clanes.

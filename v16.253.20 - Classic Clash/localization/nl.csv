@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Max: <amount>
 TID_CONTINUE,Doorgaan
 TID_CONTRIBUTE,Draag bij:
 TID_CONTRIBUTED,Bijdrage door <name>
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0> edelstenen\n• <booster1>x een trainingsdrankje: verhoogt een uur lang de efficiëntie van de kazernes, spreukenfabrieken, de werkplaats en het herstellen van helden\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 1 keer kopen tijdens de aangegeven periode.\n\nKrijg wat hulp met deze eenmalige geweldige aanbieding!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems> edelstenen\n• <booster1>x een trainingsdrankje: verhoogt een uur lang de efficiëntie van de kazernes, spreukenfabrieken, de werkplaats en het herstellen van helden\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 1 keer kopen tijdens de aangegeven periode.\n\nKrijg wat hulp met deze eenmalige geweldige aanbieding!"
 TID_COOLDOWN,Afkoeltijd:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Label gekopieerd naar klembord van apparaat!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Gekopieerd naar klembord van apparaat.
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,Het huidige dorp is gekoppeld aan een ander Game C
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,Het huidige dorp is gekoppeld aan een ander Google-account dan het account waarbij je bent aangemeld.\n\nMeld je af van je huidige Google-account via het scherm Instellingen en meld je aan met het account dat aan dit dorp is gekoppeld.\n\nProbeer daarna opnieuw te koppelen.
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Aangemeld bij verkeerde account
 TID_DEVICE_LINKED_MAIL_ITEM,Nieuw apparaat is gekoppeld aan je dorp.
-TID_DIAMOND_BUNDLE_BH3,Bouwerszaal 3-pakket
-TID_DIAMOND_BUNDLE_BH3_ALT,Amateur-bouwerpakket
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> edelstenen\n• <res0> elixir\n• Vermorzelaar level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH4,Bouwerszaal 4-pakket
-TID_DIAMOND_BUNDLE_BH4_ALT,Leerling-bouwerpakket
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> edelstenen\n• <res0> elixir\n• Wachtpost level 1\n• Luchttonnen level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH5,Bouwerszaal 5-pakket
-TID_DIAMOND_BUNDLE_BH5_ALT,Natuurtalent-bouwerpakket
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> edelstenen\n• <res0> elixir\n• Multimortier level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH6,Bouwerszaal 6-pakket
-TID_DIAMOND_BUNDLE_BH6_ALT,Expert-bouwerpakket
-TID_DIAMOND_BUNDLE_BH6_INFO,"• <gems> edelstenen\n• <res0> elixir\n• Plasmaketel level 1\n• Vermorzelaar level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH7,Bouwerszaal 7-pakket
-TID_DIAMOND_BUNDLE_BH7_ALT,Meesterbouwerpakket
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n• Reuzenkanon level 4\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH8,Bouwerszaal 8-pakket
-TID_DIAMOND_BUNDLE_BH8_ALT,Grootmeesterbouwerpakket
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n• Mega-Tesla level 4\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> edelstenen\n• <res0> elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_BH9_ALT,Kampioenbouwerpakket
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Bomtorenpakket
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> edelstenen\n• <res0> goud\n• Bomtoren level 2\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Bouwpakket
-TID_DIAMOND_BUNDLE_BUILDER,Bouwvakkerspakket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Bouwers-heldenpakket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Bouwersbasispakket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Bouwers-onderzoekspakket
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Dit bouwvakkerspakket bevat <gems> edelstenen en een gratis bouwvakker!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> edelstenen\n• <res0> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Duister-onderzoekspakket
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> edelstenen\n• <res0> elixir\n• <res1> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Elixir-heldenpakket
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> edelstenen\n• <res0> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> edelstenen\n• <res0> goud\n• <res1> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> edelstenen\n• <res0> goud\n• <res1> elixir\n• <res2> duister elixir\n\nOverschrijd opslaglimieten!\n\nOnze <cffec78>beste</c> EENMALIGE aanbieding ooit. Mis deze niet!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> edelstenen\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> edelstenen\n• <res0> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_HERO,Held
-TID_DIAMOND_BUNDLE_HERO_INFO,Held
-TID_DIAMOND_BUNDLE_HERO_PACK,Heldenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> bouwersgoud\n• <booster1>x een bouwvakkersdrankje\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je bouwerszaal en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> bouwersgoud\n• <booster1>x het gebouwenboek\n• <booster2>x een bouwvakkersdrankje\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je bouwerszaal en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> bouwersgoud\n• <booster1>x het gebouwenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je bouwerszaal en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> bouwerselixir\n• <booster1>x het vechtboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om de troepen in de bouwersbasis te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> bouwerselixir\n• <booster1>x het heldenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je gevechtsmachine te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> goud\n• <booster1>x een bouwvakkersdrankje\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je stadhuis en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Gebouwenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Magisch boekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,"• <gems> edelstenen\n• <booster1>x het heldenboek\n• <booster2>x het gebouwenboek\n• Geen opslaglimieten!\n\nZijn je bouwvakkers bezig? Heb je grondstoffen in overvloed, maar geen tijd om ze uit te geven? Haal het magische boekenpakket om onmiddellijk één helden- en één gebouwenupgrade te voltooien.\n\nMis deze aanbieding niet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,"• <gems> edelstenen\n• <booster1>x het heldenboek\n• <booster2>x het gebouwenboek\n• Geen opslaglimieten!\n\nZijn je bouwvakkers bezig? Heb je grondstoffen in overvloed, maar geen tijd om ze uit te geven? Haal het magische boekenpakket om onmiddellijk één helden- en één gebouwenupgrade te voltooien.\n\nMis deze aanbieding niet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> edelstenen\n• <booster1>x het gebouwenboek\n• Geen opslaglimieten!\n\nVoltooi een gebouwenupgrade onmiddellijk met het gebouwenboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> goud\n• <booster1>x het gebouwenboek\n• <booster2>x een bouwvakkersdrankje\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je stadhuis en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> goud\n• <booster1>x het gebouwenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je stadhuis en verdedigingswerken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Gebouwenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x het gebouwenboek\n• <res0> goud\n• <res1> elixir\n• Geen opslaglimieten!\n\nVoltooi een gebouwenupgrade onmiddellijk met het gebouwenboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Allesboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> edelstenen\n• <booster1>x het allesboek\n• Geen opslaglimieten!\n\nVoltooi een willekeurige upgrade onmiddellijk met het ongelooflijke allesboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Allesboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x het allesboek\n• <res0> goud\n• <res1> elixir\n• <res2> duister-elixir\n• Geen opslaglimieten!\n\nVoltooi een upgrade onmiddellijk met het ongelooflijke allesboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> duister-elixir\n• <booster1>x het vechtboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je duistere troepen te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> elixir\n• <booster1>x het vechtboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je troepen te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> duister-elixir\n• <booster1>x het vechtboek\n• <booster2>x het spreukenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je duistere troepen en spreuken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> elixir\n• <booster1>x het vechtboek\n• <booster2>x het spreukenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je troepen en spreuken te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Heldenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> edelstenen\n• <booster1>x het heldenboek\n• Geen opslaglimieten!\n\nVoltooi een heldenupgrade onmiddellijk met het heldenboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Heldenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x het heldenboek\n• <res0> duister-elixir\n• Geen opslaglimieten!\n\nVoltooi een heldenupgrade onmiddellijk met het heldenboek.\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x het heldenboek\n• <res0> duister-elixir\n• Geen opslaglimieten!\n\nVoltooi een heldenupgrade onmiddellijk met het heldenboek.\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Koninklijk upgradepakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> edelstenen\n• <res0> duister-elixir\n• <booster1>x het heldenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je barbarenkoning of boogschutterskoningin te upgraden.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> duister-elixir\n• <booster1>x het heldenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je barbarenkoning en boogschutterskoningin te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> elixir\n• <booster1>x het heldenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je nobele wachter te upgraden.
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Grondstoffendrankjespakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> edelstenen\n• <booster1>x een grondstoffendrankje\n• Geen opslaglimieten!\n\nGeef je grondstofverzamelaars een superboost.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Stapel grondstoffendrankjes
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x een grondstoffendrankje\n• Geen opslaglimieten!\n\nGeef je grondstofverzamelaars een superboost.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Spreukenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> edelstenen\n• <booster1>x het spreukenboek\n• Geen opslaglimieten!\n\nVoltooi een spreukenupgrade onmiddellijk met het spreukenboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Spreukenboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x het spreukenboek\n• <res0> elixir\n• Geen opslaglimieten!\n\nVoltooi een spreukenupgrade onmiddellijk met het spreukenboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Spreukenupgradepakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> edelstenen\n• <res0> elixir\n• <booster1>x het spreukenboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je spreuken te upgraden.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Krachtdrankjespakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> edelstenen\n• <booster1>x een krachtdrankje\n• Geen opslaglimieten!\n\nHaal het meeste uit je troepen en probeer nu nieuwe legersamenstellingen.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Stapel krachtdrankjes
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x een krachtdrankje\n• Geen opslaglimieten!\n\nHaal het meeste uit je troepen en probeer nu nieuwe legersamenstellingen.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Trainingsdrankjespakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> edelstenen\n• <booster1>x een trainingsdrankje\n• Geen opslaglimieten!\n\nGeef het trainen van troepen, brouwen van spreuken en herstellen van helden een boost.\n\nMis deze aanbieding niet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Stapel trainingsdrankjes
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x een trainingsdrankje\n• Geen opslaglimieten!\n\nGeef het trainen van troepen, brouwen van spreuken en herstellen van helden een boost.\n\nMis deze aanbieding niet!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Vechtboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> edelstenen\n• <booster1>x het vechtboek\n• Geen opslaglimieten!\n\nVoltooi een troepenupgrade onmiddellijk met het vechtboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Vechtboekenpakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x het vechtboek\n• <res0> elixir\n• Geen opslaglimieten!\n\nVoltooi een troepenupgrade onmiddellijk met het vechtboek.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Troepenupgradepakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> edelstenen\n• <res0> elixir\n• <booster1>x het vechtboek\n• Geen opslaglimieten!\n\nAlles wat je nodig hebt om je troepen te upgraden.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Gebouwenupgradepakket
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> edelstenen\n• <res0> goud\n• <res1> elixir\n• <booster1>x gebouwenboek\n• Geen opslaglimieten!\n\nWil je een gebouw upgraden? Met dit pakket haal je er alles voor in huis.\n\nMis deze aanbieding niet!
-TID_DIAMOND_BUNDLE_RED,(Heldenpakket)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> edelstenen\n• Machtig heldenstandbeeld\n• Tijdelijke (RED)-uiterlijk voor de barbarenkoning\n\n100% van de opbrengst komt ten goede aan de strijd van (RED) tegen aids.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Onderzoekspakket
-TID_DIAMOND_BUNDLE_TH10,Stadhuis 10-pakket
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x het gebouwenboek\n• <booster2>x het heldenboek\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> edelstenen\n• <res0> goud\n• Infernotoren level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Infernotoren level 1\n• <booster1>x het heldenboek\n• <res0> duister-elixir\n• <booster2>x een bouwvakkersdrankje\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Infernotoren level 1\n• X-boog level 2\n• <res0> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH11,Stadhuis 11-pakket
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x het gebouwenboek\n• <booster2>x het heldenboek\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> edelstenen\n• Held: nobele wachter\n• Adelaarsartillerie level 1\n\nGeen bouwtijd!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Adelaarsartillerie level 1\n• Nobele wachter\n• <booster1>x het heldenboek\n• <res0> elixir\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Adelaarsartillerie level 1\n• Nobele wachter\n• <res0> duister-elixir\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH12,Stadhuis 12-pakket
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Werkplaatslevel 1\n• <res0> duister-elixir\n• <res1> goud\n\nGeen bouwtijd, geen opslaglimieten! Ga onmiddellijk belegeringsmachines bouwen in de werkplaats!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH13,Stadhuis 13-pakket
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Koninklijke kampioene level 3\n• <res0> duister-elixir\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH14,Stadhuis 14-pakket
-TID_DIAMOND_BUNDLE_TH15,Stadhuis 15-pakket
-TID_DIAMOND_BUNDLE_TH3,Stadhuis 3-pakket
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> edelstenen\n• <res0> goud\n• <res1> elixir\n• <booster1>x een bouwvakkersdrankje\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH4,Stadhuis 4-pakket
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> goud\n• <res1> elixir\n• <gems> edelstenen\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> edelstenen\n• <res0> goud\n• Luchtafweer level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> goud\n• <res1> elixir\n• <booster1>x een bouwvakkersdrankje\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Luchtafweer level 2\n• <res0> goud\n• <res1> elixir\n• <gems> edelstenen\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH5,Stadhuis 5-pakket
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> edelstenen\n• <res0> goud\n• Tovenaarstoren level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x het gebouwenboek\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Tovenaarstoren level 2\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH6,Stadhuis 6-pakket
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> goud\n• <res1> elixir\n• <gems> edelstenen\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> edelstenen\n• <res0> goud\n• Windmachine level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x het gebouwenboek\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Tovenaarstoren level 3\n• Mortier level 4\n• <res0> goud\n• <res1> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH7,Stadhuis 7-pakket
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> edelstenen\n• Barbarenkoning\n• Verborgen Tesla level 2\n\nGeen bouwtijd!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Barbarenkoning\n• <booster1>x het heldenboek\n• <res0> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Verborgen Tesla level 2\n• Barbarenkoning\n• <res0> duister-elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH8,Stadhuis 8-pakket
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> edelstenen\n• <res0> goud\n• Bomtoren level 1\n\nGeen bouwtijd, geen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x het vechtboek\n• <booster2>x het spreukenboek\n• <res0> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Bomtoren level 2\n• Tovenaarstoren level 5\n• <res0> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH9,Stadhuis 9-pakket
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> edelstenen\n• Boogschutterskoningin\n• X-boog level 1\n\nGeen bouwtijd!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Boogschutterskoningin\n• <booster1>x het heldenboek\n• <res0> duister-elixir\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• X-boog level 2\n• Boogschutterskoningin\n• <res0> duister-elixir\n• <res1> goud\n\nGeen opslaglimieten!\n\nMis deze <cffec78><value>x zo voordelige</c> en EENMALIGE aanbieding niet!
 TID_DIAMOND_FOUND,Je hebt een edelsteen in de <name> gevonden!
 TID_DIAMOND_GIFT_RECEIVED,Je hebt <number> edelstenen gekregen in een clancadeau!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Chief, je edelsteenmijn zit vol edelstenen!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Verzamel Chaotische gekte-medailles en ruil ze v
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Welkom bij Chaotische gekte!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,De ketel verandert een van je elixirtanken in een tank voor zuur elixir over <time>.
 TID_HALLOWEEN_TOKENS_LEFT,Resterende Chaotische gekte-medailles: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> goud\n• <booster1>x bouwvakkersdrankje\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 5 keer kopen.\n\nHaal het meeste uit het upgradeseizoen met deze geweldige Hammer Jam-aanbieding.
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x een murenring\n• <booster2>x duister-elixirrune\n• <booster3>x een bouwvakkersdrankje\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 10 keer kopen.\n\nLaat het upgraden beginnen met dit geweldige updatepakket.
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x een murenring\n• <booster2>x elixirrune\n• <booster3>x goudrune\n• <booster4>x duister-elixirrune\n\n• Geen opslaglimieten!\n•Je kunt deze aanbieding 4 keer kopen.\n\nLaat het upgraden beginnen met dit geweldige updatepakket.
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x een murenring\n• <booster2>x elixirrune\n• <booster3>x goudrune\n• <booster4>x duister-elixirrune\n\n• Geen opslaglimieten!\n•Je kunt deze aanbieding 2 keer kopen.\n\nLaat het upgraden beginnen met dit geweldige updatepakket.
 TID_HASH,#
 TID_HASTE,Woedespreuk
 TID_HASTE_DAMAGE,Toename schade: <number>%
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Twee nieuwe eenheden voor de bouwersbasis: he
 TID_NEWS_SEP_V2_BALANCING_TITLE,De bouwerszaal van level 7 is er!
 TID_NEWS_SPELLS_TEXT,"Bliksemspreuk\n*Een level 7 bliksemspreuk beschadigt zowel gebouwen als troepen\n* Bliksemspreuken van levels 5 en 6 veroorzaken meer schade\n* De schichten van de bliksemspreuk slaan nu dichter bij elkaar in, zodat ze minder vaak missen\n\nGifspreuk\n* Troepen die zich in een gifwolk bevinden, lopen aanvankelijk minder schade op, maar gaandeweg meer\n* Schade van gifspreuken neemt nu enorm toe en blijft voortduren nadat de wolk is opgelost\n* Gifspreuken verminderen nu ook de aanvalssnelheid van verdedigingstroepen\n\nAardbevingspreuk\n* Aardbevingsspreuken veroorzaken veel meer schade, ongeacht het aantal levenspunten van een gebouw\n* Herhaalde aardbevingsspreuken veroorzaken nu minder schade aan dezelfde gebouwen\n* Vier aardbevingsspreuken vernietigen altijd elke willekeurige muur!"
 TID_NEWS_SPELLS_TITLE,Aangepaste en sterkere spreuken
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Dit kolossale langeafstandswapen vaagt slecht voorbereide aanvalslegers compleet van de kaart\n• Explosieve granaatsalvo's maaien troepen neer en verzwakken de troepen in de buurt van de explosies\n• De adelaarsartillerie activeert pas nadat er een groot aantal troepen is ingezet, waardoor tactische manoeuvres en sluwe aanvallen in meerdere fasen mogelijk worden!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Adelaarsartillerie: de slapende schildwacht
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,"• De gevechtstijdlimiet is verhoogd met 30 seconden\n• Kobolden richten zich nu op het stadhuis en clankasteel voor dubbele schade\n• De herlaadkosten voor alle vallen zijn enorm verlaagd\n• De herlaadkosten voor X-bogen zijn enorm verlaagd\n• Grote aantallen helers hebben nu minder effect op dezelfde eenheid\n• Legerboosts zijn verminderd naar 5 edelstenen voor een boost van 1 uur\n• De kosten om een tegenstander te zoeken en volgende tegenstanders te zoeken, zijn verminderd bij een stadhuis van level 10\n• De voorbereidingsdag voor een clanoorlog is verminderd naar 23 uur\n• Troepengevechten en AI-routes zijn verbeterd en preciezer\n• Het beschikbare buitpercentage bij stadhuizen van levels 6-10 is iets verhoogd\n• Dorpen met een stadhuis van één level lager zijn nu iets minder buit waard\n• Het speelveld en gebied waarin je troepen inzet zijn allebei uitgebreid (obstakels aan de randen zijn automatisch verwijderd)"
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Balansaanpassingen van het spel
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,"• Een bescherming beschermt je tegen aanvallen, terwijl je zelf anderen kunt aanvallen zonder gevolgen\n• Je krijgt een gratis bescherming als je schilden zijn verlopen, en je kunt spelen zonder je zorgen te maken over een aanval\n• Hogere divisies leveren meer gratis bescherming op. Spelers in de divisie Titanen I en Legendarisch krijgen 100% dekking!\n• In de winkel is elke dag 2 uur extra bescherming verkrijgbaar"
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Bescherming - speel beveiligd tegen een aanval
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Maak gebruik van krachtige nieuwe gevechtstactieken door je troepen een boost te geven en te beschermen\n• De nobele wachter maakt alle troepen in zijn buurt sterker en zorgt dat ze tijdelijk onoverwinnelijk worden!\n• Hij springt, hij vliegt... zet de nobele wachter in bij elke strategie en geef je leger glans"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,De nobele wachter: de nieuwste held van je leger
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Stadhuizen bezitten nu veel buit. Vernietig ze in de strijd voor een geweldige opbrengst!\n• Divisiebonussen zijn nu groter dan ooit, maar zijn afhankelijk van je vernietigingspercentage\n• Hoe hoger je divisie des te groter je trofeekansen en des te lager je trofeeverliezen!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Lucratievere strooptochten: buit en trofeeën
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Er zijn twee nieuwe prestaties toegevoegd: Anti-artillerie en Delen is sociaal\n• De interface voor troepen-/spreukendonatie is herzien en geeft nu de bestaande donaties weer\n• Troepen in kazernes kunnen nu in volgorde in een wachtrij worden gezet, vergelijkbaar met de spreukenfabriek\n• Animatie toegevoegd aan de knop Clanoorlog bij de start van een oorlogsaanval\n• Een actief schild of actieve bescherming kan nu handmatig worden opgeheven door op het pictogram te tikken\n• Je kunt nu iets langer offline zijn voordat je kwetsbaar wordt voor een aanval\n• Er klinkt een speciaal geluid als je een multiplayerdoel vindt na 10 seconden zoeken\n• Er klinkt een speciaal geluid als er geen multiplayerdoelen worden gevonden en het zoeken wordt gestaakt\n• De tijdslimiet voor een persoonlijke onderbreking terwijl je online bent, is verminderd naar 3 uur\n• In sommige gevallen wordt de limiet voor een persoonlijke onderbreking verlengd in plaats van gereset\n• Multiplayerkoppelingen leveren nu minder vaak tegenstanders op met een stadhuislevel lager dan je eigen level (alleen tot aan kampioensdivisie)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Overige balansaanpassingen en verbeteringen
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Het stadhuis van level 11 verschijnt op het strijdtoneel! BOEM!\n• De nobele wachter en de adelaarsartillerie: de meest krachtige en strategische toevoegingen ooit!\n• Nieuwe troepenlevels, verdedigingslevels en clandonatie van spreuken\n• Val aan met bescherming wanneer je wilt, maar zorg dat je stadhuis veilig is!\n• Bescherm je speelsessies als het schild verlopen is, zodat je nooit meer wordt overrompeld door een aanval.\n• Kobolden die jacht maken op stadhuizen, grotere divisiebonussen, trofeekansen en nog veel meer!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Een van de grootste updates voor Clash ooit!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• De vernietiging van het stadhuis levert niet langer een schild op. Dus zorg dat je stadhuis veilig is!\n• Je kunt aanvallen terwijl je een schild hebt voor een geringe vermindering van de schildduur\n• Je krijgt een schild bij 30% vernietiging, meer bij 60%, maar alleen als een leger van formaat aanvalt"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Schilden - flexibele en eerlijke verdediging
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Vraag om spreuken als versterkingen, niet alleen om troepen, vanaf een clankasteel van level 4\n• De gedoneerde spreuken ontvangen alle bestaande clanvoordelen\n• De vriesspreuk wordt nu ontgrendeld bij een stadhuis van level 9 en duurt iets langer in de lagere levels"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Spreuken in de mix
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Ervaar het hoogste, sterkste en meest uitdagende stadhuislevel ooit: level 11!\n• De nieuwe held bij een stadhuis van level 11, de nobele wachter, maakt legers zo goed als onstuitbaar!\n• De nieuwe adelaarsartillerie bij een stadhuis van level 11 verdedigt op een verwoestende manier\n• Meer verdedigingswerken, zoals een extra kanon, boogschuttertoren, tovenaarstoren en X-boog!\n• Nieuwe levels voor gunsteling, heks, tovenaarstoren en meer met een stadhuis van level 11!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Ga voor een stadhuis van level 11
 TID_NEWS_TOS_UPDATE,We hebben onze Algemene voorwaarden en ons Privacybeleid bijgewerkt! Lees ze alsjeblieft even door (je vindt ze in het spel onder Instellingen). Deze belangrijke documenten zijn van toepassing op jouw interactie met onze spellen en bevatten nuttige informatie voor iedereen die ervoor kiest ze te spelen. Bezoek voor meer informatie onze forums.
 TID_NEWS_TREASURY TEXT,"Dagelijkse sterbonus\n• Win 5 sterren met multiplayergevechten om bonusbuit te verdienen\n• Verdien grotere bonussen in hogere divisies!\n• Er is elke dag een nieuwe sterbonus beschikbaar!\n• Sterbonusbeloningen worden veilig bewaard in de schatkamer\n\nBuitkar\n• Na elke verdediging verschijnt er een kapotte buitkar in je dorp\n• Pik deze kar in om een aantal van je verloren grondstoffen terug te krijgen\n• Er verschijnt slechts één buitkar per keer, dus pik deze meteen in!\n\nDe schatkamer\n• Clankastelen bevatten nu een goed beschermde grondstoffenbank: de schatkamer\n• De schatkamer is een veilige plek om bonusbuit van clanoorlogen en sterbonusbuit in op te slaan\n• Het is de veiligste plek om bonusbuit te bewaren tot je klaar bent om deze uit te geven!\n\nBalansaanpassingen\n• De adelaarsartillerie brengt nu driedubbele schade toe aan golems en golempjes\n• Een tweede luchtafweer wordt ontgrendeld bij een stadhuis van level 6 en een derde bij een stadhuis van level 7"
 TID_NEWS_TREASURY TITLE,Nieuwe schatten en de schatkamer
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Piraatkampioene
 TID_PIRATE_KING,Piraatkoning
 TID_PIRATE_QUEEN,Piraatkoningin
 TID_PIRATE_WARDEN,Piraatwachter
-TID_PIXEL_CHAMPION,Pixelkampioene
-TID_PIXEL_KING,Pixelkoning
-TID_PIXEL_QUEEN,Pixelkoningin
-TID_PIXEL_SCENERY,Pixelomgeving
-TID_PIXEL_WARDEN,Pixelwachter
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Je bent in een divisie geplaatst!
 TID_PLACEMENT_HINT,Tik of houd ingedrukt om troepen in te zetten
 TID_PLACEMENT_HINT_TUTORIAL1,Tik meerdere keren op een leeg gebied om je troepen in te zetten
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internationaal
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> Goud\n• <res1> Elixir\n• <booster1>x krachtdrankje: boost je troepen en spreuken 1 uur lang tot het maximale level dat is toegestaan door je stadhuis.\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> Goud\n• <res1> Elixir\n• <booster1>x krachtdrankje: boost je troepen en spreuken 1 uur lang tot het maximale level dat is toegestaan door je stadhuis.\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> elixir\n• <booster1>x het vechtboek: voltooi onmiddellijk een troepenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n• <booster1>x het vechtboek: voltooi onmiddellijk een troepenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 2 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> elixir\n• <booster1>x het vechtboek: voltooi onmiddellijk een troepenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> duister-elixir\n• <res1> goud\n• <res2> elixir\n• <booster1>x het vechtboek: voltooi onmiddellijk een troepenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 1 keer kopen tijdens de aangegeven periode.\n• Leid je clan het slagveld op met deze speciale aanbieding!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> goud\n• <res1> elixir\n• <booster1>x een bouwvakkersdrankje: bouwvakkers werken een uur lang 10x sneller\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Gebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> goud\n• <booster1>x een bouwvakkersdrankje: bouwvakkers werken een uur lang 10x sneller\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Gebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> goud\n• <res1> elixir\n• <booster1>x het gebouwenboek: voltooi onmiddellijk een gebouwenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Gebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,• <res0> goud\n• <res1> elixir\n• <booster1>x een murenring: upgrade onmiddellijk je muren (muren van een hoger level vereisen meerdere ringen om te upgraden)\n• <booster2>x het gebouwenboek: voltooi onmiddellijk een gebouwenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 2 keer kopen tijdens de aangegeven periode.\n• Gebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> goud\n• <booster1>x het gebouwenboek: voltooi onmiddellijk een gebouwenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Gebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,• <res0> goud\n• <res1> elixir\n• <booster1>x een murenring: upgrade onmiddellijk je muren (muren van een hoger level vereisen meerdere ringen om te upgraden)\n• <booster2>x het gebouwenboek: voltooi onmiddellijk een gebouwenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 1 keer kopen tijdens de aangegeven periode.\nGebruik deze tijd om je verdedigingswerken te upgraden!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> Elixir\n• <booster1>x trainingsdrankje: verhoogt 1 uur lang de efficiëntie van kazernes, spreukenfabrieken, de werkplaats en het herstellen van helden.\n• <booster2>x krachtdrankje: boost je troepen en spreuken 1 uur lang tot het maximale level dat is toegestaan door je stadhuis.\n• <booster3>x grondstoffendrankje: boost 1 dag lang je grondstoffenverzamelaars.\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> Elixir\n• <booster1>x trainingsdrankje: verhoogt 1 uur lang de efficiëntie van kazernes, spreukenfabrieken, de werkplaats en het herstellen van helden.\n• <booster2>x krachtdrankje: boost je troepen en spreuken 1 uur lang tot het maximale level dat is toegestaan door je stadhuis.\n• <booster3>x grondstoffendrankje: boost 1 dag lang je grondstoffenverzamelaars.\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> duister-elixir\n• <res1> elixir\n• <booster1>x het heldenboek: voltooi onmiddellijk een heldenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 3 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> duister-elixir\n• <res1> goud\n• <booster1>x het heldenboek: voltooi onmiddellijk een heldenupgrade\n• <booster2>x het spreukenboek: voltooi onmiddellijk een spreukenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 2 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> elixir\n• <booster1>x het heldenboek: voltooi onmiddellijk een heldenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> duister-elixir\n• <res1> goud\n• <booster1>x het heldenboek: voltooi onmiddellijk een heldenupgrade\n• <booster2>x het spreukenboek: voltooi onmiddellijk een spreukenupgrade\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 1 keer kopen tijdens de aangegeven periode.\n• Upgrade je helden en troepen en gebruik krachtigere spreuken!
 TID_REINFORCEMENT_CAMP_INFO,Het versterkingskamp biedt nuttige versterkingen tijdens gevechten als je het betreffende deel bereikt.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Beter laat dan nooit! Levert troepen na het verslaan van het eerste deel.
 TID_REINFORCEMENT_CAMPS,Versterkingen:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Ruimtekampioene
 TID_SPACE_KING,Ruimtekoning
 TID_SPACE_QUEEN,Ruimtekoningin
 TID_SPACE_WARDEN,Ruimtewachter
-TID_SPECIAL_OFFER,Speciale aanbieding
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Verjaardagspakket
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Voorjaarsspecial
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Voorjaarsspecial
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Voorjaarsspecial
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Voorjaarsspecial
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Bouwvakkersboost
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x bouwersgoudrune\n• <booster2>x bouwerselixirrune\n• <booster3>x vechtboek\n• <booster4>x gebouwenboek\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 10 keer kopen.\n\nGeef je upgrades een boost met dit waanzinnige pakket.
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x bouwersgoudrune\n• <booster2>x bouwerselixirrune\n• <booster3>x vechtboek\n• <booster4>x gebouwenboek\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 4 keer kopen.\n\nGeef je upgrades een boost met dit waanzinnige pakket.
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x bouwersgoudrune\n• <booster2>x bouwerselixirrune\n• <booster3>x vechtboek\n• <booster4>x gebouwenboek\n\n• Geen opslaglimieten!\n• Je kunt deze aanbieding 2 keer kopen.\n\nGeef je upgrades een boost met dit waanzinnige pakket.
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Chief, er is een superspeciale bouwersbasis-verjaardagsaanbieding voor je."
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x een murenring\n• <booster2>x een duister-elixirrune\n• <booster3>x een bouwvakkersdrankje\n\n• Geen opslaglimieten.\n• Je kunt deze aanbieding 10 keer kopen.\n\nUpgrade je muren, vul je duister-elixirtank aan en versnel je bouwvakkers met dit spectaculaire pakket."
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x een murenring\n• <booster2>x een elixirrune\n• <booster3>x een duister-elixirrune\n• <booster4>x een goudrune\n\n• Geen opslaglimieten.\n• Je kunt deze aanbieding 4 keer kopen.\n\nHaal de grondstoffen in huis die je nodig hebt en ga voor hogere muurlevels met deze waanzinnige aanbieding.
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> goud\n• <res1> duister elixir\n• <gems> edelstenen\n\n• Geen opslaglimieten.\n• Je kunt deze aanbieding 20 keer kopen.\n\nOngelooflijke voordelen om je verdedigingswerken, helden en duister-elixireenheden te upgraden in één weergaloos pakket."
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x een murenring\n• <booster2>x een elixirrune\n• <booster3>x een duister-elixirrune\n• <booster4>x een goudrune\n\n• Geen opslaglimieten.\n• Je kunt deze aanbieding 2 keer kopen.\n\nGeef je upgrades een boost en ga voor hogere muurlevels met dit waanzinnige pakket.
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> goud\n• <booster1>x het gebouwenboek\n• <booster2>x een bouwvakkersdrankje\n• Geen opslaglimieten.\n• Je kunt deze aanbieding 10 keer kopen.\n\nAlles wat je nodig hebt om je stadhuis en verdedigingswerken te upgraden.
 TID_SPECIAL_PACK_BUILDER,Starterspakket
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Speciaal talent wordt ontgrendeld op level <number>.
 TID_SPECTATOR_CAN_NOT_CLAIM,Je neemt geen deel aan deze clanoorlog.

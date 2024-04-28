@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Máx.: <amount>
 TID_CONTINUE,Continuar
 TID_CONTRIBUTE,Contribuir
 TID_CONTRIBUTED,<name> contribuiu.
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0>x gemas.\n• <booster1>x poção de treino - por 1 hora, melhora a eficiência de quartéis, fábrica de feitiços e oficina, assim como a regeneração dos heróis.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada somente 1 vez durante seu período de exibição!\n\nAproveite esta oferta incrível para ter reforços!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems>x gemas.\n• <booster1>x poção de treino - por 1 hora, melhora a eficiência de quartéis, fábrica de feitiços e oficina, assim como a regeneração dos heróis.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada somente 1 vez durante seu período de exibição!\n\nAproveite esta oferta incrível para ter reforços!"
 TID_COOLDOWN,Espera:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tag copiada para área de transferência de seu aparelho!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Copiado para área de transferência do dispositivo.
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"A vila atual está vinculada a outra conta do Gam
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"A vila atual está vinculada a outra conta do Google, e não à conta com a qual você se conectou.\n\nSaia da conta atual do Google na tela de configurações e faça login novamente com a conta vinculada a esta vila.\n\nTente conectar novamente."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Conta de login incorreta
 TID_DEVICE_LINKED_MAIL_ITEM,Um novo dispositivo foi vinculado à sua vila.
-TID_DIAMOND_BUNDLE_BH3,Pacote Casa do Construtor 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Pacote do construtor: iniciantes
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> gemas\n• <res0> de elixir\n• Esmagador nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH4,Pacote Casa do Construtor 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Pacote do construtor: aprendizes
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> gemas\n• <res0> de elixir\n• Posto de Guarda nível 1\n• Bombas aéreas nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH5,Pacote Casa do Construtor 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Pacote do construtor: habilidosos
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> gemas\n• <res0> de elixir\n• Multimorteiro nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH6,Pacote Casa do Construtor 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Pacote do construtor: experts
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> gemas\n• <res0> de elixir\n• Assador nível 1\n• Esmagador nível 1\n\nSem tempo de construção!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH7,Pacote Casa do Construtor 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Pacote do mestre construtor
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n• Canhão Gigante de nível 4\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH8,Pacote Casa do Construtor 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Pacote do construtor: veteranos
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n• Megatesla nível 4\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> gemas\n• <res0> de elixir\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta. Válida para uma única compra! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_BH9_ALT,Pacote do construtor campeão
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Pacote da Torre de Bombas
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> gemas\n• <res0> de ouro\n• Torre de Bombas nível 2\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_BUILD_PACK,Pacote da Construção
-TID_DIAMOND_BUNDLE_BUILDER,Pacote do Construtor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Pacote do Herói do Construtor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Pacote da Base do Construtor
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Pacote da Pesquisa do Construtor
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Este Pacote do Construtor contém <gems> gemas e um construtor grátis!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Pacote da Pesquisa Sombria
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de elixir\n• <res1> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Pacote do Herói e Elixir
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> gemas\n• <res0> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> gemas\n• <res0> de ouro\n• <res1> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Gemas\n• <res0> Ouro\n• <res1> Elixir\n• <res2>Elixir negro\n\nSem limite de armazenamento!\n\nNossa <cffec78>melhor</c> oferta ÚNICA! - Não perca!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> gemas\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> gemas\n• <res0> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_HERO,Herói
-TID_DIAMOND_BUNDLE_HERO_INFO,Herói
-TID_DIAMOND_BUNDLE_HERO_PACK,Pacote do Herói
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> de ouro do Construtor\n• <booster1>x Poção do Construtor\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar sua Casa do Construtor e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> de ouro do Construtor\n• <booster1>x Livro das Construções\n•<booster2>x Poção do Construtor\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar sua Casa do Construtor e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> de ouro do Construtor\n• <booster1>x Livro das Construções\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar sua Casa do Construtor e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir do Construtor\n• <booster1>x Livro da Luta\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar as tropas na base do Construtor!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir do Construtor\n• <booster1>x Livro dos Heróis\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar sua máquina de batalha!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> de ouro\n• <booster1>x Poção do Construtor\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar seu Centro da Vila e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Pacote do Livro das Construções
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Pacote de Livros Mágicos
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> gemas\n• <booster1> Livro dos Heróis\n• <booster2>x Livro das Construções\n• Sem limite de armazenamento!\n\nConstrutores ocupados? Sem tempo para gastar aquele monte de recursos? Adquira o Pacote de Livros Mágicos para concluir a melhoria de um herói e de uma construção instantaneamente!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> gemas\n• <booster1> Livro dos Heróis\n• <booster2>x Livro das Construções\n• Sem limite de armazenamento!\n\nConstrutores ocupados? Sem tempo para gastar aquele monte de recursos? Adquira o Pacote de Livros Mágicos para concluir a melhoria de um herói e de uma construção instantaneamente!\n\nSem limite de armazenamento!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> gemas\n• <booster1>x Livro das Construções\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de construção instantaneamente com o Livro das Construções!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> de ouro\n• <booster1>x Livro das Construções\n•<booster2>x Poção do Construtor\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar seu Centro da Vila e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> de ouro\n• <booster1>x Livro das Construções\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar seu Centro da Vila e defesas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Pacote do Livro das Construções
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Livro das Construções\n• <res0> de ouro\n• <res1> de elixir\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de construção instantaneamente com o Livro das Construções!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Pacote do Livro Universal
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> Gemas\n• <booster1>x Livro Universal\n• Sem limite de armazenamento!\n\nTermine QUALQUER melhoria instantaneamente com o Livro Universal!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Pacote do Livro Universal
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Livro Universal\n• <res0> de ouro\n• <res1> de elixir\n• <res2> de elixir negro\n• Sem limite de armazenamento!\n\nTermine QUALQUER melhoria instantaneamente com o Livro Universal!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> de elixir negro\n• <booster1>x Livro da Luta\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar suas tropas de elixir negro!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x Livro da Luta\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar suas tropas!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> de elixir negro\n• <booster1>x Livro da Luta\n•<booster2>x Livro dos Feitiços\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar suas tropas e feitiços de elixir negro!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x Livro da Luta\n•<booster2>x Livro dos Feitiços\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar suas tropas e feitiços!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Pacote do Livro dos Heróis
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> gemas\n• <booster1>x Livro dos Heróis\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de herói instantaneamente com o Livro dos Heróis!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Pacote do Livro dos Heróis
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x Livro dos Heróis\n• <res0> de elixir negro\n• Sem limite de armazenamento!\n\nConclua qualquer melhoria de herói instantaneamente com o Livro dos Heróis!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x Livro dos Heróis\n• <res0> de elixir negro\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de herói instantaneamente com o Livro dos Heróis!\n\nNão perca esta oferta única! <cffec78><value>x mais barata.</c>
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Pacote de Melhoria de Realeza
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> Gemas\n• <res0> Elixir negro\n• <booster1>• x Livro dos Heróis\n• Sem limite de armazenamento!\n\nTudo do que precisa para melhorar seu Rei Bárbaro ou sua Rainha Arqueira!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> de elixir negro\n• <booster1>x Livro dos Heróis\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar seu Rei Bárbaro e sua Rainha Arqueira!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> de elixir\n• <booster1>x Livro dos Heróis\n• Sem limite de armazenamento!\n\nÉ a chance de melhorar seu Grande Guardião!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Pacote da Poção de Recursos
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> gemas\n• <booster1>x Poção de Recursos\n• Sem limite de armazenamento!\n\nTransborde seus coletores de recursos!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Pilha de Poções de Recursos
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x Poção de Recursos\n• Sem limite de armazenamento!\n\nTransborde seus coletores de recursos!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Pacote do Livro dos Feitiços
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> gemas\n• <booster1>x Livro dos Feitiços\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de feitiço instantaneamente com o Livro dos Feitiços!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Pacote do Livro dos Feitiços
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x Livro dos Feitiços\n• <res0> de elixir\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de feitiço instantaneamente com o Livro dos Feitiços!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Pacote de Melhoria de Feitiços
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> Gemas\n• <res0> Elixir\n• <booster1>x Livro dos Feitiços\n• Sem limite de armazenamento!\n\nTudo do que precisa para melhorar seus feitiços!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Pacote da Poção do Poder
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> gemas\n• <booster1>x Poção do Poder\n• Sem limite de armazenamento!\n\nExplore o potencial das suas tropas e experimente novas combinações de exército!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Pilha de Poções do Poder
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x Poção do Poder\n• Sem limite de armazenamento!\n\nExplore o potencial das suas tropas e experimente novas combinações de exército!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Pacote da Poção de Treino
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> gemas\n• <booster1>x Poção de Treino\n• Sem limite de armazenamento!\n\nAcelere o treino de tropa, preparação de feitiços e regeneração de heróis!\n\nNão perca esta oferta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Pilha de Poções de Treino
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x Poção de Treino\n• Sem limite de armazenamento!\n\nAcelere o treino de tropa, preparação de feitiços e regeneração de heróis!\n\nNão perca esta oferta!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Pacote do Livro da Luta
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> gemas\n• <booster1>x Livro da Luta\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de tropa instantaneamente com o Livro da Luta!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Pacote do Livro da Luta
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x Livro da Luta\n• <res0>de elixir\n• Sem limite de armazenamento!\n\nTermine qualquer melhoria de tropa instantaneamente com o Livro da Luta!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Pacote de Melhoria de Tropas
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> Gemas\n• <res0> Elixir\n• <booster1>x Livro da Luta\n• Sem limite de armazenamento!\n\nTudo do que precisa para melhorar suas tropas!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Pacote de Melhoria de Construções
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> Gemas\n• <res0> Ouro\n<res1> Elixir\n• <booster1>x Livro das Construções\n• Sem limite de armazenamento!\n\nTudo do que precisa para melhorar o que quiser!\n\nNão perca esta oferta!
-TID_DIAMOND_BUNDLE_RED,(PACOTE DE HERÓI)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> gemas\n• Estátua Poderosa de Herói\n• Roupa (RED) para o Rei Bárbaro por tempo limitado\n\n100% do dinheiro arrecadado irá para a luta da (RED) contra a AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Pacote da Pesquisa
-TID_DIAMOND_BUNDLE_TH10,Pacote Centro da Vila 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x Livro das Construções\n• <booster2>x Livro dos Heróis\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única!<cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> gemas\n• <res0> de ouro\n• Torre Inferno nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Torre Inferno nível 1\n• <booster1>x Livro dos Heróis\n• <res0> de elixir negro\n• <booster2>x poção do construtor\n\nSem tempo de construção, limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Torre Inferno nível 1\n• X-Besta nível 2\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH11,Pacote Centro da Vila 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x Livro das Construções\n• <booster2>x Livro dos Heróis\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única!<cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> gemas\n• Herói Grande Guardião\n• Artilharia Águia nível 1\n\nSem tempo de construção!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Artilharia águia nível 1\n• Grande Guardião\n• <booster1>x Livro dos Heróis\n• <res0> de elixir\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta!<cffec78><value>x mais barata!</c>"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,• Artilharia águia nível 1\n• Grande Guardião\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH12,Pacote Centro da Vila 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH12_INFO,• Oficina nível 1\n• <res0> de elixir negro\n• <res1> de ouro\n\nSem tempo de construção ou limite de armazenamento! Comece a construir máquinas de cerco imediatamente com a oficina!\n\nNão perca esta oferta única! <cffec78><value>x </c> mais barata!
-TID_DIAMOND_BUNDLE_TH13,Pacote centro da vila 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH13_INFO,• Campeã Real nível 3\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH14,Pacote centro da vila 14
-TID_DIAMOND_BUNDLE_TH15,Pacote centro da vila 15
-TID_DIAMOND_BUNDLE_TH3,Pacote Centro da Vila 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> gemas\n• <res0> de ouro\n• <res1> de elixir\n• <booster1>x poção do construtor\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH4,Pacote Centro da Vila 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> de ouro\n• <res1> de elixir\n• <gems> gemas\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> gemas\n• <res0> de ouro\n• Defesa aérea nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> de ouro\n• <res1> de elixir\n• <booster1>x poção do construtor\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Defesa aérea nível 2\n• <res0> de ouro\n• <res1> de elixir\n• <gems> gemas\n\nSem limite de armazenamento!\n\nNão perca esta oferta única!<cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH5,Pacote Centro da Vila 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> gemas\n• <res0> de ouro\n• Torre do Mago nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x Livro das Construções\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Torre do Mago nível 2\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH6,Pacote Centro da Vila 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> de ouro\n• <res1> de elixir\n• <gems> gemas\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> gemas\n• <res0> de ouro\n• Dispersor aéreo nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x Livro das Construções\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Torre do Mago nível 3\n• Morteiro nível 4\n• <res0> de ouro\n• <res1> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH7,Pacote Centro da Vila 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> gemas\n• Rei Bárbaro\n• Tesla oculta nível 2\n\nSem tempo de construção!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Rei Bárbaro\n• <booster1>x Livro dos Heróis\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla nível 2\n• Rei Bárbaro\n• <res0> de elixir negro\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH8,Pacote Centro da Vila 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> gemas\n• <res0> de ouro\n• Torre de bombas nível 1\n\nSem tempo de construção, sem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>."
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x Livro da Luta\n• <booster2>x Livro dos Feitiços\n• <res0> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Torre de Bombas nível 2\n• Torre do Mago nível 5\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH9,Pacote Centro da Vila 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> de elixir negro\n• <res1> de ouro\n• <res2> de elixir\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> gemas\n• Rainha Arqueira\n• X-Besta nível 1\n\nSem tempo de construção!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>.
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Rainha Arqueira\n• <booster1>x Livro dos Heróis\n• <res0> de elixir negro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata!</c>
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• X-Besta nível 2\n• Rainha Arqueira\n• <res0> de elixir negro\n• <res1> de ouro\n\nSem limite de armazenamento!\n\nNão perca esta oferta única! <cffec78><value>x mais barata</c>!
 TID_DIAMOND_FOUND,<name>: você encontrou uma gema ali!
 TID_DIAMOND_GIFT_RECEIVED,Você ganhou <number> gemas do presente do clã.
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Chefe, sua mina de gemas está cheia de gemas!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Colete medalhas medonhas e troque-as por mais re
 TID_HALLOWEEN_INFO_SCREEN_TITLE,A Mistura Medonha começou!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,O caldeirão vai transformar um dos seus depósitos de elixir em elixir ácido em <time>.
 TID_HALLOWEEN_TOKENS_LEFT,Medalhas medonhas restantes: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> de ouro\n• <booster1>x poção do construtor\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 5 vezes!\n\nAproveite a temporada de melhorias ao máximo com esta oferta incrível da Martelofolia!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x anel de muro\n• <booster2>x runa de elixir negro\n• <booster3>x poção do construtor\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 10 vezes!\n\nRealize grandes melhorias com este pacote incrível!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x anel de muro\n• <booster2>x runa de elixir\n• <booster3>x runa de ouro\n• <booster4>x runa de elixir negro\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes!\n\nRealize grandes melhorias com este pacote incrível!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x anel de muro\n• <booster2>x runa de elixir\n• <booster3>x runa de ouro\n• <booster4>x runa de elixir negro\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 2 vezes!\n\nRealize grandes melhorias com este pacote incrível!
 TID_HASH,#
 TID_HASTE,Feitiço de Fúria
 TID_HASTE_DAMAGE,Aumento de dano: <number>%
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Duas novas unidades para a sua base do constr
 TID_NEWS_SEP_V2_BALANCING_TITLE,Chegou a casa do construtor de nível 7!
 TID_NEWS_SPELLS_TEXT,"Feitiço de Relâmpago\n* O Feitiço de Relâmpago nível 7 assola estruturas e tropas da mesma forma\n* O dano do Feitiço de Relâmpago para os níveis 5 e 6 aumentou\n* Os raios do Feitiço de Relâmpago agora surgem mais próximos uns dos outros para ter mais acertos\n\nFeitiço de Veneno\n* Agora as Tropas em Feitiços de Veneno sofrem menos dano no início, mas muito mais no decorrer do tempo\n* O dano do Feitiço de Veneno agora aumenta enormemente e permanece por mais tempo depois do feitiço acabar\n* Os Feitiços de Veneno agora também reduzem a taxa de ataque de tropas de defesa\n\nFeitiço de Terremoto\n* Os Feitiços de Terremoto causam muito mais dano, independentemente dos pontos de vida da estrutura\n* Feitiços de Terremoto repetidos agora causam dano reduzido às mesmas estruturas\n* Quatro Feitiços de Terremoto sempre destruirão qualquer nível de muro!"
 TID_NEWS_SPELLS_TITLE,Feitiços reformulados e recarregados
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Esta arma fenomenal de longo alcance extermina exércitos mal preparados\n• Descargas de projéteis explosivos derrubam tropas resistentes e esgotam outras perto do impacto\n• A Artilharia Águia só é ativada depois que muitas tropas forem mobilizadas, deixando margem para ataques táticos e inteligentes de múltiplas fases!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Artilharia Águia: a sentinela furtiva
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,"• O tempo de batalha aumentou em 30 segundos.\n• Os Goblins agora atacam o Centro da Vila e o Castelo do Clã, causando duas vezes o dano.\n• Os custos para rearmar para todas as armadilhas foram reduzidos drasticamente.\n• Os custos para recarregar as X-Bestas foram reduzidos drasticamente.\n• Grandes quantidades de curadoras agora têm eficácia reduzida na mesma unidade.\n• As acelerações do exército foram reduzidas a 5 gemas por hora de aceleração.\n• O custo para procurar uma partida e escolher ‘Próxima´ foi reduzido para o Centro da Vila nível 10.\n• O Dia de Preparação da guerra de clãs foi reduzido para 23 horas.\n• O combate de tropas e o explorador IA foram refinados e aprimorados.\n• O percentual de saque disponível nos níveis 6-10 do Centro da Vila foi ligeiramente aumentado.\n• As vilas com um nível de Centro da Vila mais baixo agora rendem saques ligeiramente menores.\n• O campo de jogo e a área de mobilização de tropas foram expandidos (os obstáculos no caminho foram movidos automaticamente)."
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Equilíbrio de jogo
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• A guarda protege de ataques e permite atacar os outros o quanto você quiser.\n• Obtenha a guarda gratuitamente quando o escudo expirar e jogue livremente sem a preocupação de ser atacado.\n• As ligas mais altas concedem mais tempo de guarda gratuita. Jogadores Titã I e Lendários recebem cobertura de 100%!\n• 2 horas extras de guarda estão disponíveis na loja todos os dias.
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Guarda - aja com cautela em relação aos atacantes
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Descubra novas e poderosas táticas de batalha melhorando e protegendo suas tropas.\n• O Grande Guardião reforça todas as tropas próximas e pode torná-las temporariamente invencíveis!\n• Ele pula, ele voa - inclua o Grande Guardião na sua estratégia e faça o seu exército brilhar."
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Grande Guardião: o mais novo herói do seu exército
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Os Centros da Vila agora mantêm muito saque disponível - destrua-os na batalha para receber um retorno compensador!\n• Os bônus de liga são maiores do que nunca, mas proporcionais ao seu percentual de destruição\n• As ofertas de troféus tornam-se maiores e as perdas de troféus são menores quanto mais alta for a sua liga!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Assaltos mais ricos: saques e troféus.
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Foram adicionadas duas novas conquistas: a Antiartilharia e a Compartilhar é Cuidar.\n• A interface de doação de tropas/feitiços foi corrigida e agora mostra as doações existentes\n• As tropas nos quartéis agora podem ser enfileiradas na sequência, da mesma forma que a fábrica de feitiços.\n• O botão Guerra de Clãs agora é animado quando um ataque de guerra inicia.\n• Um escudo ou guarda ativa agora pode ser descartado manualmente, tocando no ícone.\n• Agora você pode ficar off-line por mais tempo antes de ficar vulnerável a ataques.\n• Um som especial toca quando um alvo multijogador é encontrado depois de 10 segundos de busca.\n• Um som especial toca quando nenhum alvo multijogador é encontrado e a busca é cancelada.\n• O limite de tempo on-line do Intervalo pessoal foi reduzido a 3 horas.\n• O limite do intervalo pessoal agora é estendido em vez de redefinido em alguns casos.\n• A combinação multijogador tem probabilidade menor de oferecer oponentes abaixo do nível de seu Centro da Vila (só abaixo da Liga de Campeões)."
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Outras melhorias:
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• O nível 11 do Centro da Vila está fazendo um sucesso danado!\n• Grande Guardião e artilharia águia: as adições mais poderosas e estratégicas até hoje!\n• Novos níveis de tropas, níveis de defesa e doações de feitiços para o clã\n• Ataque mesmo com o escudo ativo, mas não se esqueça de proteger o seu Centro de Vila!\n• Proteja as suas sessões de jogo quando o escudo estiver inativo e nunca mais seja atacado com a guarda baixa\n• Goblins atacando Centros de Vila, bônus de Liga maiores, ofertas de troféus e muito mais!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Uma das maiores atualizações do Clash até hoje!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• A destruição do Centro da Vila não dá mais um escudo - proteja o seu Centro da Vila!\n• Você pode atacar a qualquer momento mesmo com o escudo ativo, por uma pequena redução na duração dele.\n• Consiga o escudo quando a destruição estiver a 30%, um maior a 60%, mas só quando um exército relativamente grande atacar."
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Escudos - defesa flexível e justa
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Peça feitiços de reforço, não apenas tropas, a partir do Castelo do Clã nível 4.\n• Feitiços doados recebem todas as vantagens do clã possíveis.\n• O Feitiço de Gelo agora é desbloqueado no nível 9 do Centro da Vila e tem a duração ligeiramente mais longa em níveis mais baixos."
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Escolha o seu feitiço!
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Experimente o maior e mais desafiador nível de Centro da Vila até agora: o 11!\n• O novo herói, o Grande Guardião, pode tornar os exércitos quase indestrutíveis!\n• A nova defesa, a Artilharia Águia, causa uma devastação impressionante, mesmo à distância\n• Mais defesas, incluindo um canhão, Torre da Arqueira, Torre do Mago e X-Besta extras!\n• Para acompanhar, níveis 11 do servo, bruxa, Torre de Mago e mais!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Melhore seu Centro da Vila para o nível 11
 TID_NEWS_TOS_UPDATE,"Atualizamos os nossos Termos de Uso e Política de Privacidade! Reserve um tempo para verificá-los (disponíveis nas Configurações do jogo). Esses documentos importantes regem a sua relação com os nossos jogos e contêm informações benéficas para todos que decidam jogá-los. Para obter mais informações, visite nossos fóruns"
 TID_NEWS_TREASURY TEXT,"Bônus de estrela diário\n• Ganhe 5 estrelas em batalhas multijogador para ganhar bônus de saque.\n• Ganhe bônus ainda melhores nas ligas mais avançadas!\n• Um novo bônus de estrela disponível todos os dias.\n• As recompensas ficarão seguras na Torre do Tesouro.\n\nCarrinho de saque\n• Um carrinho de saque quebrado aparecerá na sua vila após cada ataque sofrido.\n• Para recuperar parte dos recursos perdidos, toque nele.\n• Somente um carrinho aparecerá por vez, portanto não demore para coletar os recursos dele.\n\nTorre do Tesouro\n• O Castelo do Clã agora conta com uma estrutura para proteger recursos: a Torre do Tesouro.\n• Ela manterá seguros os recursos conquistados nas Guerras de Clãs e com os bônus de estrela.\n• É o local mais seguro para guardar seus recursos!\n\nPara equilibrar o jogo:\n• A artilharia águia agora causa 3 vezes mais dano ao Golem e ao Golemita.\n• A segunda defesa aérea agora é desbloqueada no nível 6 do Centro da Vila; a terceira, no nível 7."
 TID_NEWS_TREASURY TITLE,Novos tesouros e a Torre do Tesouro
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Campeã Pirata
 TID_PIRATE_KING,Rei Pirata
 TID_PIRATE_QUEEN,Rainha Pirata
 TID_PIRATE_WARDEN,Guardião Pirata
-TID_PIXEL_CHAMPION,Campeã Pixelada
-TID_PIXEL_KING,Rei Pixelado
-TID_PIXEL_QUEEN,Rainha Pixelada
-TID_PIXEL_SCENERY,Paisagem pixelada
-TID_PIXEL_WARDEN,Guardião Pixelado
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Você está participando de uma liga!
 TID_PLACEMENT_HINT,Toque ou mantenha pressionado para mobilizar tropas.
 TID_PLACEMENT_HINT_TUTORIAL1,Toque várias vezes em uma área vazia para mobilizar suas tropas.
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internacional
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,"• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x poção do poder - por 1 hora, melhora suas tropas e seus feitiços ao máximo permitido pelo seu centro da vila.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!"
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,"• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x poção do poder - por 1 hora, melhora suas tropas e seus feitiços ao máximo permitido pelo seu centro da vila.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!"
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> de elixir.\n• <booster1>x Livro da Luta - conclua qualquer melhoria de tropa instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> de elixir negro.\n•<res1> de ouro.\n•<res2> de elixir.\n• <booster1>x Livro da Luta - conclua qualquer melhoria de tropa instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 2 vezes durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> de elixir.\n• <booster1>x Livro da Luta - conclua qualquer melhoria de tropa instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> de elixir negro.\n•<res1> de ouro.\n•<res2> de elixir.\n• <booster1>x Livro da Luta - conclua qualquer melhoria de tropa instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada somente 1 vez durante seu período de exibição.\n• Lute com seu clã em batalhas gloriosas com esta oferta especial!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x poção do construtor - seus construtores trabalharão 10x mais rápido por 1 hora.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Aproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> de ouro.\n• <booster1>x poção do construtor - seus construtores trabalharão 10x mais rápido por 1 hora.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Aproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x Livro das Construções - conclua qualquer melhoria de construção instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Aproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x anel de muro - melhore qualquer muro instantaneamente. Talvez seja preciso usar vários anéis para muros de níveis mais altos!\n• <booster2>x Livro das Construções - conclua qualquer melhoria de construção instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 2 vezes durante seu período de exibição.\n• Aproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> de ouro.\n• <booster1>x Livro das Construções - conclua qualquer melhoria de construção instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Aproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,• <res0> de ouro.\n•<res1> de elixir.\n• <booster1>x anel de muro - melhore qualquer muro instantaneamente. Talvez seja preciso usar vários anéis para muros de níveis mais altos!\n• <booster2>x livro das construções - conclua qualquer melhoria de construção instantaneamente.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada somente 1 vez durante o período mostrado.\nAproveite para melhorar as suas defesas!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> de elixir.\n• <booster1>x poção de treino - por 1 hora, melhora a eficiência de quartéis, fábrica de feitiços e oficina, assim como a regeneração dos heróis.\n• <booster2>x poção do poder - por 1 hora, melhora suas tropas e seus feitiços ao máximo permitido pelo seu centro da vila.\n• <booster3>x poção de recursos - por 1 dia, melhora a eficiência dos seus coletores de recursos.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> de elixir.\n• <booster1>x poção de treino - por 1 hora, melhora a eficiência de quartéis, fábrica de feitiços e oficina, assim como a regeneração dos heróis.\n• <booster2>x poção do poder - por 1 hora, melhora suas tropas e seus feitiços ao máximo permitido pelo seu centro da vila.\n• <booster3>x poção de recursos - por 1 dia, melhora a eficiência dos seus coletores de recursos.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> de elixir negro.\n•<res1> de elixir.\n• <booster1>x Livro dos Heróis - conclua instantaneamente qualquer melhoria de herói em andamento.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 3 vezes durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> de elixir negro.\n•<res1> de ouro.\n• <booster1>x Livro dos Heróis - conclua instantaneamente qualquer melhoria de herói em andamento.\n• <booster2>x Livro dos Feitiços - conclua instantaneamente qualquer melhoria de feitiço em andamento.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 2 vezes durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> de elixir.\n• <booster1>x Livro dos Heróis - conclua instantaneamente qualquer melhoria de herói em andamento.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> de elixir negro.\n•<res1> de ouro.\n• <booster1>x Livro dos Heróis - conclua instantaneamente qualquer melhoria de herói em andamento.\n• <booster2>x Livro dos Feitiços - conclua instantaneamente qualquer melhoria de feitiço em andamento.\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada somente 1 vez durante seu período de exibição.\n• Melhore seus heróis e tropas e use feitiços mais potentes!
 TID_REINFORCEMENT_CAMP_INFO,Campos de Reforços fornecem reforços quando uma fase específica da batalha é atingida.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Antes tarde do que nunca! Fornece tropas depois da primeira fase.
 TID_REINFORCEMENT_CAMPS,Reforços:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Campeã Sideral
 TID_SPACE_KING,Rei Sideral
 TID_SPACE_QUEEN,Rainha Sideral
 TID_SPACE_WARDEN,Guardião Sideral
-TID_SPECIAL_OFFER,Oferta especial
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Pacote de Aniversário
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Especial da Estação
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Especial da Estação
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Especial da Estação
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Especial da Estação
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Pacote do Construtor
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x runa de ouro do construtor\n• <booster2>x runa de elixir do construtor\n• <booster3>x livro da luta\n• <booster4>x livro das construções\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 10 vezes!\n\nBombe suas melhorias com este pacote incrível!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x runa de ouro do construtor\n• <booster2>x runa de elixir do construtor\n• <booster3>x livro da luta\n• <booster4>x livro das construções\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 4 vezes!\n\nBombe suas melhorias com este pacote incrível!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x runa de ouro do construtor\n• <booster2>x runa de elixir do construtor\n• <booster3>x livro da luta\n• <booster4>x livro das construções\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 2 vezes!\n\nBombe suas melhorias com este pacote incrível!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Chefe, temos uma oferta especial para você neste aniversário da base do construtor!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x anel de muro\n• <booster2>x runa de elixir negro\n• <booster3>x Poção do Construtor\n\n• Sem limite de armazenamento!\n• A oferta pode ser comprada 10 vezes!\n\nAproveite este pacote incrível para melhorar seus muros, encher seu depósito de elixir negro e acelerar seus construtores!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x anel de muro\n• <booster2>x runa de elixir\n• <booster3>x runa de elixir negro\n• <booster4>x runa de ouro\n\n• Sem limite de armazenamento!\n• A oferta pode ser comprada 4 vezes!\n\nAproveite este pacote incrível para adquirir belos recursos e melhorar seus muros também!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> de ouro\n• <res1> elixir negro\n• <gems> gemas\n\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 20 vezes!\n\nExcelente para melhorar as defesas, os heróis e as tropas de elixir negro de uma vez só."
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x anel de muro\n• <booster2>x runa de elixir\n• <booster3>x runa de elixir negro\n• <booster4>x runa de ouro\n\n• Sem limite de armazenamento!\n• A oferta pode ser comprada 2 vezes!\n\nAproveite este pacote incrível para fazer grandes melhorias e deixar seus muros nos trinques!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> de ouro\n• <booster1>x Livro das Construções\n•<booster2>x Poção do Construtor\n• Sem limite de armazenamento!\n• Esta oferta pode ser comprada 10 vezes!\n\nTudo o que você precisa para melhorar o Centro da Vila e as defesas!
 TID_SPECIAL_PACK_BUILDER,Pacote Inicial
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Habilidade especial desbloqueada no nível <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Você não está participando desta Guerra de Clãs.

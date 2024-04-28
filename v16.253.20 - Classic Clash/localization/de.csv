@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Max.: <amount>
 TID_CONTINUE,Weiter
 TID_CONTRIBUTE,Beitragen
 TID_CONTRIBUTED,<name> hat beigetragen
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0> Juwelen\n• <booster1>x Trainingstrank - erhöht 1 Stunde lang die Effizienz deiner Kasernen, Zauberfabriken, Werkstätten und Heldenregeneration\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum nur 1-mal gekauft werden!\n\nSichere dir Hilfe mit diesem fantastischen, einmaligen Angebot!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems> Juwelen\n• <booster1>x Trainingstrank - erhöht 1 Stunde lang die Effizienz deiner Kasernen, Zauberfabriken, Werkstätten und Heldenregeneration\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum nur 1-mal gekauft werden!\n\nSichere dir Hilfe mit diesem fantastischen, einmaligen Angebot!"
 TID_COOLDOWN,Abklingzeit:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Kürzel in die Zwischenablage kopiert!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,In die Zwischenablage kopiert!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"Das aktuelle Dorf ist mit einem anderen Game Cent
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Das aktuelle Dorf ist mit einem anderen Google-Konto verknüpft als dem, mit dem du angemeldet bist.\n\nBitte melde dich über das Einstellungsmenü beim aktuellen Google-Konto ab und melde dich mit dem Konto, mit dem dieses Dorf verknüpft ist, erneut an.\n\nVersuche das Verbinden dann erneut."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Falsches Konto angemeldet
 TID_DEVICE_LINKED_MAIL_ITEM,Dein Dorf wurde mit einem neuen Gerät verbunden.
-TID_DIAMOND_BUNDLE_BH3,Paket: Meisterhütte 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Amateur-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• Zerschmetterer Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH4,Paket: Meisterhütte 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Lehrling-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• Wachposten Level 1\n• Luftbomben Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH5,Paket: Meisterhütte 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Kenner-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• Multimörser Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH6,Paket: Meisterhütte 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Experten-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> Juwelen\n• <res0> Elixier\n• Brutzler Level 1\n• Zerschmetterer Level 1\n\nSofortige Fertigstellung!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH7,Paket: Meisterhütte 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Meister-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n• Riesenkanone Level 4\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH8,Paket: Meisterhütte 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Großmeister-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n• Megatesla Level 4\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_BH9_ALT,Champion-Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Bombenturmpaket
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Bombenturm Level 2\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Baupaket
-TID_DIAMOND_BUNDLE_BUILDER,Bauarbeiterpaket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Bauarbeiter-Heldenpaket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Bauarbeiterbasis-Paket
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Bauarbeiter-Forschungspaket
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Dieses Bauarbeiterpaket enthält <gems> Juwelen und einen kostenlosen Bauarbeiter!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Dunkles Forschungspaket
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Elixier\n• <res1> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Elixier-Helden-Paket
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Gold\n• <res1> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Gold\n• <res1> Elixier\n• <res2> Dunkles Elixier\n\nKein Lagerlimit!\n\nUnser <cffec78>bislang bestes</c> EINMALIGES Angebot - nicht verpassen!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> Juwelen\n• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> Juwelen\n• <res0> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_HERO,Held
-TID_DIAMOND_BUNDLE_HERO_INFO,Held
-TID_DIAMOND_BUNDLE_HERO_PACK,Heldenpaket
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,"• <res0> Bauarbeitergold\n• <booster1>x Bauarbeitertrank\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deines Rathauses und deiner Verteidigungsanlagen brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,"• <res0> Bauarbeitergold\n• <booster1>x Buch des Bauens\n•<booster2>x Bauarbeitertrank\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Meisterhütte und deiner Verteidigungsanlagen brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,"• <res0> Bauarbeitergold\n• <booster1>x Buch des Bauens\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Meisterhütte und deiner Verteidigungsanlagen brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,"• <res0> Bauarbeiterelixier\n• <booster1>x Buch des Kampfes\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Truppen in der Bauarbeiterbasis brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,"• <res0> Bauarbeiterelixier\n• <booster1>x Buch der Helden\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Kampfmaschine brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,"• <res0> Gold\n• <booster1>x Bauarbeitertrank\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um dein Rathaus und deine Verteidigungsanlagen zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Paket: Buch des Bauens
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Paket: Magische Bücher
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,"• <gems> Juwelen\n• <booster1> Buch der Helden\n• <booster2>x Buch des Bauens\n• Kein Lagerlimit!\n\nBauarbeiter zu beschäftigt? Nicht genug Zeit, all deine Ressourcen auszugeben? Hol dir dieses Paket mit magischen Büchern, um sofort einen Helden fertigzustellen und ein Gebäude zu verbessern!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,"• <gems> Juwelen\n• <booster1> Buch der Helden\n• <booster2>x Buch des Bauens\n• Kein Lagerlimit!\n\nBauarbeiter zu beschäftigt? Nicht genug Zeit, all deine Ressourcen auszugeben? Hol dir dieses Paket mit magischen Büchern, um sofort einen Helden fertigzustellen und ein Gebäude zu verbessern!\n\nKein Lagerlimit!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> Juwelen\n• <booster1>x Buch des Bauens\n• Kein Lagerlimit!\n\nSchließe mit dem Buch des Bauens Gebäudeverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,"• <res0> Gold\n• <booster1>x Buch des Bauens\n•<booster2>x Bauarbeitertrank\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um dein Rathaus und deine Verteidigungsanlagen zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,"• <res0> Gold\n• <booster1>x Buch des Bauens\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um dein Rathaus und deine Verteidigungsanlagen zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Paket: Buch des Bauens
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buch des Bauens\n• <res0> Gold\n• <res1> Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Buch des Bauens Gebäudeverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Universalbuch-Paket
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> Juwelen\n• <booster1>x Universalbuch\n• Kein Lagerlimit!\n\nSchließe mit dem Universalbuch JEDE Art von Verbesserung sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Universalbuch-Paket
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Universalbuch\n• <res0> Gold\n• <res1> Elixier\n• <res2> Dunkles Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Universalbuch JEDE Art von Verbesserung sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,"• <res0> Dunkles Elixier\n• <booster1>x Buch des Kampfes\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um deine Dunklen Truppen zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,"• <res0> Elixier\n• <booster1>x Buch des Kampfes\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um deine Truppen zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,"• <res0> Dark Elixier\n• <booster1>x Buch des Kampfes\n•<booster2>x Buch der Zauber\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Dunklen Truppen und Zauber brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,"• <res0> Elixier\n• <booster1>x Buch des Kampfes\n•<booster2>x Buch der Zauber\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Truppen und Zauber brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Paket: Buch der Helden
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> Juwelen\n• <booster1>x Buch der Helden\n• Kein Lagerlimit!\n\nSchließe mit dem Buch der Helden Heldenverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Paket: Buch der Helden
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buch der Helden\n• <res0> Dunkles Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Buch der Helden Heldenverbesserungen sofort ab!\n\nLass dir dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c> nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x Buch der Helden\n• <res0> Dunkles Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Buch der Helden Heldenverbesserungen sofort ab!\n\nLass dir dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c> nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Paket: Königliche Verbesserung
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,"• <gems> Juwelen\n• <res0> Dunkles Elixier\n• <booster1>x Buch der Helden\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um deinen Barbarenkönig oder deine Bogenschützen-Königin zu verbessern!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,"• <res0> Dunkles Elixier\n• <booster1>x Buch der Helden\n• Kein Lagerlimit!\n\nAlles, was du brauchst, um deinen Barbarenkönig oder deine Bogenschützen-Königin zu verbessern!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,"• <res0> Elixier\n• <booster1>x Buch der Helden\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deines Großen Wächters brauchst!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Ressourcentrank-Paket
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> Juwelen\n• <booster1>x Ressourcentrank\n• Kein Lagerlimit!\n\nBring deine Ressourcensammler auf Hochtouren!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Ressourcentrank-Stapel
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x Ressourcentrank\n• Kein Lagerlimit!\n\nBring deine Ressourcensammler auf Hochtouren!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Paket: Buch der Zauber
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> Juwelen\n• <booster1>x Buch der Zauber\n• Kein Lagerlimit!\n\nSchließe mit dem Buch der Zauber Zauberverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Paket: Buch der Zauber
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buch der Zauber\n• <res0> Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Buch der Zauber Zauberverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Paket: Zauberverbesserung
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• <booster1>x Buch der Zauber\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Zauber brauchst!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Machttrank-Paket
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> Juwelen\n• <booster1>x Machttrank\n• Kein Lagerlimit!\n\nHol das Maximum aus deinen Truppen raus und probiere neue Armeekombinationen!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Machttrank-Stapel
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x Machttrank\n• Kein Lagerlimit!\n\nHol das Maximum aus deinen Truppen raus und probiere neue Armeekombinationen!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Trainingstrank-Paket
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> Juwelen\n• <booster1>x Trainingstrank\n• Kein Lagerlimit!\n\nBeschleunige Truppenausbildung, Zauberbrauen und Heldenregeneration!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Trainingstrank-Stapel
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x Trainingstrank\n• Kein Lagerlimit!\n\nBeschleunige Truppenausbildung, Zauberbrauen und Heldenregeneration!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Paket: Buch des Kampfes
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> Juwelen\n• <booster1>x Buch des Kampfes\n• Kein Lagerlimit!\n\nSchließe mit dem Buch des Kampfes Truppenverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Paket: Buch des Kampfes
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x Buch des Kampfes\n• <res0> Elixier\n• Kein Lagerlimit!\n\nSchließe mit dem Buch des Kampfes Truppenverbesserungen sofort ab!\n\nLass dir dieses Angebot nicht entgehen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Paket: Truppenverbesserung
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,"• <gems> Juwelen\n• <res0> Elixier\n• <booster1>x Buch des Kampfes\n• Kein Lagerlimit!\n\nAlles, was du zur Verbesserung deiner Truppen brauchst!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Paket: Gebäudeverbesserung
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,"• <gems> Juwelen\n• <res0> Gold\n• <res1> Elixier\n• <booster1>x Buch des Bauens\n• Kein Lagerlimit!\n\nMöchtest du ein Gebäude verbessern? In diesem Paket ist alles, was du brauchst!\n\nLass dir dieses Angebot nicht entgehen!"
-TID_DIAMOND_BUNDLE_RED,(Heldenpaket)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Juwelen\n• Mächtige Heldenstatue\n• Zeitlich begrenztes Alternativdesign für Barbarenkönig\n\n100 % der Erlöse gehen an (RED)s Kampf gegen AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Forschungspaket
-TID_DIAMOND_BUNDLE_TH10,Paket: Rathaus-Level 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1> Buch des Bauens\n• <booster2>x Buch der Helden\n• <res0> Gold\n<res1>Elixier!\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit<cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Infernoturm Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Infernoturm Level 1\n• <booster1>x Buch der Helden\n• <res0> Dunkles Elixier\n• <booster2>x Bauarbeitertrank\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Infernoturm Level 1\n• X-Bogen Level 2\n• <res0> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH11,Paket: Rathaus-Level 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x Buch des Bauens\n• <booster2>x Buch der Helden\n• <res0> Gold\n<res1>Elixier!\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit<cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> Juwelen\n• Großer Wächter\n• Adlerartillerie Level 1\n\nSofortige Fertigstellung\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Adlerartillerie Level 1\n• Großer Wächter\n• <booster1>x Buch der Helden\n• <res0>Elixier\n\nKeine Bauzeiten, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Adlerartillerie Level 1\n• Großer Wächter\n• <res0> Dunkles Elixier\n\nKeine Bauzeiten, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH12,Paket: Rathaus-Level 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Werkstatt Level 1\n• <res0> Dunkles Elixier\n• <res1> Gold\n\nSofortige Fertigstellung, kein Lagerlimit! So kannst du sofort Belagerungsmaschinen in der Werkstatt bauen!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH13,Paket: Rathaus-Level 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Königliche Gladiatorin Level 3\n• <res0> Dunkles Elixier\n\nKeine Bauzeit, kein Lagerlimit!\n\nLass dir dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c> nicht entgehen!"
-TID_DIAMOND_BUNDLE_TH14,Paket: Rathaus-Level 14
-TID_DIAMOND_BUNDLE_TH15,Paket: Rathaus-Level 15
-TID_DIAMOND_BUNDLE_TH3,Paket: Rathaus-Level 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> Juwelen\n• <res0> Gold\n• <res1> Elixier\n• <booster1>x Bauarbeitertrank\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH4,Paket: Rathaus-Level 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixier\n• <gems> Juwelen\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Luftabwehr Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> Gold\n• <res1> Elixier\n• <booster1>x Bauarbeitertrank\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Luftabwehr Level 2\n• <res0> Gold\n• <res1> Elixier\n• <gems>Juwelen\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH5,Paket: Rathaus-Level 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Magierturm Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x Buch des Bauens\n• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Magierturm Level 2\n• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH6,Paket: Rathaus-Level 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixier\n• <gems> Juwelen\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Luftfeger Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x Buch des Bauens\n• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Magierturm Level 3\n• Minenwerfer Level 4\n• <res0> Gold\n• <res1> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH7,Paket: Rathaus-Level 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> Juwelen\n• Barbarenkönig\n• Verborgener Tesla Level 2\n\nSofortige Fertigstellung\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Barbarenkönig\n• <booster1>x Buch der Helden\n• <res0> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla Level 2\n• Barbarenkönig\n• <res0> Dunkles Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH8,Paket: Rathaus-Level 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> Juwelen\n• <res0> Gold\n• Bombenturm Level 1\n\nSofortige Fertigstellung, kein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x Buch des Kampfes\n• <booster2>x Buch der Zauber\n• <res0> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Bombenturm Level 2\n• Magierturm Level 5\n• <res0> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH9,Paket: Rathaus-Level 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> Juwelen\n• Bogenschützen-Königin\n• X-Bogen Level 1\n\nSofortige Fertigstellung\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Bogenschützen-Königin\n• <booster1>x Buch der Helden\n• <res0> Dunkles Elixier\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• X-Bogen Level 2\n• Bogenschützen-Königin\n• <res0> Dunkles Elixier\n• <res1> Gold\n\nKein Lagerlimit!\n\nVerpasse nicht dieses EINMALIGE Angebot mit <cffec78><value>-fachem Wert</c>!
 TID_DIAMOND_FOUND,Du hast hier ein Juwel gefunden: <name>!
 TID_DIAMOND_GIFT_RECEIVED,Du erhältst <number> Juwelen vom Clangeschenk!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Häuptling, deine Juwelenmine ist voll mit Juwelen!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Sammle Mixmedaillen und tausche sie gegen noch m
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Willkommen zur Mixmanie!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Der Kessel füllt eines deiner Elixierlager in <time> mit Saurem Elixier.
 TID_HALLOWEEN_TOKENS_LEFT,Übrige Mixmedaillen: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> Gold\n• <booster1>x Bauarbeitertrank\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot fünfmal kaufen!\n\nHol mit diesem Angebot das meiste aus der Hammerparty-Saison heraus!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x Mauerring\n• <booster2>x Rune des Dunklen Elixiers\n• <booster3>x Bauarbeitertrank\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot zehnmal kaufen!\n\nBring mit diesem Update-Paket deine Verbesserungen in Schwung!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x Mauerring\n• <booster2>x Rune des Elixiers\n• <booster3>x Rune des Golds\n• <booster4>x Rune des Dunklen Elixiers\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot viermal kaufen!\n\nBring mit diesem Update-Paket deine Verbesserungen in Schwung!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x Mauerring\n• <booster2>x Rune des Elixiers\n• <booster3>x Rune des Golds\n• <booster4>x Rune des Dunklen Elixiers\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot zweimal kaufen!\n\nBring mit diesem Update-Paket deine Verbesserungen in Schwung!
 TID_HASH,#
 TID_HASTE,Wutzauber
 TID_HASTE_DAMAGE,Schadenserhöhung: <number> %
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,"• Wir präsentieren zwei neue Einheiten für d
 TID_NEWS_SEP_V2_BALANCING_TITLE,Meisterhütte Level 7 ist da!
 TID_NEWS_SPELLS_TEXT,"Blitzzauber\n* Der Blitzzauber auf Level 7 verwüstet sowohl Gebäude als auch Truppen.\n* Mehr Schaden durch Blitzzauber auf Level 5 und 6.\n* Blitzzauber schlagen jetzt enger zusammen ein und verfehlen nicht mehr so leicht.\n\nGiftzauber\n* Truppen in einer Giftwolke nehmen zuerst weniger Schaden, der sich aber mit der Zeit immer mehr verstärkt.\n* Der Schaden durch Giftzauber wurde stark erhöht und hält noch nach dem Abklingen des Zaubers an.\n* Giftzauber reduzieren jetzt außerdem die Angriffsgeschwindigkeit verteidigender Truppen.\n\nErdbebenzauber\n* Erdbebenzauber fügen jetzt viel mehr Schaden zu, ungeachtet der aktuellen TP eines Gebäudes\n* Wiederholte Erdbebenzauber verursachen bei denselben Gebäuden jetzt weniger Schaden.\n* Vier Erdbebenzauber zerstören auch weiterhin jede Mauer!"
 TID_NEWS_SPELLS_TITLE,Überarbeitete Zauber mit angepasster Stärke
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Diese gewaltige Waffe mit großer Reichweite vernichtet schlecht vorbereitete Angreifer.\n• Ein Hagel explosiver Geschosse macht Kleinholz selbst aus zähen Truppen und zermürbt Feinde in der Nähe der Einschlagsorte.\n• Die Adlerartillerie wird erst aktiviert, wenn eine große Truppenanzahl eingesetzt wurde. Damit sind taktische Schläge und gerissene Angriffe in mehreren Phasen möglich."
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Adlerartillerie: die schlafende Gefahr
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,"• Das Kampfzeitlimit wurde um 30 Sekunden verlängert.\n• Kobolde können dem Rathaus und der Clanburg jetzt doppelt so viel Schaden zufügen.\n• Reaktivierungskosten für alle Fallen wurden stark reduziert.\n• Nachladekosten für X-Bögen wurden stark reduziert.\n• Viele Heiler sind bei derselben Einheit jetzt weniger effektiv.\n• Armeeschübe wurden auf 1 Stunde und 5 Juwelen reduziert.\n• Die Kosten für Spiele und fürs Überspringen von Angriffen sind bei Rathaus-Level 10 jetzt niedriger.\n• Der Vorbereitungstag für den Clankrieg wurde auf 23 Stunden verkürzt.\n• Die KI für Truppen und Wegfindung wurde optimiert.\n• Die verfügbare Beutemenge bei Rathaus-Level 6-10 wurde leicht erhöht.\n• Bei Dörfern, die ein Rathaus-Level niedriger sind, gibt es etwas weniger Beute.\n• Spielfeld und Truppeneinsatzgebiet wurden erweitert, Hindernisse außerhalb wurden automatisch verschoben."
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Spielbalance
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,"• Der Schutz verhindert Angriffe auf dich, während du selbst andere nach Herzenslust angreifen kannst.\n• Hol dir Gratis-Schutz, wenn der Schild abläuft und spiele, ohne dir Sorgen um einen Angriff zu machen.\n• Höhere Ligen gewähren mehr Gratis-Schutz - Spieler in Titan I und der Legenden-Liga erhalten 100 % Schutz!\n• Im Shop sind täglich 2 zusätzliche Stunden Schutz erhältlich."
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Schutz - sicher vor Angreifern
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Nutze mächtige neue Schlachtfeldtaktiken, indem du deine Truppen schützt und mit Schüben stärkst.\n• Der Große Wächter stählt alle nahegelegenen Truppen und macht sie kurzfristig unbesiegbar!\n• Er springt, er fliegt - der Großen Wächter passt in jede Strategie und lässt deine Armee glänzen."
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Großer Wächter: der neueste Held deiner Armee
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Rathäuser enthalten jetzt jede Menge Beute. Zerstöre sie im Kampf, um groß abzusahnen!\n• Ligaboni sind größer als je zuvor, stehen jedoch im Verhältnis zu deinem Zerstörungsanteil.\n• Je höher deine Liga, desto mehr Trophäen kannst du gewinnen und desto weniger Trophäen verlierst du."
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Mehr Beute und Trophäen
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Es gibt zwei neue Erfolge: ,,Anti-Artillerie\q und ,,Geteilte Freude ist doppelte Freude\q.\n• Die Oberfläche für Truppen- und Zauberspenden wurde überarbeitet und zeigt jetzt aktuelle Spenden an.\n• Truppen in Kasernen können jetzt wie bei der Zauberfabrik nacheinander in die Warteschlange gesetzt werden.\n• Die Schaltfläche für den Clankrieg ist jetzt animiert, wenn ein Kriegsangriff beginnt.\n• Aktiver Schild und Schutz können jetzt manuell abgestellt werden, indem du auf das Symbol tippst.\n• Du kannst jetzt ein weniger länger offline sein, ohne dich Angriffen auszusetzen.\n• Ein bestimmter Ton wird abgespielt, wenn nach 10 Sekunden Suche ein Mehrspielerziel gefunden wurde.\n• Ein bestimmter Ton wird abgespielt, wenn keine Mehrspielerziele gefunden wurden und die Suche abgebrochen wird.\n• Das Online-Zeitlimit für die Auszeit wurde auf 3 Stunden reduziert.\n• In einigen Fällen wird das Auszeitlimit jetzt erhöht statt zurückgesetzt.\n• Die Mehrspieler-Spielersuche lässt dich jetzt weniger oft gegen Spieler mit niedrigerem Rathaus-Level antreten (nur unterhalb der Champions-Liga)."
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Weitere Verbesserungen der Spielbalance
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Der große Auftritt von Rathaus-Level 11! BUMM!\n• Großer Wächter und Adlerartillerie: Die stärksten und strategisch wertvollsten Ergänzungen aller Zeiten!\n• Neue Truppenlevel, Verteidigungslevel und Clan-Zauberspenden\n• Du kannst mit Schild jederzeit angreifen, aber sorge dafür, dass dein Rathaus geschützt ist!\n• Sei geschützt, wenn der Schild nicht aktiv ist, und lass dich nicht überrumpeln.\n• Kobolde, die es auf Rathäuser abgesehen haben, größere Ligaboni, mehr Trophäen und vieles mehr!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Eines der größten Clash-Updates aller Zeiten!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Mit der Zerstörung des Rathauses wird kein Schild mehr gewährt - bring dein Rathaus in die Dorfmitte!\n• Du kannst jetzt auch mit Schild jederzeit angreifen. Dabei wird nur die Schilddauer leicht reduziert.\n• Hol dir einen Schild bei 30 % Zerstörung und noch mal bei 60 % - aber nur, wenn eine größere Armee angreift."
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Schilde - flexible und faire Verteidigung
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Fordere ab Clanburg-Level 4 nicht nur Truppen, sondern auch Verstärkungszauber an.\n• Alle Clanvorteile werden auch auf gespendete Zauber angewendet.\n• Der Frostzauber wird jetzt ab Rathaus-Level 9 freigeschaltet und hat bei niedrigeren Leveln eine etwas längere Wirkungsdauer."
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Starke Zauber
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Erlebe das größte, abgefahrenste und schwierigste Level aller Zeiten: Rathaus-Level 11!\n• Der neue Held ,,Großer Wächter\q ab Rathaus-Level 11 kann Armeen unaufhaltsam machen!\n• Die neue Abwehr ,,Adlerartillerie\q ab Rathaus-Level 11 sorgt für ehrfurchtgebietende Zerstörung aus der Entfernung.\n• Mehr Abwehranlagen, mit zusätzlicher Kanone sowie zusätzlichem Bogenschützenturm, Magierturm und X-Bogen!\n• Mit Rathaus 11 neue Level für Lakaien, Hexen, Magiertürme und mehr!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Rathaus-Level 11
 TID_NEWS_TOS_UPDATE,"Wir haben unsere Nutzungsbedingungen und Datenschutzrichtlinien aktualisiert! Bitte nimm dir etwas Zeit, sie durchzulesen. Du findest sie im Spiel unter ,,Einstellungen\q. Diese wichtigen Dokumente regeln deinen Umgang mit unseren Spielen und enthalten nützliche Informationen für alle Spieler. Weitere Informationen erhältst du in unseren Foren."
 TID_NEWS_TREASURY TEXT,"Täglicher Sternebonus\n• Gewinne 5 Sterne in Mehrspieler-Kämpfen, um Bonusbeute zu verdienen.\n• In höheren Ligen kannst du größere Boni verdienen!\n• Jeden Tag gibt es einen neuen Sternebonus!\n• Sternebonus-Belohnungen werden sicher in der Schatzkammer aufbewahrt.\n\nBeutekarre\n• Nach jeder Verteidigung erscheint in deinem Dorf eine kaputte Beutekarre.\n• Hol dir diese Karre, um einen Teil deiner verlorenen Ressourcen zurückzubekommen!\n• Es erscheint nur eine Beutekarre. Sammle sie also gleich ein!\n\nDie Schatzkammer\n• In Clanburgen gibt es eine gut geschützte Ressourcenbank: die Schatzkammer.\n• In der Schatzkammer wird der Clankriegs- und Sternebonus gelagert.\n• Das ist der sicherste Ort für Bonusbeute, bis du sie ausgeben kannst!\n\nSpielbalance\n• Die Adlerartillerie fügt Golems und Mini-Golems jetzt dreimal so viel Schaden zu.\n• Eine zweite Luftabwehr wird jetzt ab Rathaus-Level 6, die dritte ab Level 7 freigeschaltet."
 TID_NEWS_TREASURY TITLE,Neue Schätze und die Schatzkammer
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Piratengladiatorin
 TID_PIRATE_KING,Piratenkönig
 TID_PIRATE_QUEEN,Piratenkönigin
 TID_PIRATE_WARDEN,Piratenwächter
-TID_PIXEL_CHAMPION,Pixelgladiatorin
-TID_PIXEL_KING,Pixelkönig
-TID_PIXEL_QUEEN,Pixelkönigin
-TID_PIXEL_SCENERY,Pixelszenerie
-TID_PIXEL_WARDEN,Pixelwächter
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Du wurdest in einer Liga platziert!
 TID_PLACEMENT_HINT,"Tippen oder gedrückt halten, um Truppen einzusetzen."
 TID_PLACEMENT_HINT_TUTORIAL1,"Tippe mehrmals auf ein freies Gebiet, um deine Truppen einzusetzen."
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,International
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> Gold\n• <res1> Elixier\n• <booster1>x Machttrank (bringt deine Truppen und Zauber 1 Stunde lang auf den mit deinem Rathaus-Level maximal möglichen Level)\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angegebenen Zeitraum 3-mal gekauft werden.\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> Gold\n• <res1> Elixier\n• <booster1>x Machttrank (bringt deine Truppen und Zauber 1 Stunde lang auf den mit deinem Rathaus-Level maximal möglichen Level)\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angegebenen Zeitraum 4-mal gekauft werden.\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> Elixier\n•<booster1>x Buch des Kampfes - stelle sofort eine beliebige laufende Truppenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 3-mal gekauft werden\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n• <booster1>x Buch des Kampfes - stelle sofort eine beliebige laufende Truppenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 2-mal gekauft werden\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> Elixier\n•<booster1>x Buch des Kampfes - stelle sofort eine beliebige laufende Truppenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 4-mal gekauft werden\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> Dunkles Elixier\n• <res1> Gold\n• <res2> Elixier\n• <booster1>x Buch des Kampfes - stelle sofort eine beliebige laufende Truppenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum nur 1-mal gekauft werden\n• Führe deinen Clan mit diesem Sonderangebot in glorreiche Schlachten!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,"• <res0> Gold\n•<res1> Elixier\n• <booster1>x Bauarbeitertrank - deine Bauarbeiter arbeiten eine Stunde lang 10-mal schneller\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 3-mal gekauft werden\n• Nutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,"• <res0> Gold\n• <booster1>x Bauarbeitertrank - deine Bauarbeiter arbeiten eine Stunde lang 10-mal schneller\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 4-mal gekauft werden\n• Nutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,"• <res0> Gold\n•<res1> Elixier\n• <booster1>x Buch des Bauens - stelle sofort eine beliebige Gebäudeverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 3-mal gekauft werden\n• Nutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• <res0> Gold\n•<res1> Elixier\n• <booster1>x Mauerring - verbessere sofort eine beliebige Mauer, für Mauern mit höherem Level können mehrere Ringe benötigt werden\n• <booster2>x Buch des Bauens - stelle sofort eine beliebige Gebäudeverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 2-mal gekauft werden\n• Nutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,"• <res0> Gold\n• <booster1>x Buch des Bauens - stelle sofort eine beliebige Gebäudeverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 4-mal gekauft werden\n• Nutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• <res0> Gold\n• <res1> Elixier\n• <booster1>x Mauerring - verbessere sofort eine beliebige Mauer, für Mauern mit höherem Level können mehrere Ringe benötigt werden\n• <booster2>x Buch des Bauens - stelle sofort eine beliebige Gebäudeverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum nur 1-mal gekauft werden\nNutze die Zeit, um deine Verteidigung zu verbessern!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> Elixier\n• <booster1>x Trainingstrank (erhöht 1 Stunde lang die Effizienz von Kasernen, Zauberfabriken, Werkstätten und Heldenregeneration)\n• <booster2>x Machttrank (bringt deine Truppen und Zauber 1 Stunde lang auf den mit deinem Rathaus-Level maximal möglichen Level)\n• <booster3>x Ressourcentrank (erhöht 1 Tag lang die Effizienz deiner Ressourcensammler)\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angegebenen Zeitraum 3-mal gekauft werden.\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> Elixier\n• <booster1>x Trainingstrank (erhöht 1 Stunde lang die Effizienz von Kasernen, Zauberfabriken, Werkstätten und Heldenregeneration)\n• <booster2>x Machttrank (bringt deine Truppen und Zauber 1 Stunde lang auf den mit deinem Rathaus-Level maximal möglichen Level)\n• <booster3>x Ressourcentrank (erhöht 1 Tag lang die Effizienz deiner Ressourcensammler)\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angegebenen Zeitraum 4-mal gekauft werden.\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> Dunkles Elixier\n• <res1> Elixier\n• <booster1>x Buch der Helden - stelle sofort eine beliebige laufende Heldenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 3-mal gekauft werden\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> Dunkles Elixier\n• <res1> Gold\n• <booster1>x Buch der Helden - stelle sofort eine beliebige laufende Heldenverbesserung fertig\n• <booster2>x Buch der Zauber - stelle sofort eine beliebige laufende Zauberverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 2-mal gekauft werden\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> Elixier\n• <booster1>x Buch der Helden - stelle sofort eine beliebige laufende Heldenverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum 4-mal gekauft werden\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> Dunkles Elixier\n• <res1> Gold\n• <booster1>x Buch der Helden - stelle sofort eine beliebige laufende Heldenverbesserung fertig\n• <booster2>x Buch der Zauber - stelle sofort eine beliebige laufende Zauberverbesserung fertig\n\n• Kein Lagerlimit!\n• Dieses Angebot kann im angezeigten Zeitraum nur 1-mal gekauft werden\n• Verbessere deine Helden und Truppen und wirke mächtigere Zauber!
 TID_REINFORCEMENT_CAMP_INFO,Verstärkungslager helfen ab dem Erreichen der entsprechenden Stufe im Kampf aus.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Besser spät als nie! Stellt nach der ersten Phase Truppen zur Verfügung.
 TID_REINFORCEMENT_CAMPS,Verstärkung:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Weltraum-Gladiatorin
 TID_SPACE_KING,Weltraumkönig
 TID_SPACE_QUEEN,Weltraumkönigin
 TID_SPACE_WARDEN,Weltraumwächter
-TID_SPECIAL_OFFER,Sonderangebot
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Jubiläumspaket
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Frühlingsangebot
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Frühlingsangebot
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Frühlingsangebot
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Frühlingsangebot
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Bauarbeiterpaket
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x Rune des Bauarbeitergolds\n• <booster2>x Rune des Bauarbeiterelixiers\n• <booster3>x Buch des Kampfes\n• <booster4>x Buch des Bauens\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot zehnmal kaufen!\n\nBringe mit diesem praktischen Paket deine Verbesserungen in Schwung!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x Rune des Bauarbeitergolds\n• <booster2>x Rune des Bauarbeiterelixiers\n• <booster3>x Buch des Kampfes\n• <booster4>x Buch des Bauens\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot viermal kaufen!\n\nBringe mit diesem praktischen Paket deine Verbesserungen in Schwung!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x Rune des Bauarbeitergolds\n• <booster2>x Rune des Bauarbeiterelixiers\n• <booster3>x Buch des Kampfes\n• <booster4>x Buch des Bauens\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot zweimal kaufen!\n\nBringe mit diesem praktischen Paket deine Verbesserungen in Schwung!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Häuptling, ein ganz besonderes Jubiläumsangebot ist für dich verfügbar!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x Mauerring\n• <booster2>x Rune des Dunklen Elixiers\n• <booster3>x Bauarbeitertrank\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot 10-mal kaufen!\n\nMit diesem spektakulären Paket kannst du deine Mauern verbessern, deine Lager für Dunkles Elixier auffüllen und deine Bauarbeiter auf Trab bringen!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x Mauerring\n• <booster2>x Rune des Elixiers\n• <booster3>x Rune des Dunklen Elixiers\n• <booster4>x Rune des Golds\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot viermal kaufen!\n\nMit diesem großartigen Angebot kannst du deine Lager wieder auffüllen und deine Mauern verbessern!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> Gold\n• <res1> Dunkles Elixier\n• <gems> Juwelen\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot 20-mal kaufen!\n\nEin prima Paket zur Verbesserung deiner Verteidigungen, Helden und Dunklen Truppen!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x Mauerring\n• <booster2>x Rune des Elixiers\n• <booster3>x Rune des Dunklen Elixiers\n• <booster4>x Rune des Golds\n\n• Kein Lagerlimit!\n• Du kannst dieses Angebot zweimal kaufen!\n\nMit diesem tollen Paket kannst du deine Verbesserungen in Gang bringen und die Level deiner Mauern erhöhen!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,"• <res0> Gold\n• <booster1>x Buch des Bauens\n• <booster2>x Bauarbeitertrank\n• Kein Lagerlimit!\n• Du kannst dieses Angebot 10-mal kaufen!\n\nAlles, was du zur Verbesserung deines Rathauses und deiner Verteidigungen brauchst!"
 TID_SPECIAL_PACK_BUILDER,Starterpaket
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Spezialfähigkeit wird auf Level <number> freigeschaltet
 TID_SPECTATOR_CAN_NOT_CLAIM,Du nimmst an diesem Clankrieg nicht teil.

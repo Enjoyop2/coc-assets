@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Max: <amount>
 TID_CONTINUE,Continue
 TID_CONTRIBUTE,Contribute
 TID_CONTRIBUTED,<name> contributed
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0>x Gems\n• <booster1>x Training Potion - increase efficiency of Barracks, Spell Factories, Workshop and Hero regeneration for 1h\n\n• No storage limits!\n• This offer can be purchased only 1 time during the displayed time period!\n\nGet some help with this one time amazing offer!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems>x Gems\n• <booster1>x Training Potion - increase efficiency of Barracks, Spell Factories, Workshop and Hero regeneration for 1h\n\n• No storage limits!\n• This offer can be purchased only 1 time during the displayed time period!\n\nGet some help with this one time amazing offer!"
 TID_COOLDOWN,Cooldown:
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tag copied to device clipboard!
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Copied to device clipboard!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,The current Village is attached to a different Gam
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"The current Village is attached to a different Google account than the one you're signed into.\n\nPlease sign out of the current Google account from the settings screen, and sign in with the account attached to this Village.\n\nThen try linking again."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Wrong account logged in
 TID_DEVICE_LINKED_MAIL_ITEM,New device was linked to your Village.
-TID_DIAMOND_BUNDLE_BH3,Builder Hall 3 Pack
-TID_DIAMOND_BUNDLE_BH3_ALT,Novice Builder Pack
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> Gems\n• <res0> Elixir\n• Crusher level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH4,Builder Hall 4 Pack
-TID_DIAMOND_BUNDLE_BH4_ALT,Apprentice Builder Pack
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> Gems\n• <res0> Elixir\n• Guard Post level 1\n• Air Bombs level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH5,Builder Hall 5 Pack
-TID_DIAMOND_BUNDLE_BH5_ALT,Adept Builder Pack
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> Gems\n• <res0> Elixir\n• Multi Mortar level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH6,Builder Hall 6 Pack
-TID_DIAMOND_BUNDLE_BH6_ALT,Expert Builder Pack
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> Gems\n• <res0> Elixir\n• Roaster level 1\n• Crusher level 1\n\nNo building time!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH7,Builder Hall 7 Pack
-TID_DIAMOND_BUNDLE_BH7_ALT,Master Builder Pack
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n• Giant Cannon level 4\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH8,Builder Hall 8 Pack
-TID_DIAMOND_BUNDLE_BH8_ALT,Grandmaster Builder Pack
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n• Mega Tesla level 4\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> Gems\n• <res0> Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_BH9_ALT,Champion Builder Pack
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Bomb Tower Pack
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> Gems\n• <res0> Gold\n• Bomb Tower level 2\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Build Pack
-TID_DIAMOND_BUNDLE_BUILDER,Builder Pack
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Builder Hero Pack
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Builder Base Pack
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Builder Research Pack
-TID_DIAMOND_BUNDLE_BUILDER_INFO,This Builder Pack contains <gems> gems and a free builder!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> Gems\n• <res0> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Dark Research Pack
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> Gems\n• <res0> Elixir\n• <res1> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Elixir Hero Pack
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> Gems\n• <res0> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> Gems\n• <res0> Gold\n• <res1> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> Gems\n• <res0> Gold\n• <res1> Elixir\n• <res2> Dark Elixir\n\nGoes over storage limits!\n\nOur <cffec78>best ever</c> ONE time offer - don't miss it!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> Gems\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> Gems\n• <res0> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_HERO,Hero
-TID_DIAMOND_BUNDLE_HERO_INFO,Hero
-TID_DIAMOND_BUNDLE_HERO_PACK,Hero Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Builder Gold\n• <booster1>x Builder Potion\n• No storage limits!\n\nEverything you need for upgrading your Builder Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Builder Gold\n• <booster1>x Book of Building\n• <booster2>x Builder Potion\n• No storage limits!\n\nEverything you need for upgrading your Builder Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Builder Gold\n• <booster1>x Book of Building\n• No storage limits!\n\nEverything you need for upgrading your Builder Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Builder Elixir\n• <booster1>x Book of Fighting\n• No storage limits!\n\nEverything you need for upgrading your Builder Troops!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Builder Elixir\n• <booster1>x Book of Heroes\n• No storage limits!\n\nEverything you need for upgrading your Battle Machine!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> Gold\n• <booster1>x Builder Potion\n• No storage limits!\n\nEverything you need for upgrading your Town Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Book of Building Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Magic Book Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> Gems\n• <booster1> Book of Heroes\n• <booster2>x Book of Building\n• No storage limits!\n\nBuilders busy? Too many resources to spend and not enough time? Get the Magic Book Pack to immediately finish one hero and one building upgrade!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> Gems\n• <booster1> Book of Heroes\n• <booster2>x Book of Building\n• No storage limits!\n\nBuilders busy? Too many resources to spend and not enough time? Get the Magic Book Pack to immediately finish one Hero and one Building upgrade!\n\nNo storage limits!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> Gems\n• <booster1>x Book of Building\n• No storage limits!\n\nGet any building upgrade finished right away with the Book of Building!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> Gold\n• <booster1>x Book of Building\n• <booster2>x Builder Potion\n• No storage limits!\n\nEverything you need for upgrading your Town Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> Gold\n• <booster1>x Book of Building\n• No storage limits!\n\nEverything you need for upgrading your Town Hall and Defenses!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Book of Building Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Book of Building\n• <res0> Gold\n• <res1> Elixir\n• No storage limits!\n\nGet any building upgrade finished right away with the Book of Building!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Book of Everything Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> Gems\n• <booster1>x Book of Everything\n• No storage limits!\n\nFinish ANY upgrade immediately with the incredible Book of Everything!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Book of Everything Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1>x Book of Everything\n• <res0> Gold\n• <res1> Elixir\n• <res2> Dark Elixir\n• No storage limits!\n\nFinish ANY upgrade immediately with the incredible Book of Everything!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Dark Elixir\n• <booster1>x Book of Fighting\n• No storage limits!\n\nEverything you need for upgrading your Dark Troops!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> Elixir\n• <booster1>x Book of Fighting\n• No storage limits!\n\nEverything you need for upgrading your Troops!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> Dark Elixir\n• <booster1>x Book of Fighting\n• <booster2>x Book of Spells\n• No storage limits!\n\nEverything you need for upgrading your Dark Troops and Spells!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> Elixir\n• <booster1>x Book of Fighting\n• <booster2>x Book of Spells\n• No storage limits!\n\nEverything you need for upgrading your Troops and Spells!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Book of Heroes Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> Gems\n• <booster1>x Book of Heroes\n• No storage limits!\n\nFinish any Hero upgrade immediately with the Book of Heroes!!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Book of Heroes Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1>x Book of Heroes\n• <res0> Dark Elixir\n• No storage limits!\n\nFinish any Hero upgrade immediately with the Book of Heroes!!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1>x Book of Heroes\n• <res0> Dark Elixir\n• No storage limits!\n\nFinish any Hero upgrade immediately with the Book of Heroes!!\n\ nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Royal Upgrade Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> Gems\n• <res0> Dark Elixir\n• <booster1>x Book of Heroes\n• No storage limits!\n\nEverything you need for upgrading your Barbarian King or Archer Queen!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> Dark Elixir\n• <booster1>x Book of Heroes\n• No storage limits!\n\nEverything you need for upgrading your Barbarian King and Archer Queen!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> Elixir\n• <booster1>x Book of Heroes\n• No storage limits!\n\nEverything you need for upgrading your Grand Warden!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Resource Potion Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> Gems\n• <booster1>x Resource Potion\n• No storage limits!\n\nSupercharge your resource collectors!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Pile of Resource Potions
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1>x Resource Potion\n• No storage limits!\n\nSupercharge your resource collectors!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Book of Spells Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> Gems\n• <booster1>x Book of Spells\n• No storage limits!\n\nFinish upgrading your Spells immediately with the Book of Spells!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Book of Spells Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1>x Book of Spells\n• <res0> Elixir\n• No storage limits!\n\nFinish upgrading your Spells immediately with the Book of Spells!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Spell Upgrade Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> Gems\n• <res0> Elixir\n• <booster1>x Book of Spells\n• No storage limits!\n\nEverything you need for upgrading your Spells!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Power Potion Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> Gems\n• <booster1>x Power Potion\n• No storage limits!\n\nGet the most out of your troops and try out new army compositions!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Pile of Power Potions
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• <booster1>x Power Potion\n• No storage limits!\n\nGet the most out of your troops and try out new army compositions!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Training Potion Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> Gems\n• <booster1>x Training Potion\n• No storage limits!\n\nBoost your Troop training, Spell brewing and Hero regeneration!\n\nDon't miss this offer!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Pile of Training Potions
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1>x Training Potion\n• No storage limits!\n\nBoost your Troop training, Spell brewing and Hero regeneration!\n\nDon't miss this offer!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Book of Fighting Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> Gems\n• <booster1>x Book of Fighting\n• No storage limits!\n\nImmediately finish any troop upgrade with the Book of Fighting!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Book of Fighting Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1>x Book of Fighting\n• <res0> Elixir\n• No storage limits!\n\nImmediately finish any troop upgrade with the Book of Fighting!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Troop Upgrade Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> Gems\n• <res0> Elixir\n• <booster1>x Book of Fighting\n• No storage limits!\n\nEverything you need for upgrading your troops!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Building Upgrade Pack
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> Gems\n• <res0> Gold\n<res1> Elixir\n• <booster1>x Book of Building\n• No storage limits!\n\nNeed a building upgraded? This pack has everything you need!\n\nDon't miss this offer!
-TID_DIAMOND_BUNDLE_RED,(Hero Pack)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Gems\n• Mighty Hero Statue\n• Limited time (RED) skin for Barbarian King\n\n100% of proceeds will go to (RED)´s fight against AIDS.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Research Pack
-TID_DIAMOND_BUNDLE_TH10,Town Hall 10 Pack
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1>x Book of Building\n• <booster2>x Book of Heroes\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> Gems\n• <res0> Gold\n• Inferno Tower level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Inferno Tower level 1\n• <booster1>x Book of Heroes\n• <res0> Dark Elixir\n• <booster2>x Builder Potion\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Inferno Tower level 1\n• Xbow level 2\n• <res0> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH11,Town Hall 11 Pack
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1>x Book of Building\n• <booster2>x Book of Heroes\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> Gems\n• Grand Warden Hero\n• Eagle Artillery level 1\n\nNo building time!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Eagle Artillery level 1\n• Grand Warden Hero\n• <booster1>x Book of Heroes\n• <res0> Elixir\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Eagle Artillery level 1\n• Grand Warden Hero\n• <res0> Dark Elixir\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH12,Town Hall 12 Pack
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Workshop level 1\n• <res0> Dark Elixir\n• <res1> Gold\n\nNo building time, no storage limits! Get to building Siege Machines immediately with the Workshop!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH13,Town Hall 13 Pack
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Royal Champion level 3\n• <res0> Dark Elixir\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH14,Town Hall 14 Pack
-TID_DIAMOND_BUNDLE_TH15,Town Hall 15 Pack
-TID_DIAMOND_BUNDLE_TH3,Town Hall 3 Pack
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> Gems\n• <res0> Gold\n• <res1> Elixir\n• <booster1>x Builder Potion\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH4,Town Hall 4 Pack
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixir\n• <gems> Gems\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> Gems\n• <res0> Gold\n• Air Defense level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> Gold\n• <res1> Elixir\n• <booster1>x Builder Potion\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Air Defense level 2\n• <res0> Gold\n• <res1> Elixir\n• <gems> Gems\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH5,Town Hall 5 Pack
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> Gems\n• <res0> Gold\n• Wizard Tower level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1>x Book of Building\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Wizard Tower level 2\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH6,Town Hall 6 Pack
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> Gold\n• <res1> Elixir\n• <gems> Gems\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> Gems\n• <res0> Gold\n• Air Sweeper level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1>x Book of Building\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Wizard Tower level 3\n• Mortar level 4\n• <res0> Gold\n• <res1> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH7,Town Hall 7 Pack
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> Gems\n• Barbarian King Hero\n• Hidden Tesla level 2\n\nNo building time!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Barbarian King Hero\n• <booster1>x Book of Heroes\n• <res0> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla Tower level 2\n• Barbarian King Hero\n• <res0> Dark Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH8,Town Hall 8 Pack
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> Gems\n• <res0> Gold\n• Bomb Tower level 1\n\nNo building time, no storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1>x Book of Fighting\n• <booster2>x Book of Spells\n• <res0> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Bomb Tower level 2\n• Wizard Tower level 5\n• <res0> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH9,Town Hall 9 Pack
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> Dark Elixir\n• <res1> Gold\n• <res2> Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> Gems\n• Archer Queen Hero\n• X-Bow level 1\n\nNo building time!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Archer Queen Hero\n• <booster1>x Book of Heroes\n• <res0> Dark Elixir\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Xbow level 2\n• Archer Queen Hero\n• <res0> Dark Elixir\n• <res1> Gold\n\nNo storage limits!\n\nDon't miss this <cffec78><value>X value</c> ONE time offer!
 TID_DIAMOND_FOUND,You found a gem in the <name>!
 TID_DIAMOND_GIFT_RECEIVED,You got <number> Gems from the Clan gift!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Chief, your Gem Mine is full of Gems!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Collect Mashup Medals and trade them for even mo
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Welcome to Mashup Madness!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,The Cauldron will transform one of your Elixir Storages into Sour Elixir in <time>
 TID_HALLOWEEN_TOKENS_LEFT,Mashup Medals Left: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> Gold\n• <booster1>x Builder Potion\n\n• No storage limits!\n• This offer can be purchased 5 times!\n\nGet the most ouf of the Season of Upgrades with this amazing Hammer Jam offer!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1>x Ring of Walls\n• <booster2>x Rune of Dark Elixir\n• <booster3>x Builder Potion\n\n• No storage limits!\n• This offer can be purchased 10 times!\n\nGet your upgrades going with this amazing Update Pack!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1>x Ring of Walls\n• <booster2>x Rune of Elixir\n• <booster3>x Rune of Gold\n• <booster4>x Rune of Dark Elixir\n\n• No storage limits!\n• This offer can be purchased 4 times!\n\nGet your upgrades going with this amazing Update Pack!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1>x Ring of Walls\n• <booster2>x Rune of Elixir\n• <booster3>x Rune of Gold\n• <booster4>x Rune of Dark Elixir\n\n• No storage limits!\n• This offer can be purchased 2 times!\n\nGet your upgrades going with this amazing Update Pack!
 TID_HASH,#
 TID_HASTE,Rage Spell
 TID_HASTE_DAMAGE,Damage increase: <number>%
@@ -4904,26 +4740,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Introducing two new units for your Builder Ba
 TID_NEWS_SEP_V2_BALANCING_TITLE,Builder Hall Level 7 is here!
 TID_NEWS_SPELLS_TEXT,"Lightning Spell\n* Lightning Spell level 7 ravages buildings and troops alike\n* Increased damage for Lightning Spell levels 5 and 6\n* Lightning Spell bolts now strike closer together to miss less often\n\nPoison Spell\n* Troops in Poison Spells now take less damage at first, but much more over time\n* Poison Spell damage now increases to huge amounts and lingers after leaving the spell\n* Poison Spells now also reduce the attack rate of defending Troops\n\nEarthquake Spell\n* Earthquake Spells deal much more damage, regardless of a building's current hitpoints\n* Repeated Earthquake Spells now deal diminishing damage to the same buildings\n* Four Earthquake Spells will still always destroy any level of Wall!"
 TID_NEWS_SPELLS_TITLE,Reworked and Recharged Spells
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• This massive, long-range weapon obliterates poorly prepared attacking armies\n• Volleys of explosive shells clobber tough troops and wear down others near the blasts\n• Eagle Artillery only activates after many troops have been deployed, leaving the door open for tactical strikes and cunning multi-phase attacks!"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Eagle Artillery: The Sleeping Sentinel
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• Battle time limit has been increased by 30 seconds\n• Goblins now target the Town Hall and Clan Castle for 2x damage\n• Rearm costs for all Traps have been massively reduced\n• Reload costs for X-Bows have been massively reduced\n• Large amounts of Healers now have reduced effectiveness on the same unit\n• Army boosts have been reduced to 5 Gems for 1 hour of boost\n• Cost for finding a match and ‘Nexting´ reduced for TH10\n• Clan War Preparation Day has been reduced to 23 hours\n• Troop combat and pathfinding AI has been polished up and tightened\n• Available loot percentage on Town Hall levels 6-10 has been slightly increased\n• Villages one Town Hall level lower are now worth slightly less loot\n• The playing field and Troop deployment area have both been expanded (outlying obstacles have been automatically moved)
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Gameplay Balancing
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• Guard protects you from attacks and lets you attack others all you want\n• Get free Guard when Shields expire and play freely without worry of being attacked\n• Higher Leagues grant more free Guard - Titan I & Legend players get 100% coverage!\n• 2 hours of extra Guard is available in the Shop every day
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Guard - Play Safe From Attackers
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Harness powerful new battlefield tactics by boosting and protecting your troops\n• The Grand Warden toughens all nearby troops and can make them temporarily invincible!\n• He jumps, he flies - fit the Grand Warden into any strategy and make your army shine"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Grand Warden: Your Army´s Newest Hero
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Town Halls now hold lots of available loot - destroy them in battle for a big payout!\n• League Bonuses are bigger than ever, but scale with your destruction percentage\n• Trophy offers get bigger and Trophy losses lower the higher your League!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Richer Raiding: Loot and Trophies
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Two new achievements have been added: Anti-Artillery and Sharing is Caring\n• Troop/Spell donation interface has been revamped and now shows existing donations\n• Troops in Barracks can now be queued in sequence, similarly to the Spell Factory\n• The Clan War button now animates when a War attack starts\n• Active Shield or Guard can now be manually dismissed by tapping on the icon\n• You can now be offline a bit longer before being made vulnerable to attack\n• A special sound plays when finding a multiplayer target after 10 seconds of searching\n• A special sound plays when no multiplayer targets are found and a search is cancelled\n• Personal Break online-time limit has been reduced to 3 hours\n• Personal Break limit is now extended instead of reset in some cases\n• Multiplayer matchmaking is less likely to offer opponents under your Town Hall level (only below Champion League)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Other Balancing and Improvements
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Town Hall 11 is bursting onto the scene! BOOM!\n• Grand Warden & Eagle Artillery: The most powerful and strategic additions ever!\n• New Troop levels, defense levels, and Clan Spell donation\n• Attack through Shield at any time, but be sure to protect your Town Hall!\n• Guard your playtime when Shield is down and never get attacked off-guard again\n• Goblins chasing Town Halls, bigger League Bonuses, Trophy offers, and much more!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,One of the Biggest Clash Updates - Ever!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Town Hall destruction no longer grants a Shield - bring your Town Hall inside!\n• You can attack while shielded at any time for just a small Shield reduction\n• Get Shield at 30% destruction, more at 60%, but only when a sizable army attacks"
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Shields - Flexible and Fair Defense
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,"• Request reinforcement Spells, not just Troops, starting from Clan Castle level 4\n• Donated Spells receive all existing Clan Perks benefits\n• Freeze Spell is now unlocked at Town Hall 9 and has slightly longer duration on lower levels"
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Do the Spell Shuffle
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Experience the biggest, baddest, most challenging Town Hall level ever: Town Hall 11!\n• New Town Hall 11 Hero Grand Warden can make armies nearly unstoppable!\n• New Town Hall 11 defense Eagle Artillery delivers awe-inspiring devastation from afar\n• More defenses, including an extra Cannon, Archer Tower, Wizard Tower and X-Bow!\n• New Town Hall 11 levels for Minion, Witch, Wizard Tower, and more!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Turn It Up to TH11
 TID_NEWS_TOS_UPDATE,"We've updated our Terms of Service and Privacy Policy! Please take some time to peruse them (available in-game behind Settings). These important documents govern your relationship with our games, containing beneficial information for anyone who chooses to play. For more information, visit our forums."
 TID_NEWS_TREASURY TEXT,"Daily Star Bonus\n• Win 5 Stars from multiplayer battles to earn bonus loot\n• Earn bigger bonuses at higher Leagues!\n• A new Star Bonus is available every day!\n• Star Bonus rewards are safeguarded in the Treasury\n\nLoot Cart\n• A broken down Loot Cart appears in your Village after every defense\n• Collect this cart to recover some of your lost resources\n• Only one Loot Cart will appear at a time, so collect it right away!\n\nThe Treasury\n• Clan Castles now house a well-protected resource bank: the Treasury\n• The Treasury safeguards bonus loot from Clan Wars and Star Bonuses\n• It's the safest place to save up bonus loot until you are ready to spend it!\n\nBalancing\n• The Eagle Artillery now deals 3x damage to Golems and Golemites\n• Second Air Defense unlocks now at Town Hall 6, third at Town Hall 7"
 TID_NEWS_TREASURY TITLE,New Treasures and The Treasury
@@ -5497,11 +5313,6 @@ TID_PIRATE_CHAMPION,Pirate Champion
 TID_PIRATE_KING,Pirate King
 TID_PIRATE_QUEEN,Pirate Queen
 TID_PIRATE_WARDEN,Pirate Warden
-TID_PIXEL_CHAMPION,Pixel Champion
-TID_PIXEL_KING,Pixel King
-TID_PIXEL_QUEEN,Pixel Queen
-TID_PIXEL_SCENERY,Pixel Scenery
-TID_PIXEL_WARDEN,Pixel Warden
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,You've been placed in a League!
 TID_PLACEMENT_HINT,Tap or press and hold to deploy troops
 TID_PLACEMENT_HINT_TUTORIAL1,Tap multiple times in an empty area to deploy your troops
@@ -5921,24 +5732,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,International
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> Gold\n•<res1> Elixir\n• <booster1>x Power Potion - boost your Troops and Spells to the max by 1h allowed at your Town Hall level\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> Gold\n•<res1> Elixir\n• <booster1>x Power Potion - boost your Troops and Spells to the max by 1h allowed at your Town Hall level\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> Elixir\n• <booster1>x Book of Fighting - instantly complete any ongoing troop upgrade\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> Dark Elixir\n•<res1> Gold\n•<res2> Elixir\n• <booster1>x Book of Fighting - instantly complete any ongoing Troop upgrade\n\n• No storage limits!\n• This offer can be purchased 2 times during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> Elixir\n• <booster1>x Book of Fighting - instantly complete any ongoing troop upgrade\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> Dark Elixir\n•<res1> Gold\n•<res2> Elixir\n• <booster1>x Book of Fighting - instantly complete any ongoing Troop upgrade\n\n• No storage limits!\n• This offer can be purchased only 1 time during the displayed time period\n• Lead your Clan into glorious battle with this special offer!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> Gold\n•<res1> Elixir\n• <booster1>x Builder Potion - your Builders will work 10x faster for 1h\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Take this time to upgrade your defenses!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> Gold\n• <booster1>x Builder Potion - your Builders will work 10x faster for 1h\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Take this time to upgrade your defenses!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> Gold\n•<res1> Elixir\n• <booster1>x Book of Buildings - instantly complete any building upgrade\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Take this time to upgrade your defenses!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,"• <res0> Gold\n•<res1> Elixir\n• <booster1>x Ring of Walls - instantly upgrade any Wall, though higher level Walls might require multiple Rings\n• <booster2>x Book of Buildings - instantly complete any Building upgrade\n\n• No storage limits!\n• This offer can be purchased 2 times during the displayed time period\n• Take this time to upgrade your defenses!"
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> Gold\n• <booster1>x Book of Buildings - instantly complete any building upgrade\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Take this time to upgrade your defenses!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,"• <res0> Gold\n•<res1> Elixir\n• <booster1>x Ring of Walls - instantly upgrade any Wall, though higher level Walls might require multiple Rings\n• <booster2>x Book of Buildings - instantly complete any Building upgrade\n\n• No storage limits!\n• This offer can be purchased only 1 time during the displayed time period\nTake this time to upgrade your defenses!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> Elixir\n• <booster1>x Training Potion - increases efficiency of Barracks, Spell Factories, Workshop and Hero regeneration for 1h\n• <booster2>x Power Potion - boost your Troops and spells to the max by 1h allowed at your Town Hall level\n• <booster3>x Resource Potion - boost your resource collector efficiency for 1d\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier spells!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> Elixir\n• <booster1>x Training Potion - increases efficiency of Barracks, Spell Factories, Workshop and Hero regeneration for 1h\n• <booster2>x Power Potion - boost your Troops and Spells to the max by 1h allowed by your Town Hall level\n• <booster3>x Resource Potion - boost your resource collector efficiency for 1d\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier Spells!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> Dark Elixir\n•<res1> Elixir\n• <booster1>x Book of Heroes - instantly complete any ongoing Hero upgrade\n\n• No storage limits!\n• This offer can be purchased 3 times during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier spells!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> Dark Elixir\n•<res1> Gold\n• <booster1>x Book of Heroes - instantly complete any ongoing Hero upgrade\n• <booster2>x Book of Spells - instantly complete any ongoing Spell upgrade\n\n• No storage limits!\n• This offer can be purchased 2 times during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier spells!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> Elixir\n• <booster1>x Book of Heroes - instantly complete any ongoing Hero upgrade\n\n• No storage limits!\n• This offer can be purchased 4 times during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier spells!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> Dark Elixir\n•<res1> Gold\n• <booster1>x Book of Heroes - instantly complete any ongoing Hero upgrade\n• <booster2>x Book of Spells - instantly complete any ongoing Spell upgrade\n\n• No storage limits!\n• This offer can be purchased only 1 time during the displayed time period\n• Upgrade your Heroes & Troops and call upon mightier Spells!
 TID_REINFORCEMENT_CAMP_INFO,Reinforcement Camps provide helpful reinforcements during battles when reaching the corresponding stage.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Better late than never! Provides troops after the first stage.
 TID_REINFORCEMENT_CAMPS,Reinforcements:
@@ -6305,22 +6098,6 @@ TID_SPACE_CHAMPION,Space Champion
 TID_SPACE_KING,Space King
 TID_SPACE_QUEEN,Space Queen
 TID_SPACE_WARDEN,Space Warden
-TID_SPECIAL_OFFER,Special Offer
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Anniversary Pack
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Spring Special
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Spring Special
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Spring Special
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Spring Special
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Builder Boost
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1>x Rune of Builder Gold\n• <booster2>x Rune of Builder Elixir\n• <booster3>x Book of Fighting\n• <booster4>x Book of Building\n\n• No storage limits!\n• This offer can be purchased 10 times!\n\nGet your upgrades going with this amazing pack!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1>x Rune of Builder Gold\n• <booster2>x Rune of Builder Elixir\n• <booster3>x Book of Fighting\n• <booster4>x Book of Building\n\n• No storage limits!\n• This offer can be purchased 4 times!\n\nGet your upgrades going with this amazing pack!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1>x Rune of Builder Gold\n• <booster2>x Rune of Builder Elixir\n• <booster3>x Book of Fighting\n• <booster4>x Book of Building\n\n• No storage limits!\n• This offer can be purchased 2 times!\n\nGet your upgrades going with this amazing pack!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Chief, a very special Builder Base anniversary offer is available for you!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x Ring of Walls\n• <booster2>x Rune of Dark Elixir\n• <booster3>x Builder Potion\n\n• No storage limits!\n• This offer can be purchased 10 times!\n\nUpgrade your Walls, fill up your Dark Elixir storage and speed up your Builders with this spectacular Pack!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x Ring of Walls\n• <booster2>x Rune of Elixir\n• <booster3>x Rune of Dark Elixir\n• <booster4>x Rune of Gold\n\n• No storage limits!\n• This offer can be purchased 4 times!\n\nGet the resources you need and level up your Walls with this awesome offer!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> Gold\n• <res1> Dark Elixir\n• <gems> Gems\n\n• No storage limits!\n• This offer can be purchased 20 times!\n\nAwesome value for upgrading your Defenses, Heroes and Dark Elixir Troops in one neat bundle!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x Ring of Walls\n• <booster2>x Rune of Elixir\n• <booster3>x Rune of Dark Elixir\n• <booster4>x Rune of Gold\n\n• No storage limits!\n• This offer can be purchased 2 times!\n\nGet your upgrades going and Walls leveled up with this amazing Pack!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> Gold\n• <booster1>x Book of Building\n• <booster2>x Builder Potion\n• No storage limits!\n• This offer can be purchased 10 times!\n\nEverything you need for upgrading your Town Hall and Defenses!
 TID_SPECIAL_PACK_BUILDER,Starter Pack
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Special ability unlocks at level <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,You aren´t taking part in this Clan War

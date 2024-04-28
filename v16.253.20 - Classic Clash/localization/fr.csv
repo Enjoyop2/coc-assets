@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Max. : <amount>
 TID_CONTINUE,Continuer
 TID_CONTRIBUTE,Contribuer
 TID_CONTRIBUTED,<name> a contribué.
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0> gemmes\n• Potion d'entraînement x<booster1> (augmente l'efficacité des casernes, usines de sorts et ateliers, et la régénération des héros pendant 1 h)\n\n• Aucune limite de stockage !\n• Vous ne pouvez profiter de cette offre qu'une fois durant la période indiquée.\n\nObtenez de l'aide grâce à cette offre unique !"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems> gemmes\n• Potion d'entraînement x<booster1> (augmente l'efficacité des casernes, usines de sorts et ateliers, et la régénération des héros pendant 1 h)\n\n• Aucune limite de stockage !\n• Vous ne pouvez profiter de cette offre qu'une fois durant la période indiquée.\n\nObtenez de l'aide grâce à cette offre unique !"
 TID_COOLDOWN,Délai d'attente :
 TID_COPIED_TO_DEVICE_CLIPBOARD,Identifiant copié dans le presse-papier de l'appareil !
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Copié dans le presse-papier de l'appareil !
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"Le village actuel est lié à un autre compte Gam
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Le village actuel est lié à un autre compte Google que celui auquel vous êtes connecté.\n\nDéconnectez-vous du compte Google actuel depuis l'écran des paramètres, puis connectez-vous au compte lié à ce village.\n\nEnsuite, retentez l'association."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Connexion à un compte incorrect
 TID_DEVICE_LINKED_MAIL_ITEM,Un nouvel appareil a été associé à votre village.
-TID_DIAMOND_BUNDLE_BH3,Pack Maison des ouvriers 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Pack ouvrier novice
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> gemmes\n• <res0> doses d'élixir\n• Broyeur niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH4,Pack Maison des ouvriers 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Pack ouvrier apprenti
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> gemmes\n• <res0> doses d'élixir\n• Poste de garde niveau 1\n• Bombes aériennes niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH5,Pack Maison des ouvriers 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Pack ouvrier habile
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> gemmes\n• <res0> doses d'élixir\n• Multi-mortier niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH6,Pack Maison des ouvriers 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Pack ouvrier compagnon
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> gemmes\n• <res0> doses d'élixir\n• Rôtissoire niveau 1\n• Broyeur niveau 1\n\nAucune durée de construction !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH7,Pack Maison des ouvriers 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Pack maître ouvrier
-TID_DIAMOND_BUNDLE_BH7_INFO,"• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n• Canon géant niveau 4\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH8,Pack Maison des ouvriers 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Pack grand maître ouvrier
-TID_DIAMOND_BUNDLE_BH8_INFO,"• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n• Méga tesla niveau 4\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette offre UNIQUE de <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_BH9_ALT,Pack ouvrier de compétition
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Pack tour à bombes
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Tour à bombes niveau 2\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_BUILD_PACK,Pack construction
-TID_DIAMOND_BUNDLE_BUILDER,Pack ouvrier
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Pack héros ouvrier
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Pack base des ouvriers
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Pack recherche ouvrier
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Ce pack ouvrier contient <gems> gemmes et un ouvrier gratuit !
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> gemmes\n• <res0> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Pack recherche obscure
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> gemmes\n• <res0> doses d'élixir\n• <res1> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Pack élixir et héros
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> gemmes\n• <res0> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> gemmes\n• <res0> pièces d'or\n• <res1> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• <res1> doses d'élixir\n• <res2> doses d'élixir noir\n\nAu-delà de la limite de stockage !\n\nNe manquez pas cette offre unique, <cffec78>la meilleure de toutes</c> !"
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> gemmes\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> gemmes\n• <res0> pièces d'or\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_HERO,Héros
-TID_DIAMOND_BUNDLE_HERO_INFO,Héros
-TID_DIAMOND_BUNDLE_HERO_PACK,Pack héros
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> pièces d'or des ouvriers\n• Potion de l'ouvrier x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre maison des ouvriers et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> pièces d'or des ouvriers\n• Livre des bâtiments x<booster1>\n• Potion de l'ouvrier x<booster2>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre maison des ouvriers et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> pièces d'or des ouvriers\n• Livre des bâtiments x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre maison des ouvriers et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> unités d'élixir des ouvriers\n• Livre de combat x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes de la base des ouvriers.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> unités d'élixir ouvrier\n• Livre des héros x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre machine de combat.
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> pièces d'or\n• Potion de l'ouvrier x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre hôtel de ville et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Pack livre des bâtiments
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Pack livre magique
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> gemmes\n• Livre des héros x<booster1>\n• Livre des bâtiments x<booster2>\n• Aucune limite de stockage !\n\nOuvriers occupés ? Trop de ressources et pas assez de temps ? Le pack magique vous permettra d'améliorer un héros et un bâtiment !\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> gemmes\n• Livre des héros x<booster1>\n• Livre des bâtiments x<booster2>\n• Pas de limite de stockage !\n\nOuvriers occupés ? Trop de ressources et pas assez de temps ? Le pack magique vous permettra d'améliorer un héros et un bâtiment !\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> gemmes\n• Livre des bâtiments x<booster1>\n• Pas de limite de stockage !\n\nTerminez l'amélioration de n'importe quel bâtiment immédiatement.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> pièces d'or\n• Livre des bâtiments x<booster1>\n• Potion de l'ouvrier x<booster2>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre hôtel de ville et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> pièces d'or\n• Livre des bâtiments x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre hôtel de ville et vos défenses !
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Pack livre des bâtiments
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• Livre des bâtiments x<booster1>\n• <res0> pièces d'or\n• <res1>  unités d'élixir\n• Pas de limite de stockage !\n\nTerminez l'amélioration de n'importe quel bâtiment immédiatement !\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Pack livre universel
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> gemmes\n• Livre des sorts x<booster1>\n• Pas de limite de stockage !\n\nTerminez n'importe quelle amélioration instantanément grâce à l'incroyable livre universel.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Pack livre universel
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• Livre universel x<booster1>\n• <res0> pièces d'or\n• <res1> unités d'élixir\n• <res2> unités d'élixir noir\n• Pas de limite de stockage !\n\nTerminez n'importe quelle amélioration instantanément grâce à l'incroyable livre universel.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> unités d'élixir noir\n• Livre de combat x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> unités d'élixir\n• Livre de combat x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> unités d'élixir noir\n• Livre des combats x<booster1>\n• Livre des sorts x<booster2>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes et sorts.
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> unités d'élixir\n• Livre des combats x<booster1>\n• Livre des sorts x<booster2>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes et sorts.Ne manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Pack livre des héros
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> gemmes\n• Livre des héros x<booster1>\n• Pas de limite de stockage !\n\nTerminez les améliorations de héros instantanément grâce au livre des héros !\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Pack livre des héros
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• Livre des héros x<booster1>\n• <res0> unités d'élixir noir\n• Pas de limite de stockage !\n\nTerminez n'importe quelle amélioration de héros immédiatement avec le livre des héros !\n\nNe ratez pas cette offre unique à <cffec78>valeur x<value></c> !
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• Livre des héros x<booster1>\n• <res0> unités d'élixir noir\n• Pas de limite de stockage !\n\nTerminez n'importe quelle amélioration de héros immédiatement avec le livre des héros !\n\ nNe ratez pas cette offre unique <cffec78>à valeur X<value></c> !
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Pack amélioration royale
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> gemmes\n• <res0> unités d'élixir noir\n• livre des héros x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer le Roi des barbares ou la Reine des archères.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> unités d'élixir noir\n• Livre des héros x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer le Roi des barbares et la Reine des archères.
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> unités d'élixir\n• Livre des sorts x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer votre Grand gardien.
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Pack potion de ressources
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> gemmes\n• Potion de ressources x<booster1>\n• Pas de limite de stockage !\n\nDes extracteurs de ressources efficaces comme jamais auparavant.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Tas de potions de ressources
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• Potion de ressources x<booster1>\n• Pas de limite de stockage !\n\nDes extracteurs de ressources efficaces comme jamais auparavant.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Pack livre des sorts
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> gemmes\n• Livre des sorts x<booster1>\n• Pas de limite de stockage !\n\nTerminez l'amélioration de vos sorts instantanément grâce au livre des sorts.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Pack livre des sorts
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• Livre des sorts x<booster1>\n• <res0>Élixir\n• Pas de limite de stockage !\n\nTerminez l'amélioration de vos sorts instantanément grâce au livre des sorts.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Pack amélioration des sorts
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> gemmes\n• <res0> unités d'élixir\n• Livre des sorts x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos sorts.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Pack potion de puissance
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,• <gems> gemmes\n• Potion de puissance x<booster1>\n• Pas de limite de stockage !\n\nEssayez de nouvelles combinaisons avec des unités prêtes pour le combat.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Tas de potions de pouvoir
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,• Potion de puissance x<booster1>\n• Pas de limite de stockage !\n\nEssayez de nouvelles combinaisons avec des unités prêtes pour le combat.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Pack potion d'entraînement
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> gemmes\n• Potion d'entraînement x<booster1>\n• Pas de limite de stockage !\n\nEntraînement des troupes, concoction des sorts et régénération des héros plus rapides que jamais.\n\nNe manquez pas cette offre !"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Tas de potions d'entraînement
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• Potion d'entraînement x<booster1>\n• Pas de limite de stockage !\n\nEntraînement des troupes, concoction des sorts et régénération des héros plus rapides que jamais.\n\nNe manquez pas cette offre !"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Pack livre de combat
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> gemmes\n• Livre de combat x<booster1>\n• Pas de limite de stockage !\n\nFinissez l'amélioration de n'importe quelle troupe grâce au livre de combat.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Pack livre de combat
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• Livre de combat x<booster1>\n• <res0> unités d'élixir\n• Pas de limite de stockage !\n\nFinissez l'amélioration de n'importe quelle troupe grâce au livre de combat.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Pack amélioration des troupes
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> gemmes\n• <res0> unités d'élixir\n• Livre de combat x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer vos troupes.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Pack amélioration des bâtiments
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> gemmes\n• <res0> pièces d'or\n<res1> unités d'élixir\n• Livre des bâtiments x<booster1>\n• Pas de limite de stockage !\n\nTout ce qu'il vous faut pour améliorer le bâtiment que vous voulez.\n\nNe manquez pas cette offre !
-TID_DIAMOND_BUNDLE_RED,(Pack héros)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> Gemmes\n• Grande statue de héros\n• Skin(RED) à durée limitée pour le Roi des barbares\n\n100 % des bénéfices seront reversés à (RED) pour lutter contre le SIDA.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Pack recherche
-TID_DIAMOND_BUNDLE_TH10,Pack hôtel de ville 10
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• Livre des bâtiments x<booster1>\n• Livre des héros x<booster2>\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH10_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Tour de l'enfer niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,"• Tour de l'enfer niveau 1\n• Livre des héros x<booster1>\n• <res0> doses d'élixir noir\n• Potion de l'ouvrier x<booster2>\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Tour de l'enfer niveau 1\n• Arc-X niveau 2\n• <res0> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH11,Pack hôtel de ville 11
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• Livre des bâtiments x<booster1>\n• Livre des héros x<booster2>\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> gemmes\n• Héros Grand gardien\n• Aigle artilleur niveau 1\n\nAucune durée de construction !\n\nNe manquez pas cette <cffec78>offre UNIQUE de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Aigle artilleur niveau 1\n• Grand gardien\n• Livre des héros x<booster1>\n• <res0> doses d'élixir\n\nAucun temps de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Aigle artilleur niveau 1\n• Grand gardien\n• <res0> doses d'élixir noir\n\nAucun temps de construction, aucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH12,Pack hôtel de ville 12
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Atelier niveau 1\n• <res0> doses d'élixir noir\n• <res1> pièces d'or\n\nAucun temps de construction, aucune limite de stockage ! Lancez-vous dans la fabrication d'engins de siège avec l'atelier !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH13,Pack hôtel de ville 13
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur x<value></c> !
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Championne royale niveau 3\n• <res0> doses d'élixir noir\n\nAucun temps de construction, aucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur x<value></c> !"
-TID_DIAMOND_BUNDLE_TH14,Pack hôtel de ville 14
-TID_DIAMOND_BUNDLE_TH15,Pack hôtel de ville 15
-TID_DIAMOND_BUNDLE_TH3,Pack hôtel de ville 3
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> gemmes\n• <res0> pièces d'or\n• <res1> doses d'élixir\n• Potion de l'ouvrier x<booster1>\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH4,Pack hôtel de ville 4
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> pièces d'or\n• <res1> doses d'élixir\n• <gems> gemmes\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH4_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Défense anti-aérienne niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> pièces d'or\n• <res1> doses d'élixir\n• Potion de l'ouvrier x<booster1>\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Défense anti-aérienne niveau 2\n• <res0> pièces d'or\n• <res1> doses d'élixir\n• <gems> gemmes\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH5,Pack hôtel de ville 5
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH5_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Tour de sorciers niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• Livre des bâtiments x<booster1>\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Tour de sorciers niveau 2\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH6,Pack hôtel de ville 6
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> pièces d'or\n• <res1> doses d'élixir\n• <gems> gemmes\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH6_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Propulseur d'air niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• Livre des bâtiments x<booster1>\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Tour de sorciers niveau 3\n• Mortier niveau 4\n• <res0> pièces d'or\n• <res1> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH7,Pack hôtel de ville 7
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> gemmes\n• Roi des barbares\n• Tesla camouflée niveau 2\n\nAucune durée de construction !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Roi des barbares\n• Livre des héros x<booster1>\n• <res0> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tesla niveau 2\n• Roi des barbares\n• <res0> doses d'élixir noir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH8,Pack hôtel de ville 8
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH8_INFO,"• <gems> gemmes\n• <res0> pièces d'or\n• Tour à bombes niveau 1\n\nAucune durée de construction, aucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !"
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• Livre de combat x<booster1>\n• Livre des sorts x<booster2>\n• <res0> doses d'élixir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Tour à bombes niveau 2\n• Tour de sorciers niveau 5\n• <res0> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH9,Pack hôtel de ville 9
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> doses d'élixir\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> gemmes\n• Reine des archères\n• Arc-X niveau 1\n\nAucune durée de construction !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Reine des archères\n• Livre des héros x<booster1>\n• <res0> doses d'élixir noir\n\nAucune limite de stockage !\n\nNe manquez pas cette <cffec78>offre unique de valeur X<value></c> !
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Arc-X niveau 2\n• Reine des archères\n• <res0> doses d'élixir noir\n• <res1> pièces d'or\n\nAucune limite de stockage !\n\nNe ratez pas cette <cffec78>offre unique de valeur X<value></c> !
 TID_DIAMOND_FOUND,Vous avez trouvé une gemme dans : <name> !
 TID_DIAMOND_GIFT_RECEIVED,Vous avez reçu <number> gemmes dans le cadeau de clan !
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Chef, votre mine de gemmes est pleine !"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Récupérez des médailles combo et échangez-le
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Événement Combo monstrueux !
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Le chaudron va transformer l'un de vos réservoirs d'élixir en élixir sinistre dans <time>
 TID_HALLOWEEN_TOKENS_LEFT,Médailles combo restantes : <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> Or\n• Potion de l'ouvrier x<booster1>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 5 fois !\n\nProfitez au maximum de la saison des améliorations avec cette super offre Convention des matériaux !
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• Anneau des remparts x<booster1>\n• Rune d'élixir noir x<booster2>\n• Potion de l'ouvrier x<booster3>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 10 fois !\n\nLancez vos améliorations grâce à ce super pack de mise à jour !
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• Anneau des remparts x<booster1>\n• Rune d'élixir x<booster2>\n• Rune d'or x<booster3>\n• Rune d'élixir noir x<booster4>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 4 fois !\n\nLancez vos améliorations grâce à ce super pack de mise à jour !
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• Anneau des remparts x<booster1>\n• Rune d'élixir x<booster2>\n• Rune d'or x<booster3>\n• Rune d'élixir noir x<booster4>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 2 fois !\n\nLancez vos améliorations grâce à ce super pack de mise à jour !
 TID_HASH,#
 TID_HASTE,Sort de rage
 TID_HASTE_DAMAGE,Augmentation des dégâts : <number> %
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Deux nouvelles unités dans la base des ouvri
 TID_NEWS_SEP_V2_BALANCING_TITLE,Maison des ouvriers niveau 7 disponible
 TID_NEWS_SPELLS_TEXT,"Sort de foudre\n* Le sort de foudre de niveau 7 dévaste les bâtiments comme les troupes.\n* Les dégâts des sorts de foudre de niveaux 5 et 6 sont plus élevés.\n* Les éclairs lancés par les sorts de foudre sont plus rapprochés pour une meilleure précision.\n\nSort d'empoisonnement\n* Les troupes prises dans un sort d'empoisonnement subissent des dégâts accrus avec le temps.\n* Les dégâts des sorts d'empoisonnement peuvent désormais augmenter énormément et persistent après avoir quitté la zone.\n* Les sorts d'empoisonnement peuvent également réduire le taux d'attaques des troupes défensives.\n\nSort sismique\n* Les sorts sismiques infligent beaucoup plus de dégâts, quels que soient les points de santé des bâtiments.\n* Les sorts sismiques à répétition infligent désormais de moins en moins de dégâts aux mêmes bâtiments.\n* Quatre sorts sismiques suffisent toujours à détruire les remparts de tout niveau !"
 TID_NEWS_SPELLS_TITLE,Sorts retravaillés et rechargés
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Cette arme massive à longue portée anéantit les ennemis mal préparés\n• Des volées d'éclats explosifs s'abattent sur les troupes et font des dégâts alentour\n• L'aigle artilleur n'est actif que lorsqu'un certain nombre de troupes sont déployées, ce qui vous permet de jolis coups tactiques et des attaques multiphases méthodiques !"
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,L'aigle artilleur : la sentinelle veille
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,• La durée maximum des batailles a été augmentée de 30 secondes\n• Les gobelins attaquent désormais l'hôtel de ville et le château de clan pour 2 fois plus de dégâts\n• Le coût de réarmement des pièges a été drastiquement réduit\n• Le coût de rechargement des arcs-X a été drastiquement réduit\n• Un grand nombre de guérisseuses disposent désormais d'une efficacité réduite sur une même unité\n• Les améliorations des armées ont été réduites à 5 gemmes pour 1 heure de boost\n• Le coût de recherche de partie et de \qSuivant\q a été réduit pour HDV 10\n• Le jour de préparation de la guerre des clans a été réduit à 23 heures\n• L'IA des combats de troupe et de repérage a été améliorée et affinée\n• Le pourcentage de butin disponible de l'hôtel de ville des niveaux 6 à 10 a été légèrement augmenté\n• Les villages d'un niveau HDV inférieur rapportent un butin légèrement moindre\n• Le terrain de jeu et la zone de déploiement des troupes ont été agrandis (les obstacles de délimitation ont été automatiquement déplacés)
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Équilibrage du gameplay
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,• La protection vous met à l'abri des attaques et vous permet d'attaquer à l'envi\n• Obtenez une protection gratuite lorsque le bouclier disparaît et jouez tranquillement sans vous soucier d'éventuelles attaques\n• Les ligues de haut niveau disposent de plus de protection gratuite - Les joueurs de la ligue des titans I et de la ligue légendes sont couverts à 100 % !\n• 2 heures de protection supplémentaire sont disponibles à la boutique tous les jours.
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Protection - Pour jouer à l'abri des ennemis
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Déployez de nouvelles tactiques de combat en accélérant vos troupes et en les protégeant\n• Le Grand gardien renforce les troupes proches et peut même les rendre provisoirement invincibles !\n• Il saute, il vole - il s'adapte à toutes les stratégies pour faire briller votre armée !"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Le Grand gardien : le tout nouveau héros de votre armée
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Les hôtels de ville disposent désormais de nombreux butins - détruisez les HDV pour remporter le gros lot !\n• Les bonus de ligue sont plus généreux que jamais, mais ils tiennent compte du pourcentage de destruction\n• Plus votre ligue est élevée, plus les offres de trophée augmentent et plus les pertes de trophées diminuent !"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Des raids plus juteux : butins et trophées
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Deux nouveaux succès ont été ajoutés : Anti-artillerie et Partager, c'est s'engager\n• L'interface de don d'unité/de sort a été remodelée pour afficher les dons existants\n• Les troupes des casernes peuvent désormais être mises en attente, comme dans l'usine de sorts\n• Le bouton Guerre de clans s'anime désormais lorsqu'une attaque de guerre commence\n• Le bouclier actif ou la protection peuvent désormais être manuellement désactivés via l'icône\n• Vous pouvez désormais rester hors ligne un peu plus longtemps avant de risquer de subir une attaque\n• Un son spécial se déclenche quand vous trouvez une cible multijoueur après 10 secondes de recherche\n• Un son spécial se déclenche lorsqu'aucune cible multijoueur n'est trouvée et que la recherche est annulée\n• La période de pause a été réduite à 3 heures\n• La limite de la période de pause est désormais étendue au lieu d'être réinitialisée dans certains cas\n• La recherche d'affrontements multijoueurs vous propose moins d'adversaires dont le niveau est inférieur à celui de votre hôtel de ville (en-dessous de la Ligue Champion seulement)"
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Autres équilibrages et améliorations
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• L'hôtel de ville de niveau 11 débarque ! BOUM !\n• Le Grand gardien et l'aigle artilleur : les nouveautés les plus puissantes et les plus stratégiques de l'histoire du jeu !\n• Nouveaux niveaux de troupe, nouveaux niveaux de défense et nouveau don de sort de clan\n• Attaquez à tout moment au travers du bouclier, mais protégez bien votre hôtel de ville !\n• Protégez vos sessions de jeu en l'absence de bouclier et ne soyez plus jamais pris au dépourvu !\n• Des gobelins attaquant les hôtels de ville, des bonus de ligue, des offres de trophées supérieures et beaucoup d'autres choses encore !"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,L'une des plus grandes mises à jour de tous les temps !
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• La destruction de l'hôtel de ville ne vous accorde plus de bouclier - protégez votre hôtel de ville en le plaçant au cœur de votre village !\n• Vous pouvez attaquer à tout moment quand vous êtes protégé par le bouclier moyennant une petite réduction de protection\n• Paramétrez votre bouclier sur 30 % de destruction, voire 60 %, mais seulement en cas d'attaque d'une armée ultra imposante."
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Les boucliers - Une défense flexible et juste
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,• Demandez des sorts de renfort - et pas uniquement des troupes ! - à partir du château de clan de niveau 4\n• Les sorts donnés profitent de tous les avantages de clan !\n• Le sort de gel est désormais débloqué à l'hôtel de ville de niveau 9 et dure un peu plus longtemps aux niveaux inférieurs.
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Du nouveau sur les sorts
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Découvrez un hôtel de ville plus grand, plus dément et plus palpitant que jamais avec l'hôtel de ville de niveau 11 !\n• Avec le Grand gardien, le nouveau héros de l'hôtel de ville de niveau 11, on n'arrête plus vos armées !\n• Le nouvel aigle artilleur de l'hôtel de ville de niveau 11 fait souffler un vent de dévastation et de terreur à distance\n• Plus de défenses avec un canon, une tour d'archères, une tour de sorciers et un arc-X supplémentaires !\n• Nouveaux niveaux pour les gargouilles, les sorcières et la tour de sorciers avec l'hôtel de ville de niveau 11, et bien plus encore !"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Passez à l'hôtel de ville de niveau 11
 TID_NEWS_TOS_UPDATE,"Nous avons mis à jour nos conditions d'utilisation et notre politique de confidentialité ! Veuillez en prendre connaissance (disponibles en ligne à côté des paramètres). Ces documents importants gouvernent votre relation à nos jeux, et contiennent des informations indispensables à tous les joueurs. Plus pour d'informations, veuillez consulter nos forums."
 TID_NEWS_TREASURY TEXT,"Bonus étoiles quotidien\n• Remportez 5 étoiles en combat multijoueur pour un butin bonus.\n• Meilleurs bonus dans les ligues plus élevées !\n• Nouveau bonus étoiles disponible chaque jour !\n• Récompenses bonus étoile stockées dans la trésorerie.\n\nCharrette à butin\n• Charrette à butin cassée dans votre village après chaque attaque subie.\n• Videz la charrette et récupérez une partie des ressources perdues.\n• Une seule charrette à la fois : récupérez vite le contenu !\n\nTrésorerie\n• Château de clan désormais avec banque de ressources sécurisée : la trésorerie.\n• Trésorerie pour protéger le butin bonus des guerres de clans et bonus étoiles.\n• Endroit le plus sécurisé pour bonus de butin jusqu'à ce qu'ils soient dépensés !\n\nÉquilibrage\n• Aigle artilleur, dégâts x3 sur golems et golemites.\n• Seconde défense anti-aérienne disponible pour hôtel de ville niveau 6 ; troisième au niveau 7."
 TID_NEWS_TREASURY TITLE,Nouveaux trésors et trésorerie
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Championne pirate
 TID_PIRATE_KING,Roi pirate
 TID_PIRATE_QUEEN,Reine pirate
 TID_PIRATE_WARDEN,Gardien pirate
-TID_PIXEL_CHAMPION,Championne pixélisée
-TID_PIXEL_KING,Roi pixélisé
-TID_PIXEL_QUEEN,Reine pixélisée
-TID_PIXEL_SCENERY,Décor pixélisé
-TID_PIXEL_WARDEN,Gardien pixélisé
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Vous êtes classé dans une ligue !
 TID_PLACEMENT_HINT,Touchez ou appuyez pour déployer vos troupes.
 TID_PLACEMENT_HINT_TUTORIAL1,Touchez plusieurs fois une zone vide pour y déployer vos troupes.
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Internationale
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Potion de puissance x<booster1> (améliore vos troupes et vos sorts au niveau max selon votre hôtel de ville pendant 1 h)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 3 fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Potion de puissance x<booster1> (améliore vos troupes et vos sorts au niveau max selon votre hôtel de ville pendant 1 h)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 4 fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> unités d'élixir\n• Livre de combat x<booster1> (termine instantanément une amélioration de troupe en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez acheter ce pack jusqu'à 3 fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> unités d'élixir\n• Livre de combat x<booster1> (termine instantanément une amélioration de troupe en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 2 fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> unités d'élixir\n• Livre de combat x<booster1> (termine instantanément une amélioration de troupe en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez acheter ce pack jusqu'à 4 fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• <res2> unités d'élixir\n• Livre de combat x<booster1> (termine instantanément une amélioration de troupe en cours)\n\n• Aucune limite de stockage !\n• Vous ne pouvez profiter de cette offre qu'une fois durant la période indiquée.\n• Menez votre clan à la victoire grâce à cette offre spéciale !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Potion de l'ouvrier x<booster1> (fait travailler vos ouvriers 10 fois plus vite pendant 1 heure)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 3 fois durant la période indiquée.\n• Profitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> pièces d'or\n• Potion de l'ouvrier x<booster1> (fait travailler vos ouvriers 10 fois plus vite pendant 1 heure)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 4 fois durant la période indiquée.\n• Profitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Livre des bâtiments x<booster1> (termine instantanément une amélioration de bâtiment)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 3 fois durant la période indiquée.\n• Profitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Anneau des remparts x<booster1> pour améliorer instantanément vos remparts (les murs de niveaux élevés peuvent nécessiter plusieurs anneaux)\n• Livre des bâtiments x<booster2> (termine instantanément une amélioration de bâtiment)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 2 fois durant la période indiquée.\n• Profitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> pièces d'or\n• Livre des bâtiments x<booster1> (termine instantanément une amélioration de bâtiment)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 4 fois durant la période indiquée.\n• Profitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,• <res0> pièces d'or\n• <res1> unités d'élixir\n• Anneau des remparts x<booster1> pour améliorer instantanément vos remparts (les murs de niveaux élevés peuvent nécessiter plusieurs anneaux)\n• Livre des bâtiments x<booster2> (termine instantanément une amélioration de bâtiment)\n\nAucune limite de stockage !\n• Vous ne pouvez profiter de cette offre qu'une fois durant la période indiquée.\nProfitez-en pour améliorer vos défenses !
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> unités d'élixir\n• Potion d'entraînement x<booster1> (augmente l'efficacité des casernes, usines de sorts et ateliers, et la régénération des héros pendant 1 h)\n• Potion de puissance x<booster2> (améliore vos troupes et sorts au niveau max selon votre hôtel de ville pendant 1 h)\n• Potion de ressources x<booster3> (améliore l'efficacité de votre extracteur de ressources pendant 1 j)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 3 fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> unités d'élixir\n• Potion d'entraînement x<booster1> (augmente l'efficacité des casernes, usines de sorts et ateliers, et la régénération des héros pendant 1 h)\n• Potion de puissance x<booster2> (améliore vos troupes et sorts au niveau max selon votre hôtel de ville pendant 1 h)\n• Potion de ressources x<booster3> (améliore l'efficacité de votre extracteur de ressources pendant 1 j)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 4 fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,"• <res0> unités d'élixir noir\n• <res1> unités d'élixir\n• Livre des héros x<booster1> (termine instantanément une amélioration de héros en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 3 fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,"• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• Livre des héros x<booster1> (termine instantanément une amélioration de héros en cours)\n• Livre des sorts x<booster2> (termine instantanément une amélioration de sort en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 2 fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,"• <res0> unités d'élixir\n• Livre des héros x<booster1> (termine instantanément une amélioration de héros en cours)\n\n• Aucune limite de stockage !\n• Vous pouvez profiter de cette offre jusqu'à 4 fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,"• <res0> unités d'élixir noir\n• <res1> pièces d'or\n• Livre des héros x<booster1> (termine instantanément une amélioration de héros en cours)\n• Livre des sorts x<booster2> (termine instantanément une amélioration de sort en cours)\n\n• Aucune limite de stockage !\n• Vous ne pouvez profiter de cette offre qu'une fois durant la période indiquée.\n• Améliorez vos héros et troupes, tout en lançant des sorts plus puissants !"
 TID_REINFORCEMENT_CAMP_INFO,Les camps de renforts apportent des renforts bien utiles quand vous arrivez dans la zone correspondante.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Mieux vaut tard que jamais ! Offre des troupes supplémentaires après la première zone.
 TID_REINFORCEMENT_CAMPS,Renforts :
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Championne astronaute
 TID_SPACE_KING,Roistronaute
 TID_SPACE_QUEEN,Reine astronaute
 TID_SPACE_WARDEN,Gardien astronaute
-TID_SPECIAL_OFFER,Offre spéciale
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Pack anniversaire
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Offre du printemps
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Offre du printemps
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Offre du printemps
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Offre du printemps
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Accélération des ouvriers
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• Rune d'or ouvrier x<booster1>\n• Rune d'élixir ouvrier x<booster2>\n• Livre de combat x<booster3>\n• Livre des bâtiments x<booster4>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 10 fois !\n\nLancez vos améliorations grâce à ce super pack !
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• Rune d'or ouvrier x<booster1>\n• Rune d'élixir ouvrier x<booster2>\n• Livre de combat x<booster3>\n• Livre des bâtiments x<booster4>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 4 fois !\n\nLancez vos améliorations grâce à ce super pack !
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• Rune d'or ouvrier x<booster1>\n• Rune d'élixir ouvrier x<booster2>\n• Livre de combat x<booster3>\n• Livre des bâtiments x<booster4>\n\n• Aucune limite de stockage !\n• Vous pouvez acheter cette offre 2 fois !\n\nLancez vos améliorations grâce à ce super pack !
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Chef, une offre très spéciale d'anniversaire pour la base des ouvriers est disponible rien que pour vous !"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1>x anneau des remparts\n• <booster2>x rune d'élixir noir\n• <booster3>x potion de l'ouvrier\n\n• Pas de limite de stockage !\n• Vous pouvez acheter cette offre 10 fois !\n\nAméliorez vos remparts, remplissez vos réservoirs d'élixir noir et accélérez vos ouvriers avec ce pack spectaculaire !"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1>x anneau des remparts\n• <booster2>x rune d'élixir\n• <booster3>x rune d'élixir noir\n• <booster4>x rune d'or\n\n• Pas de limite de stockage !\n• Vous pouvez acheter cette offre quatre fois !\n\nObtenez les ressources dont vous avez besoin et améliorez vos remparts avec cette offre incroyable !
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> pièces d'or\n• <res1> unités d'élixir noir\n• <gems> gemmes\n\n• Pas de limite de stockage !\n• Vous pouvez acheter cette offre 20 fois !\n\nC'est le moment d'améliorer vos défenses, vos héros et vos troupes d'élixir noir avec ce pack pratique !"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1>x anneau des remparts\n• <booster2>x rune d'élixir\n• <booster3>x rune d'élixir noir\n• <booster4>x rune d'or\n\n• Pas de limite de stockage !\n• Vous pouvez acheter cette offre deux fois !\n\nAméliorez vos remparts et vos bâtiments avec ce formidable pack !
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> pièces d'or\n• <booster1>x livre des bâtiments\n• <booster2>x potion de l'ouvrier\n• Pas de limite de stockage !\n• Vous pouvez acheter cette offre 10 fois !\n\nTout ce qu'il vous faut pour améliorer votre hôtel de ville et vos défenses !
 TID_SPECIAL_PACK_BUILDER,Pack de démarrage
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Capacité spéciale débloquée au niveau <number>
 TID_SPECTATOR_CAN_NOT_CLAIM,Vous ne participez pas à cette guerre de clans.

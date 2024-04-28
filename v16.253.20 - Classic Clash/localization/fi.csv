@@ -2674,8 +2674,6 @@ TID_CONTAINER_MAX,Enintään: <amount>
 TID_CONTINUE,Jatka
 TID_CONTRIBUTE,Lahjoita
 TID_CONTRIBUTED,<name> lahjoitti.
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299,"• <res0> x jalokivi\n• <booster1> x koulutusrohto: tehosta parakkeja, loitsukattiloita, työpajaa ja sankareiden elpymistä 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa vain 1 kerran osoitetun ajan kuluessa.\n\nTästä uskomattomasta tarjouksesta todella on apua!"
-TID_CONVERSION_OFFER_GEMS_NOOB_INFO_0099_0299_NEW,"• <gems> x jalokivi\n• <booster1> x koulutusrohto: tehosta parakkeja, loitsukattiloita, työpajaa ja sankareiden elpymistä 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa vain 1 kerran osoitetun ajan kuluessa.\n\nTästä uskomattomasta tarjouksesta todella on apua!"
 TID_COOLDOWN,Palautumisaika
 TID_COPIED_TO_DEVICE_CLIPBOARD,Tunniste on kopioitu laitteen leikepöydälle.
 TID_COPIED_TO_DEVICE_CLIPBOARD_GENERIC,Kopioitu laitteen leikepöydälle!
@@ -2987,164 +2985,6 @@ TID_DEVICE_LINK_WRONG_ACCOUNT,"Nykyinen kylä on yhdistetty eri Game Center -til
 TID_DEVICE_LINK_WRONG_ACCOUNT_ANDROID,"Nykyinen kylä on yhdistetty eri Google-tilille kuin sille, jolle olet kirjautuneena.\n\nKirjaudu ulos nykyiseltä Google-tililtä asetuksissa, ja kirjaudu tähän kylään liitetylle tilille.\n\nYritä sitten yhdistämistä uudelleen."
 TID_DEVICE_LINK_WRONG_ACCOUNT_TITLE,Olet kirjautunut väärälle tilille
 TID_DEVICE_LINKED_MAIL_ITEM,Kylääsi yhdistettiin uusi laite.
-TID_DIAMOND_BUNDLE_BH3,Rakentajan talon paketti 3
-TID_DIAMOND_BUNDLE_BH3_ALT,Aloittelijan rakentajapaketti
-TID_DIAMOND_BUNDLE_BH3_INFO,"• <gems> x jalokivi\n• <res0> x eliksiiri\n• Tason 1 murskain\n\nEi rakennusaikoja, ei varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_BH3_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH4,Rakentajan talon paketti 4
-TID_DIAMOND_BUNDLE_BH4_ALT,Opettelijan rakentajapaketti
-TID_DIAMOND_BUNDLE_BH4_INFO,"• <gems> x jalokivi\n• <res0> x eliksiiri\n• Tason 1 vartiopaikka\n• Ilmapommin taso 1\n\nEi rakennusaikoja, ei varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_BH4_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH5,Rakentajan talon paketti 5
-TID_DIAMOND_BUNDLE_BH5_ALT,Konkarin rakentajapaketti
-TID_DIAMOND_BUNDLE_BH5_INFO,"• <gems> x jalokivi\n• <res0> x eliksiiri\n• Tason 1 multimörssäri\n\nEi rakennusaikoja, ei varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_BH5_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH6,Rakentajan talon paketti 6
-TID_DIAMOND_BUNDLE_BH6_ALT,Ammattilaisen rakentajapaketti
-TID_DIAMOND_BUNDLE_BH6_INFO,• <gems> x jalokivi\n• <res0> x eliksiiri\n• Hiillostimen taso 1\n• Tason 1 murskain\n\nEi rakennusaikoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH6_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH7,Rakentajan talon paketti 7
-TID_DIAMOND_BUNDLE_BH7_ALT,Mestarin rakentajanpaketti
-TID_DIAMOND_BUNDLE_BH7_INFO,• <gems> x jalokivi\n• <res0> x eliksiiri\n• <res1> x kulta\n• Tason 4 Jättiläistykki\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH7_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH8,Rakentajan talon paketti 8
-TID_DIAMOND_BUNDLE_BH8_ALT,Suurmestarin rakentajapaketti
-TID_DIAMOND_BUNDLE_BH8_INFO,• <gems> x jalokivi\n• <res0> x eliksiiri\n• <res1> x kulta\n• Tason 4 megatesla\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH8_INFO_ALT,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BH9_ALT,Voittajan rakentajapaketti
-TID_DIAMOND_BUNDLE_BOMB_TOWER,Pommitornipaketti
-TID_DIAMOND_BUNDLE_BOMB_TOWER_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 2 pommitorni\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_BUILD_PACK,Rakentamispaketti
-TID_DIAMOND_BUNDLE_BUILDER,Rakentajapaketti
-TID_DIAMOND_BUNDLE_BUILDER_BASE_HERO_PACK,Rakentajan sankaripaketti
-TID_DIAMOND_BUNDLE_BUILDER_BASE_PACK,Rakentajan tukikohdan paketti
-TID_DIAMOND_BUNDLE_BUILDER_BASE_RESEARCH_PACK,Rakentajan tutkimuspaketti
-TID_DIAMOND_BUNDLE_BUILDER_INFO,Tämä rakentajapaketti sisältää <gems> jalokiveä ja ilmaisen rakentajan!
-TID_DIAMOND_BUNDLE_DARK_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x musta eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_DARK_RESEARCH_PACK,Mustan tutkimuksen paketti
-TID_DIAMOND_BUNDLE_ELIXIR_DARK_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x eliksiiri\n<res1> x musta eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_ELIXIR_HERO_PACK,Eliksiiri-sankaripaketti
-TID_DIAMOND_BUNDLE_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_GOLD_DARK_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• <res1> x musta eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_DARK_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• <res1> x eliksiiri\n• <res2>x musta eliksiiri\n\nEi varastointirajoja!\n\n<cffec78>Kaikkien aikojen</c> paras ainutkertainen tarjous! Älä siis ohita sitä!
-TID_DIAMOND_BUNDLE_GOLD_ELIXIR_INFO,• <gems> x jalokivi\n• <res0> x kulta\n<res1> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_GOLD_INFO,• <gems> x jalokivi\n• <res0> x kulta\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_HERO,Sankari
-TID_DIAMOND_BUNDLE_HERO_INFO,Sankari
-TID_DIAMOND_BUNDLE_HERO_PACK,Sankaripaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDER_POTION_WITH_GOLD_INFO,• <res0> rakentajan kultaa\n• <booster1> x rakentajan rohto\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset rakentajan talosi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> rakentajan kultaa\n• <booster1> x rakentamisen kirja\n•<booster2> x rakentajan rohto\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset rakentajan talosi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> rakentajan kultaa\n• <booster1> x rakentamisen kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset rakentajan talosi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_FIGHTING_BOOK_WITH_ELIXIR_INFO,• <res0> rakentajan eliksiiriä\n• <booster1> x taisteluiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset rakentajan joukkojesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_BASE_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> rakentajan eliksiiriä\n• <booster1> x sankareiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset sotakoneesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDER_POTION_WITH_GOLD_INFO,• <res0> kultaa\n• <booster1> x rakentajan rohto\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset päärakennuksesi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK,Rakentamisen kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK,Taikakirjapaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x sankareiden kirja\n• <booster2> x rakentamisen kirja\n• Ei varastointirajoja!\n\nOvatko rakentajasi kiireisiä? Onko sinulla liikaa resursseja törsättävänä muttei tarpeeksi aikaa? Taikakirjapaketin avulla voit välittömästi viimeistellä yhden sankarin ja yhden rakennuksen päivittämisen!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_AND_HERO_BOOK_INFO_OLD,• <gems> jalokiveä\n• <booster1> x sankareiden kirja\n• <booster2> x rakentamisen kirja\n• Ei varastointirajoja!\n\nOvatko rakentajasi kiireisiä? Onko sinulla liikaa resursseja törsättävänä muttei tarpeeksi aikaa? Taikakirjapaketin avulla voit välittömästi viimeistellä yhden sankarin ja yhden rakennuksen päivittämisen!\n\nEi varastointirajoja!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x rakentamisen kirja\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa rakennuksen päivitys rakentamisen kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_BUILDER_POTION_AND_GOLD_INFO,• <res0> kultaa\n• <booster1> x rakentamisen kirja\n•<booster2> x rakentajan rohto\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset päärakennuksesi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_GOLD_INFO,• <res0> kultaa\n• <booster1> x rakentamisen kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset päärakennuksesi ja puolustuksesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES,Rakentamisen kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_BUILDING_BOOK_WITH_RESOURCES_INFO,• <booster1> x rakentamisen kirja\n• <res0> kultaa\n• <res1> eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa rakennuksen päivitys rakentamisen kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK,Kaiken tiedon kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x kaiken tiedon kirja\n• Ei varastointirajoja!\n\nViimeistele välittömästi MIKÄ TAHANSA päivitys kaiken tiedon kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES,Kaiken tiedon kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_EVERYTHING_BOOK_WITH_RESOURCES_INFO,• <booster1> x kaiken tiedon kirja\n• <res0> kultaa\n• <res1> eliksiiriä\n• <res2> mustaa eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi MIKÄ TAHANSA päivitys kaiken tiedon kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> mustaa eliksiiriä\n• <booster1> x taisteluiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset mustien joukkojesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_ELIXIR_INFO,<res0>• eliksiiriä\n• <booster1> x taisteluiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset joukkojesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_DARK_ELIXIR_INFO,• <res0> mustaa eliksiiriä\n• <booster1> x taisteluiden kirja\n• <booster2> x loitsujen kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset mustien joukkojesi ja loitsujesi päivittämistä varten
-TID_DIAMOND_BUNDLE_MAGICITEMS_FIGHTING_BOOK_WITH_SPELL_BOOK_AND_ELIXIR_INFO,• <res0> eliksiiriä\n• <booster1> x taisteluiden kirja\n• <booster2> x loitsujen kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset joukkojesi ja loitsujesi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK,Sankareiden kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x sankareiden kirja\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa sankarin päivitys sankareiden kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES,Sankareiden kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO,• <booster1> x sankareiden kirja\n• <res0> mustaa eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa sankarin päivitys sankareiden kirjan avulla!\nÄlä heitä hukkaan tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_BOOK_WITH_RESOURCES_INFO_OLD,• <booster1> x sankareiden kirja\n• <res0> mustaa eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa sankarin päivitys sankareiden kirjan avulla!\nÄlä heitä tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK,Kuninkaallisten päivityspaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_HERO_LEVEL_PACK_INFO,• <gems> jalokiveä\n• <res0> mustaa eliksiiriä\n• <booster1> x sankareiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset barbaarikuninkaan tai jousikuningattaren päivittämistä varten!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_DARK_ELIXIR_INFO,• <res0> mustaa eliksiiriä\n• <booster1> x sankareiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset barbaarikuninkaasi ja jousikuningattaresi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_HEROES_BOOK_WITH_ELIXIR_INFO,• <res0> eliksiiriä\n• <booster1> x sankareiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset suursuojelijasi päivittämistä varten!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION,Resurssirohtopaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_INFO,• <gems> jalokiveä\n• <booster1> x resurssirohto\n• Ei varastointirajoja!\n\nTehosta resurssinkerääjiäsi!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY,Resurssirohtokeko
-TID_DIAMOND_BUNDLE_MAGICITEMS_RESOURCE_POTION_ONLY_INFO,• <booster1> x resurssirohto\n• Ei varastointirajoja!\n\nTehosta resurssinkerääjiäsi!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK,Loitsujen kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x loitsujen kirja\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa loitsun päivitys loitsujen kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES,Loitsujen kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_BOOK_WITH_RESOURCES_INFO,• <booster1> x loitsujen kirja\n• <res0>eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa loitsun päivitys loitsujen kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK,Loitsujen päivityspaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_SPELL_LEVEL_PACK_INFO,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <booster1> x loitsujen kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset loitsujesi päivittämistä varten!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION,Voimarohtopaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_INFO,"• <gems> jalokiveä\n• <booster1> x voimarohto\n• Ei varastointirajoja!\n\nOta joukoistasi kaikki ilo irti, ja kokeile uusia armeijakokoonpanoja!\n\nÄlä heitä tarjousta hukkaan!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY,Voimarohtokeko
-TID_DIAMOND_BUNDLE_MAGICITEMS_STRENGTH_POTION_ONLY_INFO,"• <booster1> x voimarohto\n• Ei varastointirajoja!\n\nOta joukoistasi kaikki ilo irti, ja kokeile uusia armeijakokoonpanoja!\n\nÄlä heitä tarjousta hukkaan!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION,Koulutusrohtopaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_INFO,"• <gems> jalokiveä\n• <booster1> x koulutusrohto\n• Ei varastointirajoja!\n\nTehosta joukkojen koulutusta, loitsujen valmistusta ja sankareiden elpymistä!\n\nÄlä heitä tarjousta hukkaan!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY,Koulutusrohtokeko
-TID_DIAMOND_BUNDLE_MAGICITEMS_TRAINING_POTION_ONLY_INFO,"• <booster1> x koulutusrohto\n• Ei varastointirajoja!\n\nTehosta joukkojen koulutusta, loitsujen valmistusta ja sankareiden elpymistä!\n\nÄlä heitä tarjousta hukkaan!"
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK,Taisteluiden kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_INFO,• <gems> jalokiveä\n• <booster1> x taisteluiden kirja\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa joukkojen päivitys taisteluiden kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES,Taisteluiden kirjan paketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_BOOK_WITH_RESOURCES_INFO,• <booster1> x taisteluiden kirja\n• <res0> eliksiiriä\n• Ei varastointirajoja!\n\nViimeistele välittömästi mikä tahansa joukkojen päivitys taisteluiden kirjan avulla!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK,Joukkojen päivityspaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_TROOP_LEVEL_PACK_INFO,• <gems> jalokiveä\n• <res0> eliksiiriä\n• <booster1> x taisteluiden kirja\n• Ei varastointirajoja!\n\nKaikki mitä tarvitset joukkojesi päivittämistä varten!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK,Rakennusten päivityspaketti
-TID_DIAMOND_BUNDLE_MAGICITEMS_VILLAGE_UPGRADE_PACK_INFO,• <gems> jalokiveä\n• <res0> kultaa\n• <res1> eliksiiriä\n• <booster1> x rakentamisen kirja\n• Ei varastointirajoja!\n\nKaipaako rakennuksesi päivitystä? Tässä paketissa on kaikki mitä tarvitset!\n\nÄlä heitä tarjousta hukkaan!
-TID_DIAMOND_BUNDLE_RED,(Sankaripaketti)RED
-TID_DIAMOND_BUNDLE_RED_INFO,• <gems> x jalokivi\n• Mahtava sankaripatsas\n• Rajoitetun ajan voimassa oleva (RED)-asu barbaarikuninkaalle\n\n100 % tuotoista menee (RED)ille AIDSin vastaiseen taisteluun.
-TID_DIAMOND_BUNDLE_RESEARCH_PACK,Tutkimuspaketti
-TID_DIAMOND_BUNDLE_TH10,Tason 10 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH10_ALT_REVISED_INFO,• <booster1> x rakentamisen kirja\n• <booster2> x sankareiden kirja\n• <res0> x kulta\n• <res1> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH10_ALT_UPDATED_INFO,• <res0> mustaa eliksiiriä\n• <res1> kultaa\n• <res2> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH10_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 1 Inferno-torni\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH10_REVISED_INFO,• Tason 1 Inferno-torni\n• <booster1> x sankareiden kirja\n• <res0> x musta eliksiiri\n• <booster2> x rakentajan rohto\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH10_UPDATED_INFO,• Tason 1 Inferno-torni\n• Tason 2 varsijousi\n• <res0> mustaa eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH11,Tason 11 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH11_ALT_REVISED_INFO,• <booster1> x rakentamisen kirja\n• <booster2> x sankareiden kirja\n• <res0> x kulta\n• <res1> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH11_ALT_UPDATED_INFO,• <res0> mustaa eliksiiriä\n• <res1> kultaa\n• <res2> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH11_INFO,• <gems> x jalokivi\n• Suursuojelija\n• Tason 1 Kotka-tykistö\n\nEi rakennusaikoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH11_REVISED_INFO,"• Tason 1 Kotka-tykistö\n• Suursuojelija\n• <booster1> x sankareiden kirja\n• <res0> x eliksiiri\n\nEi rakentamisaikoja, ei varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_TH11_UPDATED_INFO,"• Tason 1 Kotka-tykistö\n• Suursuojelija\n• <res0> mustaa eliksiiriä\n\nEi rakentamiseen kuluvaa aikaa, ei varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_TH12,Tason 12 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH12_ALT_INFO,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <res2> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH12_INFO,"• Tason 1 työpaja\n• <res0> x musta eliksiiri\n• <res1> x kulta\n\nEi rakennusaikaa, ei varastointirajoja! Aloita piirityskoneiden rakentaminen työpajassa heti!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!"
-TID_DIAMOND_BUNDLE_TH13,Tason 13 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH13_ALT_INFO,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <res2> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutlaatuista tarjousta!
-TID_DIAMOND_BUNDLE_TH13_INFO,"• Tason 3 kuninkaallinen taituri\n• <res0> x musta eliksiiri\n\nEi rakentamiseen kuluvaa aikaa, ei varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutlaatuista tarjousta!"
-TID_DIAMOND_BUNDLE_TH14,Tason 14 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH15,Tason 15 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH3,Tason 3 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH3_REVISED_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• <res1> x eliksiiri\n•<booster1> x rakentajan rohto\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH4,Tason 4 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH4_ALT_UPDATED_INFO,• <res0> kultaa\n• <res1> eliksiiriä\n• <gems> jalokiveä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH4_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 1 ilmatorjunta\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH4_REVISED_INFO,• <res0> x kulta\n• <res1> x eliksiiri\n• <booster1> x rakentajan rohto\n\nEi varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH4_UPDATED_INFO,• Tason 2 ilmatorjunta\n• <res0> x kulta\n• <res1> x eliksiiri\n• <gems> x jalokivi\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH5,Tason 5 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH5_ALT_UPDATED_INFO,• <res0> kultaa\n• <res1> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH5_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 1 velhotorni\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH5_REVISED_INFO,• <booster1> x rakentamisen kirja\n• <res0> x kulta\n• <res1> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH5_UPDATED_INFO,• Tason 2 velhotorni\n• <res0> kultaa\n• <res1> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH6,Tason 6 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH6_ALT_UPDATED_INFO,• <res0> kultaa\n• <res1> eliksiiriä\n• <gems> jalokiveä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH6_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 1 puhallin\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH6_REVISED_INFO,• <booster1> x rakentamisen kirja\n• <res0> x kulta\n• <res1> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH6_UPDATED_INFO,• Tason 3 velhotorni\n• Tason 4 mörssäri\n• <res0> kultaa\n• <res1> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH7,Tason 7 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH7_ALT_UPDATED_INFO,• <res0> mustaa eliksiiriä\n• <res1> kultaa\n• <res2> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH7_INFO,• <gems> x jalokivi\n• Barbaarikuningas\n• Tason 2 kätketty tesla\n\nEi rakennusaikoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH7_REVISED_INFO,• Barbaarikuningas\n• <booster1> x sankareiden kirja\n• <res0> x musta eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH7_UPDATED_INFO,• Tason 2 tesla\n• Barbaarikuningas\n• <res0> mustaa eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH8,Tason 8 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH8_ALT_UPDATED_INFO,• <res0> mustaa eliksiiriä\n• <res1> kultaa\n• <res2> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH8_INFO,• <gems> x jalokivi\n• <res0> x kulta\n• Tason 1 pommitorni\n\nEi rakennusaikoja eikä varastointirajoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH8_REVISED_INFO,• <booster1> x taisteluiden kirja\n• <booster2> x loitsujen kirja\n• <res0> x eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH8_UPDATED_INFO,• Tason 2 pommitorni\n• Tason 5 velhotorni\n• <res0> mustaa eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH9,Tason 9 päärakennuspaketti
-TID_DIAMOND_BUNDLE_TH9_ALT_UPDATED_INFO,• <res0> mustaa eliksiiriä\n• <res1> kultaa\n• <res2> eliksiiriä\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH9_INFO,• <gems> x jalokivi\n• Jousikuningatar\n• Tason 1 varsijousi\n\nEi rakennusaikoja!\n\nÄlä ohita tätä\n<cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH9_REVISED_INFO,• Jousikuningatar\n• <booster1> x sankareiden kirja\n• <res0> x musta eliksiiri\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
-TID_DIAMOND_BUNDLE_TH9_UPDATED_INFO,• Tason 2 varsijousi\n• Jousikuningatar\n• <res0> mustaa eliksiiriä\n• <res1> kultaa\n\nEi varastointirajoja!\n\nÄlä ohita tätä <cffec78><value>-kertaisen arvoista</c> ainutkertaista tarjousta!
 TID_DIAMOND_FOUND,<name>: Kätköstä löytyi yksi jalokivi!
 TID_DIAMOND_GIFT_RECEIVED,Sait klaanilahjasta <number> jalokiveä!
 TID_DIAMOND_MINE_FULL_NOTIFICATION,"Päällikkö, jalokivikaivoksesi on täynnä jalokiviä!"
@@ -3789,10 +3629,6 @@ TID_HALLOWEEN_INFO_SCREEN_ITEM3,Kerää karmivia mitaleja ja vaihda keräämäsi
 TID_HALLOWEEN_INFO_SCREEN_TITLE,Tervetuloa Karmiva sekoitus -tapahtuman pariin!
 TID_HALLOWEEN_STORAGE_CONVERSION_INFO,Kattila muuttaa yhden eliksiirisäiliöistäsi happamaksi eliksiiriksi <time> kuluttua.
 TID_HALLOWEEN_TOKENS_LEFT,Karmivia mitaleja jäljellä: <num>
-TID_HAMMERJAM_OFFER1_MAGICITEMS_BUILDER_POTION_AND_GOLD_INFO_999,• <res0> x kulta\n• <booster1> x rakentajan rohto\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 5 kertaa.\n\nOta päivityskaudesta kaikki ilo irti tämän upean Hammer Jam -tarjouksen avulla!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_1999,• <booster1> x muurisormus\n• <booster2> x mustan eliksiirin riimukivi\n• <booster3> x rakentajan rohto\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 10 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_4999,• <booster1> x muurisormus\n• <booster2> x eliksiirin riimukivi\n• <booster3> x kullan riimukivi\n• <booster4>x mustan eliksiirin riimukivi\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
-TID_HAMMERJAM_OFFER2_MAGICITEMS_WALLRING_AND_ALLRUNES_INFO_9999,• <booster1> x muurisormus\n• <booster2> x eliksiirin riimukivi\n• <booster3> x kullan riimukivi\n• <booster4> x mustan eliksiirin riimukivi\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
 TID_HASH,#
 TID_HASTE,Raivoloitsu
 TID_HASTE_DAMAGE,Tuhon kasvu: <number> %
@@ -4906,26 +4742,6 @@ TID_NEWS_SEP_V2_BALANCING_TEXT,• Esitelemme rakentajan tukikohdan kaksi uutta 
 TID_NEWS_SEP_V2_BALANCING_TITLE,Rakentajan talon taso 7 on saapunut!
 TID_NEWS_SPELLS_TEXT,"Salamaloitsu\n*Tason 7 salamaloitsu tuhoaa sekä rakennuksia että joukkoja.\n*Salamaloitsun tasojen 5 ja 6 tuhovoimaa on lisätty.\n*Salamaloitsun salamat iskevät nyt lähemmäs toisiaan ohilaukausten välttämiseksi\n\nMyrkkyloitsu\n*Myrkkyloitsu aiheuttaa nyt aluksi pienempää tuhoa, mutta ajan myötä paljon enemmän kuin ennen.\n*Myrkkyloitsun tuho on nyt hurjan suurta ja sen vaikutus viipyy vielä hetken joukon poistuttua loitsun alueelta.\n*Myrkkyloitsu nyt myös laskee puolustusjoukkojen hyökkäysnopeutta.\n\nJäristysloitsu\n*Järistysloitsu tekee paljon enemmän tuhoa rakennusten elämäpisteistä riippumatta.\n*Toistetut järistysloitsut tekevät nyt vähemmän tuhoa samoille rakennuksille.\n*Neljä järistysloitsua tuhoavat yhä minkä tahansa tasoisen muurin."
 TID_NEWS_SPELLS_TITLE,Parannellut ja uudelleen ladatut loitsut
-TID_NEWS_TH11_UPDATE_ARTILLERY_TEXT,"• Tämä massiivinen pitkän kantaman ase hävittää huonosti valmistautuneet hyökkäysjoukot.\n• Tykistö tulittaa räjähtävillä ammuksillaan kovia vastuksia ja kumoaa muita lähistön joukkoja sokkiaallollaan.\n• Kotka-tykistö aktivoituu vasta, kun useita joukkoja on sijoitettu taistelukentälle, mikä mahdollistaa taktiset hyökkäykset ja nokkelat monivaiheiset hyökkäykset."
-TID_NEWS_TH11_UPDATE_ARTILLERY_TITLE,Kotka-tykistö: uinuva vahti
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TEXT,"• Taisteluiden aikarajaa on pidennetty 30 sekunnilla.\n• Hiidet hyökkäävät nyt päärakennuksen ja klaanilinnan kimppuun kaksinkertaisella tuhovoimalla.\n• Kaikkien ansojen latauskuluja on laskettu roimasti.\n• Varsijousen latauskuluja on laskettu roimasti.\n• Suurella määrällä parantajia on nyt heikommat voimat samassa yksikössä.\n• Armeijan tehostuskuluja on laskettu viiteen jalokiveen yhden tunnin tehostuksessa.\n• Taisteluhaun ja seuraavan kohteen haun kuluja on alennettu päärakennuksen tasolla 10.\n• Klaanisodan valmistelupäivää on lyhennetty 23 tuntiin.\n• Joukkojen taistelu- ja reitinetsimistekoälyä on paranneltu.\n• Saatavilla olevan saaliin määrää on hieman kasvatettu päärakennuksen tasoilla 6 - 10.\n• Kylissä, joissa yhtä tasoa alempi päärakennus, saaliin määrää on taas hieman pienennetty.\n• Pelikenttää ja joukkojen sijoitusaluetta on molempia laajennettu. (Syrjässä olevia esteitä on automaattisesti siirretty.)"
-TID_NEWS_TH11_UPDATE_GAMEPLAY_TITLE,Pelin tasapainotus
-TID_NEWS_TH11_UPDATE_GUARD_TEXT,"• Suoja suojelee kylääsi hyökkäyksiltä, ja antaa sinun hyökätä vapaasti muiden kyliin.\n• Saat ilmaisen suojan, kun kilpesi loppuu, ja voit näin pelata huolehtimatta hyökkäyksistä kylääsi.\n• Korkeammilla liigatasoilla saa pidemmän ilmaisen suojan: Titaaniliiga I:ssä ja Legendaliigassa pelaajilla on 100 % suoja!\n• Kaupassa on päivittäin saatavilla kaksi tuntia lisäsuojaa."
-TID_NEWS_TH11_UPDATE_GUARD_TITLE,Suoja - Pelaa turvassa hyökkääjiltä
-TID_NEWS_TH11_UPDATE_HERO_TEXT,"• Valjasta käyttöösi uusia taistelutaktiikoita tehostamalla ja suojelemalla joukkojasi.\n• Suursuojelija tekee lähistöllä olevista joukoista vahvempia ja joksikin aikaa voittamattomia!\n• Hän hyppii ja lentää: Lisää suursuojelija mihin tahansa strategiaan, niin armeijasi loistaa!"
-TID_NEWS_TH11_UPDATE_HERO_TITLE,Suursuojelija: Armeijasi uusin sankari
-TID_NEWS_TH11_UPDATE_LOOT_TEXT,"• Päärakennuksissa on nyt mahtavasti saalista saatavilla. Tuhoa ne taisteluissa ja vie saalis mukanasi!\n• Liigojen palkinnot ovat nyt entistä suurempia, mutta ne skaalautuvat tuhoprosenttisi mukaan.\n• Pokaalitarjoukset paranevat ja pokaalien menetykset vähenevät mitä paremmassa liigassa olet!"
-TID_NEWS_TH11_UPDATE_LOOT_TITLE,Tuottoisampia taisteluita: saaliit ja pokaalit
-TID_NEWS_TH11_UPDATE_OTHER_TEXT,"• Kaksi uutta saavutusta on lisätty: Tykistöjen tuho ja Klaanikavereiden omaisuus on yhteistä\n• Joukkojen ja loitsujen lahjoitusikkunoita on paranneltu ja ne näyttävät nyt tehdyt lahjoitukset.\n• Parakeissa olevat joukot voi nyt asettaa jonoon sarjoittain kuten loitsukattilassa.\n• Klaanisodan painike elävöityy, kun sodan hyökkäys alkaa.\n• Aktiivisen kilven tai suojan voi nyt poistaa manuaalisesti napauttamalla sen kuvaketta.\n• Voit olla poissa pidempään ilman, että joudut alttiiksi hyökkäyksille.\n• Kuulet erityisen äänimerkin 10 sekunnin haun jälkeen, kun moninpeliin löytyy vastustaja.\n• Kuulet erityisen äänimerkin, kun moninpeliin ei löydy vastustaja ja haku perutaan.\n• Henkilökohtaisen tauon online-aikaraja on laskettu kolmeen tuntiin.\n• Henkilökohtaisen tauon aikaraja pidennetään joissain tapauksissa palauttamisen sijaan.\n• Moninpelin vastustajahaku ei enää anna päärakennuksesi tasoa alempia vastustajia yhtä usein kuin ennen (vain mestaruusliigaa alemmilla tasoilla)."
-TID_NEWS_TH11_UPDATE_OTHER_TITLE,Muut tasapainotukset ja parannukset
-TID_NEWS_TH11_UPDATE_OVERVIEW_TEXT,"• Päärakennus 11 on täällä! BUUM!\n• Suursuojelija ja Kotka-tykistö: strategisin ja tehokkain lisäys ikinä!\n• Uusia tasoja joukoille ja puolustukselle sekä klaaniloitsulahjoitukset\n• Hyökkää suojan takaa milloin vain, mutta muista suojata päärakennuksesi!\n• Suojaa kyläsi, kun kilpi ei ole aktiivisena niin et enää koskaan tule vihollisen yllättämäksi.\n• Päärakennuksia jahtaavia hiisiä, suurempia liigan palkintoja, pokaalitarjouksia ja paljon muuta!"
-TID_NEWS_TH11_UPDATE_OVERVIEW_TITLE,Yksi kaikkien aikojen suurimmista Clash-päivityksistä ikinä!
-TID_NEWS_TH11_UPDATE_SHIELDS_TEXT,"• Päärakennuksen tuhoaminen ei enää takaa kilven saamista. Tuo päärakennuksesi sen sisälle!\n• Voit hyökätä kilven ollessa aktiivisena vain pientä kilven ajan lyhennystä vastaan.\n• Hanki kilpi 30 % tuholla, enemmän 60 %:lla, mutta vain, kun suurehko armeija hyökkää."
-TID_NEWS_TH11_UPDATE_SHIELDS_TITLE,Kilvet: Joustavaa ja reilua puolustusta
-TID_NEWS_TH11_UPDATE_SPELLS_TEXT,• Vahvistusjoukkojen lisäksi voit nyt pyytää myös loitsuja klaanilinnan tasolta 4 lähtien.\n• Lahjoitetuilla loitsuilla saa kaikki olemassa olevat klaaniedut.\n• Jääloitsun voi nyt avata päärakennuksen tasolla 9 ja se on kestoltaan hieman pidempi alemmilla tasoilla.
-TID_NEWS_TH11_UPDATE_SPELLS_TITLE,Loitsuarvonta
-TID_NEWS_TH11_UPDATE_TH11_TEXT,"• Koe mahtavin, vaikein ja kaikkien aikojen haastavin päärakennuksen taso: päärakennus 11!\n• Uusi päärakennus 11 tuo mukanaan sankarin nimeltä suursuojelija, joka tekee armeijastasi lähes voittamattoman!\n• Kotka-tykistö tekee kunnioitusta herättävää tuhoa pitkän matkan päästä.\n• Lisää puolustusrakennuksia, kuten tykki, jousiampujatorni, velhotorni ja varsijousi!\n• Uusia tasoja kätyrille, noidalle, velhotornille ja paljon muuta!"
-TID_NEWS_TH11_UPDATE_TH11_TITLE,Nouse päärakennuksen tasolle 11
 TID_NEWS_TOS_UPDATE,"Olemme päivittäneet käyttöehtomme ja yksityisyyskäytäntömme! Käythän ne läpi pelin asetuksissa. Nämä tärkeät asiakirjat määrittävät suhteesi peleihimme, ja ne sisältävät hyödyllistä tietoa kenelle tahansa, joka pelaa pelejämme. Lisätietoja saat foorumeiltamme."
 TID_NEWS_TREASURY TEXT,"Päivittäinen tähtipalkinto\n• Hanki viisi tähteä moninpelitaisteluista ansaitaksesi lisäsaalista.\n• Saat enemmän lisäpalkintoja korkeammilla liigatasoilla!\n• Uusi tähtipalkinto on saatavilla joka päivä!\n• Tähtipalkinnot tallennetaan aarrekammion suojiin.\n\nSaaliskärry\n• Rikkinäinen saaliskärry ilmestyy kylääsi jokaisen vihollisen hyökkäyksen jälkeen.\n• Kerää tämä kärry saadaksesi takaisin osan menetetyistä resursseista.\n• Kärryjä ilmestyy vain yksi kerrallaan, joten kerää se heti talteen!\n\nAarrekammio\n• Klaanilinnoissa on nyt tarkoin vartioitu resurssisäilö: aarrekammio.\n• Aarrekammion suojiin tallennetaan lisäsaaliit klaanisodista sekä tähtipalkinnot.\n• Se on turvallisin paikka säilöä lisäsaalit, kunnes tarvitset niitä.\n\nTasapainotus\n• Kotka-tykistö tekee nyt kolminkertaista tuhoa golemille ja golemiiteille.\n• Toinen ilmatorjuntayksikkö avautuu nyt päärakennuksen tasolla 6 ja kolmas päärakennuksen tasolla 7."
 TID_NEWS_TREASURY TITLE,Uusia aarteita ja aarrekammio
@@ -5499,11 +5315,6 @@ TID_PIRATE_CHAMPION,Merirosvotaituri
 TID_PIRATE_KING,Merirosvokuningas
 TID_PIRATE_QUEEN,Merirosvokuningatar
 TID_PIRATE_WARDEN,Merirosvosuojelija
-TID_PIXEL_CHAMPION,Pikselitaituri
-TID_PIXEL_KING,Pikselikuningas
-TID_PIXEL_QUEEN,Pikselikuningatar
-TID_PIXEL_SCENERY,Pikselimaisema
-TID_PIXEL_WARDEN,Pikselisuojelija
 TID_PLACED_AFTER_SHUFFLE_POPUP_TITLE,Sinut on sijoitettu liigaan!
 TID_PLACEMENT_HINT,Napauta tai pidä sormea pohjassa sijoittaaksesi joukkoja.
 TID_PLACEMENT_HINT_TUTORIAL1,Napauta tyhjää aluetta useita kertoja sijoittaaksesi joukkosi.
@@ -5923,24 +5734,6 @@ TID_REGION_CUSTOM3,
 TID_REGION_CUSTOM4,
 TID_REGION_CUSTOM5,
 TID_REGION_INT,Kansainvälinen
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_1999,• <res0> x kulta\n• <res1> x eliksiiri\n• <booster1> x voimarohto: kohota joukkojesi ja loitsujesi voimat korkeimmalle päärakennuksesi sallimalle tasolle 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0206_999,• <res0> x kulta\n• <res1> x eliksiiri\n• <booster1> x voimarohto: kohota joukkojesi ja loitsujesi voimat korkeimmalle päärakennuksesi sallimalle tasolle 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_1999,• <res0> x eliksiiri\n• <booster1> x taisteluiden kirja: viimeistele välittömästi mikä tahansa joukon päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_4999,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <res2> x eliksiiri\n• <booster1> x taisteluiden kirja: viimeistele välittömästi mikä tahansa joukon päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_999,• <res0> x eliksiiri\n• <booster1> x taisteluiden kirja: viimeistele välittömästi mikä tahansa joukon päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BATTLE_OFFER_INFO_TH0712_9999,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <res2> x eliksiiri\n• <booster1> x taisteluiden kirja: viimeistele välittömästi mikä tahansa joukon päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa vain 1 kerran osoitetun ajan kuluessa.\n• Johdata klaanisi kunniakkaaseen taistoon!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_1999,• <res0> x kulta\n• <res1> x eliksiiri\n• <booster1> x rakentajan rohto: jouduta rakentajiesi työtä 10 kertaa nopeammaksi 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa\n• Päivitä puolustuksesi!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0206_999,• <res0> x kulta\n• <booster1> x rakentajan rohto: jouduta rakentajiesi työtä 10 kertaa nopeammaksi 1 tunnin ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Päivitä puolustuksesi!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_1999,• <res0> x kulta\n• <res1> x eliksiiri\n• <booster1> x rakentamisen kirja: viimeistele välittömästi mikä tahansa rakennuksen päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa.\n• Päivitä puolustuksesi!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_4999,• <res0> x kulta\n•<res1> x eliksiiri\n• <booster1> x muurisormus: päivitä välittömästi mikä tahansa muuri; korkeamman tason muurit voivat vaatia useamman sormuksen.\n• <booster2> x rakentamisen kirja: viimeistele välittömästi mikä tahansa rakennuksen päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa osoitetun ajan kuluessa.\n• Päivitä puolustuksesi!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_999,• <res0> x kulta\n• <booster1> x rakentamisen kirja: viimeistele välittömästi mikä tahansa rakennuksen päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Päivitä puolustuksesi!
-TID_REGULAR_THEMED_BUILD_OFFER_INFO_TH0712_9999,• <res0> x kulta\n•<res1> x eliksiiri\n• <booster1> x muurisormus: päivitä välittömästi mikä tahansa muuri; korkeamman tason muurit saattavat vaatia useamman sormuksen.\n• <booster2> x rakentamisen kirja: viimeistele välittömästi mikä tahansa rakennuksen päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa vain 1 kerran osoitetun ajan kuluessa.\nPäivitä puolustuksesi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_1999,"• <res0> x eliksiiri\n• <booster1> x koulutusrohto: tehosta parakkeja, loitsukattiloita, työpajaa ja sankareiden elpymistä 1 tunnin ajaksi.\n• <booster2> x voimarohto: kohota joukkojesi ja loitsujesi voimat korkeimmalle päärakennuksesi sallimalle tasolle 1 tunnin ajaksi.\n• <booster3> x resurssirohto: tehosta resurssinkerääjiäsi 1 päivän ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0206_999,"• <res0> x eliksiiri\n• <booster1> x koulutusrohto: tehosta parakkeja, loitsukattiloita, työpajaa ja sankareiden elpymistä 1 tunnin ajaksi.\n• <booster2> x voimarohto: kohota joukkojesi ja loitsujesi voimat korkeimmalle päärakennuksesi sallimalle tasolle 1 tunnin ajaksi.\n• <booster3> x resurssirohto: tehosta resurssinkerääjiäsi 1 päivän ajaksi.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!"
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_1999,• <res0> x musta eliksiiri\n• <res1> x eliksiiri\n• <booster1> x sankareiden kirja: viimeistele välittömästi mikä tahansa sankarin päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 3 kertaa osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_4999,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <booster1> x sankareiden kirja: viimeistele välittömästi mikä tahansa sankarin päivitys.\n• <booster2> x loitsujen kirja: viimeistele välittömästi mikä tahansa loitsun päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_999,• <res0> x eliksiiri\n• <booster1> x sankareiden kirja: viimeistele välittömästi mikä tahansa sankarin päivitys.\n\n•Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!
-TID_REGULAR_THEMED_PREPARE_OFFER_INFO_TH0712_9999,• <res0> x musta eliksiiri\n• <res1> x kulta\n• <booster1> x sankareiden kirja: viimeistele välittömästi mikä tahansa sankarin päivitys.\n• <booster2> x loitsujen kirja: viimeistele välittömästi mikä tahansa loitsun päivitys.\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa vain 1 kerran osoitetun ajan kuluessa.\n• Päivitä hyökkäysjoukkosi!
 TID_REINFORCEMENT_CAMP_INFO,Vahvistusleiriltä saat taisteluihin hyödyllisiä vahvistusjoukkoja vaaditun tason saavutettuasi.
 TID_REINFORCEMENT_CAMP_INFO_SHORT,Parempi myöhään kuin ei milloinkaan! Antaa joukkoja ensimmäisen tason jälkeen.
 TID_REINFORCEMENT_CAMPS,Vahvistusjoukot:
@@ -6307,22 +6100,6 @@ TID_SPACE_CHAMPION,Avaruustaituri
 TID_SPACE_KING,Avaruuskuningas
 TID_SPACE_QUEEN,Avaruuskuningatar
 TID_SPACE_WARDEN,Avaruussuojelija
-TID_SPECIAL_OFFER,Erikoistarjous
-TID_SPECIAL_OFFER_BUILDERBASE_ANNIVERSARY_ALLPRICEPOINTS,Synttäripaketti
-TID_SPECIAL_OFFER_EASTER_LIMITED_1999,Kevättarjous
-TID_SPECIAL_OFFER_EASTER_LIMITED_4999,Kevättarjous
-TID_SPECIAL_OFFER_EASTER_LIMITED_999,Kevättarjous
-TID_SPECIAL_OFFER_EASTER_LIMITED_9999,Kevättarjous
-TID_SPECIAL_OFFER_EASTER_UNLIMITED,Rakentajan tehostus
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_1999,• <booster1> x rakentajan kullan riimukivi\n• <booster2> x rakentajan eliksiirin riimukivi\n• <booster3> x taisteluiden kirja\n• <booster4> x rakentamisen kirja\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 10 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_4999,• <booster1> x rakentajan kullan riimukivi\n• <booster2> x rakentajan eliksiirin riimukivi\n• <booster3> x taisteluiden kirja\n• <booster4> x rakentamisen kirja\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_9999,• <booster1> x rakentajan kullan riimukivi\n• <booster2> x rakentajan eliksiirin riimukivi\n• <booster3> x taisteluiden kirja\n• <booster4> x rakentamisen kirja\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa.\n\nAnna päivityksillesi lisäpotkua tämän mielettömän paketin avulla!
-TID_SPECIAL_OFFER_INFO_BUILDERBASE_ANNIVERSARY_NOTIFICATION,"Päällikkö, erityinen rakentajan tukikohdan synttäritarjous on nyt saatavilla!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_1999,"• <booster1> muurisormusta\n• <booster2> mustan eliksiirin riimukiveä\n• <booster3> rakentajan rohtoa\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 10 kertaa!\n\nPäivitä muurisi, täytä mustan eliksiirin varastosi ja nopeuta rakentajiasi tämän mahtavan paketin avulla!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_4999,• <booster1> muurisormusta\n• <booster2> eliksiirin riimukiveä\n• <booster3> mustan eliksiirin riimukiveä\n• <booster4> kullan riimukiveä\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 4 kertaa!\n\nHanki tarvitsemasi resurssit ja nosta muurisi seuraavalle tasolle tämän mielettömän tarjouksen avulla!
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_999,"• <res0> kultaa\n• <res1> mustaa eliksiiriä\n• <gems> jalokiveä\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 20 kertaa!\n\nHanki rahoillesi vastinetta: päivitä puolustuksesi, sankarisi ja mustan eliksiirin joukkosi kertaheitolla!"
-TID_SPECIAL_OFFER_INFO_EASTER_LIMITED_9999,• <booster1> muurisormusta\n• <booster2> eliksiirin riimukiveä\n• <booster3> mustan eliksiirin riimukiveä\n• <booster4> kullan riimukiveä\n\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 2 kertaa!\n\nPäivitä kylääsi ja nosta muurisi seuraavalle tasolle tämän mielettömän paketin avulla!
-TID_SPECIAL_OFFER_INFO_EASTER_UNLIMITED,• <res0> kultaa\n• <booster1> rakentamisen kirjaa\n•<booster2> rakentajan rohtoa\n• Ei varastointirajoja!\n• Tämän tarjouksen voi ostaa 10 kertaa!\n\nKaikki mitä tarvitset päärakennuksesi ja puolustuksesi päivittämistä varten!
 TID_SPECIAL_PACK_BUILDER,Aloituspaketti
 TID_SPECIAL_UNLOCKS_AT_LEVEL,Erikoistaito avautuu tasolla <number>.
 TID_SPECTATOR_CAN_NOT_CLAIM,Et osallistu tähän klaanisotaan.
