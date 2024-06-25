@@ -16,7 +16,7 @@
 				{"deliverable": {"type": "1", "resource": "3000000", "resourceAmount": 50000}, "cost": 750},
 				{"deliverable": {"type": "1", "resource": "3000001", "resourceAmount": 5000000}, "cost": 25},
 				{"deliverable": {"type": "1", "resource": "3000002", "resourceAmount": 5000000}, "cost": 25},
-				{"deliverable": {"type": "1", "resource": "3000007" "resourceAmount": 5000000}, "cost": 25},
+				{"deliverable": {"type": "1", "resource": "3000007", "resourceAmount": 5000000}, "cost": 25},
 				{"deliverable": {"type": "1", "resource": "3000008", "resourceAmount": 5000000}, "cost": 25}
 			]
 		},
@@ -32,7 +32,7 @@
 			"endTime": "20301001T080000.000Z",
 			"visibleEndTime": "19700101T000000.000Z",
 			"free": [
-				{"item": "3000002", "amount": 500000, "start": 0, "end": 10080}
+				{"item": "3000000", "amount": 50000, "start": 0, "end": 10080}
 			],
 			"offer": [
 				{"item": "3000001", "amount": 2500000, "maxBuys": 5, "cost": 300},
@@ -138,10 +138,10 @@
 			"variantId": 0,
 			"eventPriority": 0,
 			"impressionId": 1,
-			"visibleTime": "20240501T080000.000Z",
-			"startTime": "20240501T080000.000Z",
-			"endTime": "20240601T080000.000Z",
-			"visibleEndTime": "20240601T080000.000Z",
+			"visibleTime": "19700101T000000.000Z",
+			"startTime": "20211001T080100.000Z",
+			"endTime": "20301001T080000.000Z",
+			"visibleEndTime": "19700101T000000.000Z",
 			"eventEntryName": "CustomSCLoading",
 			"scFile": {
 				"Path": "/51613746-aead-4e9e-8ac0-f161862c374f_button_BarbFree_empty.sc",
