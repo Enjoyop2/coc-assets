@@ -180,7 +180,7 @@
 ,16,,,,,,,,,,7,,"CommonOre","2600",,"6",,,,510,,,,,900,2000
 ,17,,,,,,,,,,7,,"CommonOre","2700",,"6",,,,540,,,,,950,2100
 ,18,,,,,,,,,,7,,,,,"7",,,,570,,,,,1000,2600
-"Giant Gauntlet",1,"sc/ui.sc","icon_gear_BK_GiantGauntlet","TID_GEAR_GIANT_GAUNTLET","TID_GEAR_INFO_GIANT_GAUNTLET",,"Barbarian King;","Epic","TRUE",,1,1,"CommonOre","120","BarbarianKingGetsBig","1","Regeneration","1",,,,,17,"GearGauntlet",,100
+"Giant Gauntlet",1,"sc/ui.sc","icon_gear_BK_GiantGauntlet","TID_GEAR_GIANT_GAUNTLET","TID_GEAR_INFO_GIANT_GAUNTLET",,"Barbarian King;","Common",,,1,1,"CommonOre","120","BarbarianKingGetsBig","1","Regeneration","1",,,,,17,"GearGauntlet",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,"2",,,,,20,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,"3",,,,,23,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,"4",,,,,26,,,400
@@ -197,16 +197,7 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,"15",,,,,104,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,"16",,,,,115,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,"17",,,,,125,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,"18",,,,,135,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,"19",,,,,140,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,"20",,,,,145,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,"21",,,,,150,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,"22",,,,,155,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,"23",,,,,160,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,"24",,,,,165,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,"25",,,,,170,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,"26",,,,,175,,,4200
-,27,,,,,,,,,,9,,,,,"10",,"27",,,,,180,,,4700
+,18,,,,,,,,,,5,,,,,"7",,"18",,,,,135,,,2600
 "Vampstache",1,"sc/ui.sc","icon_gear_BK_VampStache","TID_GEAR_VAMPSTACHE","TID_GEAR_INFO_VAMPSTACHE",,"Barbarian King;","Common",,,3,1,"CommonOre","120","BarbarianKingVampstache","1",,,,,,5,9,"GearVampstache",,100
 ,2,,,,,,,,,,3,,"CommonOre","240",,"1",,,,,,6,10,,,200
 ,3,,,,,,,,,,3,,"CommonOre","400",,"2",,,,,,7,12,,,300
@@ -243,7 +234,7 @@
 ,16,,,,,,,,,,8,,"CommonOre","2600",,"6",,,,,,15,80,,,2000
 ,17,,,,,,,,,,8,,"CommonOre","2700",,"6",,,,,,16,84,,,2100
 ,18,,,,,,,,,,8,,,,,"7",,,,,,16,88,,,2600
-"Rocket Spear",1,"sc/ui.sc","icon_gear_RC_RocketSpear","TID_GEAR_ROCKET_SPEAR","TID_GEAR_INFO_ROCKET_SPEAR",,"Warrior Princess;","Epic","TRUE",,1,1,"CommonOre","120","RocketSpears","1",,,,50,,,35,"GearRocketSpears",,100
+"Rocket Spear",1,"sc/ui.sc","icon_gear_RC_RocketSpear","TID_GEAR_ROCKET_SPEAR","TID_GEAR_INFO_ROCKET_SPEAR",,"Warrior Princess;","Common",,,1,1,"CommonOre","120","RocketSpears","1",,,,50,,,35,"GearRocketSpears",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,75,,,40,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,100,,,45,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,125,,,50,,,400
@@ -260,17 +251,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,400,,,117,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,425,,,122,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,450,,,127,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,475,,,132,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,500,,,136,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,525,,,140,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,550,,,144,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,575,,,148,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,600,,,152,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,625,,,156,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,650,,,160,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,675,,,164,,,4200
-,27,,,,,,,,,,9,,,,,"10",,,,700,,,168,,,4700
-"Football",1,"sc/ui.sc","icon_gear_BK_Football","TID_GEAR_TITLE_FOOTBALL","TID_GEAR_INFO_FOOTBALL",,"Barbarian King;","Epic","TRUE",,1,1,"CommonOre","120","FootballBounce","1",,,,365,,,35,"GearFootball",,100
+,18,,,,,,,,,,5,,,,,"7",,,,475,,,132,,,2600
+"Football",1,"sc/ui.sc","icon_gear_BK_Football","TID_GEAR_TITLE_FOOTBALL","TID_GEAR_INFO_FOOTBALL",,"Barbarian King;","Common",,,1,1,"CommonOre","120","FootballBounce","1",,,,365,,,35,"GearFootball",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,478,,,38,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,590,,,42,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,703,,,45,,,400
@@ -287,17 +269,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,1940,,,135,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,2053,,,148,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,2165,,,159,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,2278,,,171,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,2390,,,176,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,2503,,,182,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,2615,,,188,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,2728,,,194,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,2840,,,199,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,2953,,,205,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,3065,,,211,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,3178,,,217,,,4200
-,27,,,,,,,,,,9,,,,,"10",,,,3290,,,222,,,4700
-"Frozen Arrow",1,"sc/ui.sc","icon_gear_AQ_FreezeArrow","TID_GEAR_FROZEN_ARROW","TID_GEAR_INFO_FROZEN_ARROW",,"Archer Queen;","Epic","TRUE",,1,1,"CommonOre","120","ArcherQueenAttackFreeze","1",,,,,,,35,"GearFrozenArrow",,100
+,18,,,,,,,,,,5,,,,,"7",,,,2278,,,171,,,2600
+"Frozen Arrow",1,"sc/ui.sc","icon_gear_AQ_FreezeArrow","TID_GEAR_FROZEN_ARROW","TID_GEAR_INFO_FROZEN_ARROW",,"Archer Queen;","Common",,,1,1,"CommonOre","120","ArcherQueenAttackFreeze","1",,,,,,,35,"GearFrozenArrow",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"2",,,,,,,40,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"3",,,,,,,45,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"4",,,,,,,50,,,400
@@ -314,17 +287,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"15",,,,,,,117,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"16",,,,,,,122,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"17",,,,,,,127,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"18",,,,,,,132,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"19",,,,,,,136,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"20",,,,,,,140,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"21",,,,,,,144,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"22",,,,,,,148,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"23",,,,,,,152,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"24",,,,,,,156,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"25",,,,,,,160,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"26",,,,,,,164,,,4200
-,27,,,,,,,,,,9,,,,,"27",,,,,,,168,,,4700
-"UNUSED1",1,"sc/ui.sc","icon_gear_AQ_SuperArcherDoll","TID_GEAR_TITLE_SUPER_ARCHER_PUPPET","TID_GEAR_INFO_SUPER_ARCHER_PUPPET","TRUE","Archer Queen;","Epic","TRUE",,1,1,"CommonOre","120","AQSpawnSuperArchers","1",,,,150,,,24,,200,100
+,18,,,,,,,,,,5,,,,,"18",,,,,,,132,,,2600
+"UNUSED1",1,"sc/ui.sc","icon_gear_AQ_SuperArcherDoll","TID_GEAR_TITLE_SUPER_ARCHER_PUPPET","TID_GEAR_INFO_SUPER_ARCHER_PUPPET","TRUE","Archer Queen;","Common",,,1,1,"CommonOre","120","AQSpawnSuperArchers","1",,,,150,,,24,,200,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,160,,,28,,215,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,170,,,32,,230,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,180,,,36,,245,400
@@ -341,16 +305,7 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,290,,,80,,410,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,300,,,84,,425,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,310,,,88,,440,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,320,,,92,,455,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,330,,,96,,470,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,340,,,100,,485,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,350,,,104,,500,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,360,,,108,,515,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,370,,,112,,530,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,380,,,116,,545,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,390,,,120,,560,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,400,,,124,,575,4200
-,27,,,,,,,,,,9,,,,,"10",,,,410,,,128,,590,4700
+,18,,,,,,,,,,5,,,,,"7",,,,320,,,92,,455,2600
 "Piercing Arrow",1,"sc/ui.sc","icon_gear_AQ_MagicArrow","TID_GEAR_PIERCING_ARROW","TID_GEAR_INFO_PIERCING_ARROW",,"Archer Queen;","Common",,,2,1,"CommonOre","120","ArcherQueenPierceProjectile","1",,,,80,,,20,"GearPiercingArrow",,100
 ,2,,,,,,,,,,2,,"CommonOre","240",,"1",,,,93,,,23,,,200
 ,3,,,,,,,,,,2,,"CommonOre","400",,"2",,,,106,,,27,,,300
@@ -369,7 +324,7 @@
 ,16,,,,,,,,,,7,,"CommonOre","2600",,"6",,,,496,,,114,,,2000
 ,17,,,,,,,,,,7,,"CommonOre","2700",,"6",,,,539,,,123,,,2100
 ,18,,,,,,,,,,7,,,,,"7",,,,581,,,132,,,2600
-"UNUSED2",1,"sc/ui.sc","icon_spell_freeze","TID_GEAR_TITLE_LIGHT_BOMB","TID_GEAR_INFO_LIGHT_BOMB","TRUE","Archer Queen;","Epic","TRUE",,1,1,"CommonOre","120","AQLightBomb","1",,,,150,,,24,,200,100
+"UNUSED2",1,"sc/ui.sc","icon_spell_freeze","TID_GEAR_TITLE_LIGHT_BOMB","TID_GEAR_INFO_LIGHT_BOMB","TRUE","Archer Queen;","Common",,,1,1,"CommonOre","120","AQLightBomb","1",,,,150,,,24,,200,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,160,,,28,,215,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,170,,,32,,230,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,180,,,36,,245,400
@@ -386,17 +341,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,290,,,80,,410,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,300,,,84,,425,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,310,,,88,,440,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,320,,,92,,455,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,330,,,96,,470,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,340,,,100,,485,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,350,,,104,,500,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,360,,,108,,515,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,370,,,112,,530,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,380,,,116,,545,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,390,,,120,,560,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,400,,,124,,575,4200
-,27,,,,,,,,,,9,,,,,"10",,,,410,,,128,,590,4700
-"Heroic Torch",1,"sc/ui.sc","icon_gear_BK_Torch","TID_GEAR_TITLE_HEROIC_TORCH","TID_GEAR_INFO_HEROIC_TORCH",,"Grand Warden;","Epic","TRUE",,1,1,"CommonOre","120","GWHeroicTorch","1",,,,150,,,24,"GearHeroicTorch",200,100
+,18,,,,,,,,,,5,,,,,"7",,,,320,,,92,,455,2600
+"Heroic Torch",1,"sc/ui.sc","icon_gear_BK_Torch","TID_GEAR_TITLE_HEROIC_TORCH","TID_GEAR_INFO_HEROIC_TORCH",,"Grand Warden;","Common",,,1,1,"CommonOre","120","GWHeroicTorch","1",,,,150,,,24,"GearHeroicTorch",200,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,160,,,28,,215,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,170,,,32,,230,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,180,,,36,,245,400
@@ -413,16 +359,7 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,290,,,80,,410,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,300,,,84,,425,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,310,,,88,,440,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,320,,,92,,455,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,330,,,96,,470,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,340,,,100,,485,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,350,,,104,,500,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,360,,,108,,515,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,370,,,112,,530,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,380,,,116,,545,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,390,,,120,,560,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,400,,,124,,575,4200
-,27,,,,,,,,,,9,,,,,"10",,,,410,,,128,,590,4700
+,18,,,,,,,,,,5,,,,,"7",,,,320,,,92,,455,2600
 "Healer Jar",1,"sc/ui.sc","icon_gear_AQ_HealerDoll","TID_GEAR_HEALER_JAR","TID_GEAR_INFO_HEALER_JAR",,"Archer Queen;","Common",,,5,1,"CommonOre","120","ArcherQueenSpawnHealers","1","Regeneration","1",,132,,,,"GearHealerJar",,100
 ,2,,,,,,,,,,5,,"CommonOre","240",,"1",,"2",,154,,,,,,200
 ,3,,,,,,,,,,5,,"CommonOre","400",,"2",,"3",,177,,,,,,300
@@ -442,7 +379,7 @@
 ,17,,,,,,,,,,7,,"CommonOre","2700",,"6",,"17",,897,,,,,,2100
 ,18,,,,,,,,,,7,,,,,"7",,"18",,968,,,,,,2600
 "UNUSED3",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Archer Queen;","Common",,,1,1,,,,,,,,,,,,,,
-"Fire in a Can",1,"sc/ui.sc","icon_gear_GW_FireSack","TID_GEAR_FIRE_IN_A_CAN","TID_GEAR_INFO_FIRE_IN_A_CAN",,"Grand Warden;","Epic","TRUE",,1,1,"CommonOre","120","GrandWardenFireball","1",,,,,,,21,"GearFireInCan",,100
+"Fire in a Can",1,"sc/ui.sc","icon_gear_GW_FireSack","TID_GEAR_FIRE_IN_A_CAN","TID_GEAR_INFO_FIRE_IN_A_CAN",,"Grand Warden;","Common",,,1,1,"CommonOre","120","GrandWardenFireball","1",,,,,,,21,"GearFireInCan",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"2",,,,,,,24,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"3",,,,,,,27,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"4",,,,,,,30,,,400
@@ -459,16 +396,7 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"15",,,,,,,71,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"16",,,,,,,74,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"17",,,,,,,77,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"18",,,,,,,80,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"19",,,,,,,82,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"20",,,,,,,84,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"21",,,,,,,87,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"22",,,,,,,89,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"23",,,,,,,92,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"24",,,,,,,94,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"25",,,,,,,96,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"26",,,,,,,99,,,4200
-,27,,,,,,,,,,9,,,,,"27",,,,,,,101,,,4700
+,18,,,,,,,,,,5,,,,,"18",,,,,,,80,,,2600
 "UNUSED4",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Grand Warden;","Common",,,1,1,,,,,,,,,,,,,,
 "Angry Tome",1,"sc/ui.sc","icon_gear_GW_RageGem","TID_GEAR_ANGRY_TOME","TID_GEAR_INFO_ANGRY_TOME",,"Grand Warden;","Common",,,4,1,"CommonOre","120","GrandWardenRageAura","1",,,,,,5,12,"GearAngryTome",,100
 ,2,,,,,,,,,,4,,"CommonOre","240",,"1",,,,,,6,14,,,200
@@ -495,7 +423,7 @@
 "UNUSED9",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,1,1,,,,,,,,,,,,,,
 "UNUSED10",1,"sc/ui.sc","icon_unit_a","TID_GEAR_HOG_TOTEM","TID_GEAR_INFO_HOG_TOTEM","TRUE","Warrior Princess;","Common",,,7,1,"CommonOre","120","RCEquipSpawnHogs","1",,,,,,5,,,150,
 "UNUSED11",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,1,1,,,,,,,,,,,,,,
-"UNUSED12",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Epic",,,1,1,,,"BarbarianKingSpawnOnTakeDamage","1",,,,,,,,,,
+"UNUSED12",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Barbarian King;","Common",,,1,1,,,"BarbarianKingSpawnOnTakeDamage","1",,,,,,,,,,
 "UNUSED13",1,"sc/ui.sc","icon_unit_a","TID_GEAR_TITLE_BARBARIAN_CROWN","TID_GEAR_INFO_BARBARIAN_CROWN","TRUE","Warrior Princess;","Common",,,6,1,,,"RoyalChampionElectrifiedShield","1",,,,,,,,,,
 "Healing Tome",1,"sc/ui.sc","icon_gear_GW_HeartTome","TID_GEAR_HEALING_TOME","TID_GEAR_INFO_HEALING_TOME",,"Grand Warden;","Common",,,6,1,"CommonOre","120","GrandWardenHealAura","1",,,,92,,,,"GearHealingTome",165,100
 ,2,,,,,,,,,,6,,"CommonOre","240",,"1",,,,107,,,,,193,200
@@ -535,7 +463,7 @@
 ,18,,,,,,,,,,7,,,,,"7",,,,920,,,,,2720,2600
 "UNUSED15",1,"sc/ui.sc","icon_unit_b","TID_GEAR_FOOTBALL_BOUNCE","TID_GEAR_FOOTBALL_BOUNCE_INFO","TRUE","Barbarian King;","Common",,,1,1,"CommonOre","120","THBounceFootball","1",,,,,,,,,,
 "UNUSED16",1,"sc/ui.sc","icon_unit_c","TID_GEAR_FOOTBALL_STRIKE","TID_GEAR_FOOTBALL_STRIKE_INFO","TRUE","Barbarian King;","Common",,,1,1,"CommonOre","120","THPierceFootball","1",,,,,,,,,,
-"UNUSED17",1,"sc/ui.sc","icon_unit_pet_phoenix","TID_GEAR_TITLE_PHOENIX_STICK","TID_GEAR_INFO_PHOENIX_STICK","TRUE","Grand Warden;","Epic","TRUE",,1,1,"CommonOre","120",,"1",,,,150,,,24,,,100
+"UNUSED17",1,"sc/ui.sc","icon_unit_pet_phoenix","TID_GEAR_TITLE_PHOENIX_STICK","TID_GEAR_INFO_PHOENIX_STICK","TRUE","Grand Warden;","Common",,,1,1,"CommonOre","120",,"1",,,,150,,,24,,,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,160,,,28,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,170,,,32,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,180,,,36,,,400
@@ -552,17 +480,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,290,,,80,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,300,,,84,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,310,,,88,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,320,,,92,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,330,,,96,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,340,,,100,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,350,,,104,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,360,,,108,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,370,,,112,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,380,,,116,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,390,,,120,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,400,,,124,,,4200
-,27,,,,,,,,,,9,,,,,"10",,,,410,,,128,,,4700
-"Magic Mirror",1,"sc/ui.sc","icon_gear_AQ_Mirror","TID_GEAR_TITLE_CLONING_CLOAK","TID_GEAR_INFO_CLONING_CLOAK",,"Archer Queen;","Epic","TRUE",,1,1,"CommonOre","120","AQCloningCloak","1",,,,88,,,,"GearCloningCloack",198,100
+,18,,,,,,,,,,5,,,,,"7",,,,320,,,92,,,2600
+"Magic Mirror",1,"sc/ui.sc","icon_gear_AQ_Mirror","TID_GEAR_TITLE_CLONING_CLOAK","TID_GEAR_INFO_CLONING_CLOAK",,"Archer Queen;","Common",,,1,1,"CommonOre","120","AQCloningCloak","1",,,,88,,,,"GearCloningCloack",198,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,,,96,,,,,229,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,,,113,,,,,250,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,,,131,,,,,271,400
@@ -579,17 +498,8 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,,,518,,,,,560,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,,,553,,,,,591,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,,,588,,,,,622,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,,,624,,,,,652,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,,,650,,,,,679,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,,,676,,,,,706,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,,,703,,,,,732,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,,,729,,,,,759,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,,,756,,,,,784,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,,,782,,,,,811,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,,,808,,,,,838,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,,,835,,,,,864,4200
-,27,,,,,,,,,,9,,,,,"10",,,,861,,,,,891,4700
-"Electro Boots",1,"sc/ui.sc","icon_gear_RC_ElectroBoots","TID_GEAR_ELECTRO_SHIELD","TID_GEAR_INFO_ELECTRO_SHIELD",,"Warrior Princess;","Epic","TRUE",,1,1,"CommonOre","1440","RCDamageAura","1","RCElectroRegeneration","1",,50,,,,"GearElectrifiedShield",,100
+,18,,,,,,,,,,5,,,,,"7",,,,624,,,,,652,2600
+"Electro Boots",1,"sc/ui.sc","icon_gear_RC_ElectroBoots","TID_GEAR_ELECTRO_SHIELD","TID_GEAR_INFO_ELECTRO_SHIELD",,"Warrior Princess;","Common",,,1,1,"CommonOre","1440","RCDamageAura","1","RCElectroRegeneration","1",,50,,,,"GearElectrifiedShield",,100
 ,2,,,,,,,,,,1,,"CommonOre","240",,"1",,"2",,75,,,,,,200
 ,3,,,,,,,,,,1,,"CommonOre","400",,"2",,"3",,100,,,,,,300
 ,4,,,,,,,,,,1,,"CommonOre","600",,"2",,"4",,125,,,,,,400
@@ -606,13 +516,4 @@
 ,15,,,,,,,,,,3,,"CommonOre","2500",,"6",,"15",,400,,,,,,1900
 ,16,,,,,,,,,,5,,"CommonOre","2600",,"6",,"16",,425,,,,,,2000
 ,17,,,,,,,,,,5,,"CommonOre","2700",,"6",,"17",,450,,,,,,2100
-,18,,,,,,,,,,5,,"CommonOre","2800",,"7",,"18",,475,,,,,,2600
-,19,,,,,,,,,,7,,"CommonOre","2900",,"7",,"19",,500,,,,,,2700
-,20,,,,,,,,,,7,,"CommonOre","3000",,"7",,"20",,525,,,,,,2800
-,21,,,,,,,,,,7,,"CommonOre","3100",,"8",,"21",,550,,,,,,3300
-,22,,,,,,,,,,8,,"CommonOre","3200",,"8",,"22",,575,,,,,,3400
-,23,,,,,,,,,,8,,"CommonOre","3300",,"8",,"23",,600,,,,,,3500
-,24,,,,,,,,,,8,,"CommonOre","3400",,"9",,"24",,625,,,,,,4000
-,25,,,,,,,,,,9,,"CommonOre","3500",,"9",,"25",,650,,,,,,4100
-,26,,,,,,,,,,9,,"CommonOre","3600",,"9",,"26",,675,,,,,,4200
-,27,,,,,,,,,,9,,,,,"10",,"27",,700,,,,,,4700
+,18,,,,,,,,,,5,,,,,"7",,"18",,475,,,,,,2600

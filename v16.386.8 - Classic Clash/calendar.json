@@ -13,7 +13,7 @@
 			"visibleEndTime": "19700101T000000.000Z",
 			"eventEntryName": "CustomSCLoading",
 			"items": [
-				{"deliverable": {"type": "1", "resource": "3000000", "resourceAmount": 50000}, "cost": 750},
+				{"deliverable": {"type": "1", "resource": "3000000", "resourceAmount": 50000}, "cost": 1000},
 				{"deliverable": {"type": "1", "resource": "3000001", "resourceAmount": 5000000}, "cost": 25},
 				{"deliverable": {"type": "1", "resource": "3000002", "resourceAmount": 5000000}, "cost": 25},
 				{"deliverable": {"type": "1", "resource": "3000007", "resourceAmount": 5000000}, "cost": 25},

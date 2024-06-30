@@ -14,7 +14,7 @@
 "EpicWinter",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Cny2021",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Jungle","HOME",,,"TRUE",14,,"TID_SCENERY_JUNGLE","sc/scenery_th14_dl_opt.sc",,,"Player_Background",,,,,,"image/background_icons/scenery_basic_jungle.ktx",,,"image/background_icons/jungle_bgr_image_dl_opt.ktx",,,,,,,,,,,,,,,,,,,,
-"EpicJungle",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"JungleDark","HOME",,,"TRUE",14,,"Night Jungle","sc/scenery_th14_dl_opt.sc",,,"Player_Background",,,,,,"image/background_icons/scenery_basic_jungle.ktx",,,"image/background_icons/jungle_bgr_image_dl_opt.ktx",,,,,"TRUE",,,,,,,,,,,,,,,
 "WarMake",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "Festival",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 "SpookyVillage",,"TRUE",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
