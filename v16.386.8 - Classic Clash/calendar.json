@@ -35,11 +35,11 @@
 				{"item": "3000000", "amount": 25000, "start": 0, "end": 10080}
 			],
 			"offer": [
-				{"item": "3000001", "amount": 2500000, "maxBuys": 5, "cost": 300},
-				{"item": "3000002", "amount": 2500000, "maxBuys": 5, "cost": 300},
-				{"item": "3000003", "amount": 25000, "maxBuys": 5, "cost": 300},
-				{"item": "3000007", "amount": 1000000, "maxBuys": 5, "cost": 250},
-				{"item": "3000008", "amount": 1000000, "maxBuys": 5, "cost": 250}
+				{"item": "3000001", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000002", "amount": 2500000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000003", "amount": 25000, "maxBuys": 1000, "cost": 300},
+				{"item": "3000007", "amount": 1000000, "maxBuys": 1000, "cost": 250},
+				{"item": "3000008", "amount": 1000000, "maxBuys": 1000, "cost": 250}
 			],
 			"capital": [
 				{"item": "3000001", "amount": 2500000, "maxBuys": 1000, "cost": 300},
@@ -73,31 +73,31 @@
 		},
 		{
 			"type": 6,
-			"id": 57307,
+			"id": 59612,
 			"version": 1,
 			"variantId": 0,
 			"eventPriority": 0,
 			"impressionId": 1,
-			"visibleTime": "20240601T080000.000Z",
-			"startTime": "20240601T080000.000Z",
-			"endTime": "20250701T080000.000Z",
-			"visibleEndTime": "20240701T080000.000Z",
+			"visibleTime": "20240701T080000.000Z",
+			"startTime": "20240701T080000.000Z",
+			"endTime": "20240801T080000.000Z",
+			"visibleEndTime": "20240801T080000.000Z",
 			"scFile": {
-				"Path": "/741312cb-f348-41ed-8537-0fc9a851c546_loading_wildwest_2024.sc",
-				"ChecksumSha1": "e2292ad9a8374b9f9cac0d6ff7000ce9335ef406"
+				"Path": "/58cc67ff-7f39-4e63-87d6-6eeb687b2c0b_loading_clashgames_2024.sc",
+				"ChecksumSha1": "f07d76f0fa7d17c60d5d1c32ee9b4b0f7754b073"
 			},
-			"logoAlign": "2"
+			"logoAlign": "1"
 		},
 		{
 			"type": 28,
-			"id": 57311,
+			"id": 59601,
 			"version": 1,
 			"variantId": 0,
 			"eventPriority": 0,
 			"impressionId": 1,
-			"visibleTime": "20240624T070100.000Z",
-			"startTime": "20240628T070000.000Z",
-			"endTime": "20240701T070000.000Z",
+			"visibleTime": "20240701T070100.000Z",
+			"startTime": "20240705T070000.000Z",
+			"endTime": "20240708T070000.000Z",
 			"visibleEndTime": "19700101T000000.000Z",
 			"eventEntryName": "CustomSCLoading",
 			"imageFile": {
